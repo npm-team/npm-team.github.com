@@ -1,0 +1,99 @@
+@import "mixins";
+@import "variables";
+
+
+
+/* SOCIAL STYLE CLASSES 
+ * -------------------------- */
+
+/* FA based classes */
+
+/*! Useful brand and social color styles and effects with CSS classes - PIXEDEN
+ *  v.1.1.0
+ *  License - (CSS: MIT License)
+ */
+
+/* Social font colors if applicable & hover */
+
+@each $social in $socials {
+  .pe-color#{nth($social,1)}, .pe-hover#{nth($social,1)}:hover {
+    color:nth($social,2);
+  }
+}
+
+
+/* Background styles */
+
+.pe-bg {
+	background-color: #000; /* default color */
+	color: #fff;
+	
+	$factor: (18em / 11);
+	width: $factor;
+	height: $factor;
+	line-height: $factor;
+  text-align: center;
+	
+
+	&.pe-hover {
+		background-color: transparent;
+		color:inherit;
+		&:hover {
+			background-color: #000;
+			color: #fff;
+		}
+	}
+
+
+	@each $social in $socials {
+	  &:not(.pe-hover)#{nth($social,1)}, &.pe-hover#{nth($social,1)}:hover {
+	    background-color:nth($social,2);
+	  }
+	}
+
+	
+}
+
+
+
+.pe-bg-rd { border-radius: 6px; }
+
+.pe-bg-cl, .pe-bg-cl:hover  {	border-radius: 100%; }
+
+
+
+/* add padding for small width icons */
+.pe-pad { padding: 0px 0.15em; }
+
+
+
+
+
+
+
+
+
+
+
+/* List for social links */
+
+.pe-social {
+	margin-bottom: 0;
+	padding-left: 0;
+	list-style: none;
+	li {
+		padding: 0px 5px;
+		display: inline-block;
+		vertical-align: middle;
+	}
+}
+
+.pe-vertical li {
+	padding: 5px;
+	display: block;
+}
+
+.pe-social a {
+	display: inline-block;
+	color: #000; /* Default black color for social links */
+}

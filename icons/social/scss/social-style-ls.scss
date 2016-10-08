@@ -1,0 +1,37 @@
+@import "mixins";
+@import "variables";
+
+
+
+/* SOCIAL STYLE CLASSES 
+ * -------------------------- */
+
+/* FA based classes */
+
+/*! Useful brand and social color styles and effects with CSS classes - PIXEDEN
+ *  v.1.1.0
+ *  License - (CSS: MIT License)
+ */
+
+
+
+
+ .pe-bg {
+	
+	overflow: hidden; 
+
+	@each $social in $socials {
+		&.pe-longshadow.pe-hover#{nth($social,1)} { text-shadow: none; }
+	  &.pe-longshadow#{nth($social,1)}, &.pe-longshadow.pe-hover#{nth($social,1)}:hover {
+			/* *
+			 * *
+			 * *    Long shadow style for the icon:
+			 * *    #{nth($social,1)}
+			 * *
+			 * */
+	    @include long-shadow(text, darken(nth($social,2),10), 30);
+	  }
+	  
+	}
+	
+}

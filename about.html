@@ -1,0 +1,262 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>张雨辰爱王赛</title>
+	<link rel="shortcut icon" href="loveheart.ico">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<style type="text/css">
+		@font-face {
+			font-family: digit;
+			src: url('digital-7_mono.ttf') format("truetype");
+		}
+	</style>
+	<link href="css/default.css" type="text/css" rel="stylesheet">
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/garden.js"></script>
+    <script type="text/javascript" src="js/functionsabout.js"></script>
+</head>
+
+<body>
+    <div id="canvas"><canvas  id="myCanvas" width="500px" height="500px"></canvas>
+		</div>
+	<div id="mainDiv">
+
+		<div id="content">
+
+			<div id="code">
+
+				<span class="comments">认识你是我的小幸运,</span><br /><br/>
+				<span class="comments">无意中看到你的笑脸,直接刺穿了我的心</span><br /><br/>
+				<span class="comments">2016年, 6月, 13号,我遇见了你 </span><br /><br/>
+				<span class="comments">空了许久的心,突然住进了一个爱笑的眼睛</span><br /><br/>
+				<span class="comments">仿佛一直在冲我傻傻的笑</span><br /><br/>
+				<span class="comments">我看着这个笑脸，整个世界都变的美好了起来</span><br /><br/>
+				<span class="comments">我想我是喜欢上你了</span><br /><br/>
+				<span class="comments">你的笑对我来说就像灵丹妙药</span><br /><br/>
+				<span class="comments">能治愈我一切的不开心和烦恼</span><br /><br/>
+				<span class="comments">掏出手机看到的是你的笑脸，闭上眼睛还是</span><br /><br/>
+				<span class="comments">我多么希望能早点见到你,看到你真正的对我</span><br><br>
+				<span class="comments">笑一次，一次就好,我陪你去看天荒地老</span><br /><br/>
+
+
+			</div>
+			<div id="loveHeart">
+				<canvas id="garden"></canvas>
+				<div id="words">
+					<div id="messages">
+						王赛, 我想我是喜欢上你了
+						<div id="elapseClock"></div>
+					</div>
+					<div id="loveu">
+						Love u forever and ever.<br/>
+						<div class="signature">- 张雨辰</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="copyright">
+			Inspired by <a href="http://张雨辰爱王赛.top">FlowerPower</a> project.<br />
+			Copyright © 2016 <a href='http://张雨辰爱王赛.top'>zhangyuchen</a> 2015-forever
+		</div>
+	</div>
+
+	<script type="text/javascript">
+
+		var offsetX = $("#loveHeart").width() / 2;
+		var offsetY = $("#loveHeart").height() / 2 - 55;
+		var together = new Date();
+		together.setFullYear(2016,6,13);
+		together.setHours(20);
+		together.setMinutes(0);
+		together.setSeconds(0);
+		together.setMilliseconds(0);
+
+		if (!document.createElement('canvas').getContext) {
+			var msg = document.createElement("div");
+			msg.id = "errorMsg";
+			msg.innerHTML = "Your browser doesn't support HTML5!<br/>Recommend use Chrome 14+/IE 9+/Firefox 7+/Safari 4+";
+			document.body.appendChild(msg);
+			$("#code").css("display", "none")
+			$("#copyright").css("position", "absolute");
+			$("#copyright").css("bottom", "10px");
+		    document.execCommand("stop");
+		} else {
+			setTimeout(function () {
+				startHeartAnimation();
+			}, 5000);
+
+			timeElapse(together);
+			setInterval(function () {
+				timeElapse(together);
+			}, 500);
+
+			adjustCodePosition();
+			$("#code").typewriter();
+		}
+	</script>
+	<!--//开头爱心动画-->
+	<SCRIPT type=text/javascript>
+		var
+  NUM = 500,
+  SIZE = 0.01,
+  SPEED = 0.03,
+  SCREEN_ROTATION = 0.2,
+
+  canvas = document.getElementById("myCanvas");
+  function lick(){
+	    $("#myCanvas").hide();
+}
+window.setTimeout("lick()",3600);
+  ctx = canvas.getContext('2d');
+
+function Matrix3() {}
+
+Matrix3.prototype = {
+  0: 1,
+  1: 0,
+  2: 0,
+  3: 0,
+  4: 1,
+  5: 0,
+  6: 0,
+  7: 0,
+  8: 1,
+  mul: function() {
+    var a = this,
+      b = arguments,
+      c = new Matrix3();
+
+    c[0] = a[0] * b[0] + a[1] * b[3] + a[2] * b[6];
+    c[1] = a[0] * b[1] + a[1] * b[4] + a[2] * b[7];
+    c[2] = a[0] * b[2] + a[1] * b[5] + a[2] * b[8];
+    c[3] = a[3] * b[0] + a[4] * b[3] + a[5] * b[6];
+    c[4] = a[3] * b[1] + a[4] * b[4] + a[5] * b[7];
+    c[5] = a[3] * b[2] + a[4] * b[5] + a[5] * b[8];
+    c[6] = a[6] * b[0] + a[7] * b[3] + a[8] * b[6];
+    c[7] = a[6] * b[1] + a[7] * b[4] + a[8] * b[7];
+    c[8] = a[6] * b[2] + a[7] * b[5] + a[8] * b[8];
+
+    return c;
+  },
+
+  rx: function(t) {
+    var c = Math.cos(t),
+      s = Math.sin(t);
+    return this.mul(1, 0, 0, 0, c, -s, 0, s, c);
+  },
+
+  ry: function(t) {
+    var c = Math.cos(t),
+      s = Math.sin(t);
+    return this.mul(c, 0, s, 0, 1, 0, -s, 0, c);
+  },
+
+  rz: function(t) {
+    var c = Math.cos(t),
+      s = Math.sin(t);
+    return this.mul(c, -s, 0, s, c, 0, 0, 0, 1);
+  }
+};
+
+function Point3d() {}
+
+Point3d.prototype = {
+  x: 0,
+  y: 0,
+  z: 0,
+
+  rotate: function(m) {
+    var p = new Point3d();
+
+    p.x = m[0] * this.x + m[1] * this.y + m[2] * this.z;
+    p.y = m[3] * this.x + m[4] * this.y + m[5] * this.z;
+    p.z = m[6] * this.x + m[7] * this.y + m[8] * this.z;
+
+    return p;
+  }
+};
+
+function random(n) {
+  for (var i = 0; i < 6; i++) {
+    n ^= n << 3;
+    n ^= n >> 2;
+  }
+  return (n & 0xffffff) / 0x1000000;
+}
+
+function draw(ctx) {
+  var
+    i, j, k = 1 + 1 / NUM,
+    p, grad,
+    t = new Date() / 1000,
+    r = new Matrix3().ry(-t * 0.123).rx(0.8).rz(SCREEN_ROTATION);
+
+  for (i = 0; i < NUM; i++) {
+    j = t * SPEED + i * k;
+
+    p = new Point3d();
+    p.x = random(j);
+    p.y = j % 1;
+    p.z = random(j + 10000);
+    p.x -= 0.5;
+    p.y -= 0.5;
+    p.z -= 0.5;
+    p.y *= -5;
+    p = p.rotate(r);
+    p.x += Math.sin(t * 0.1 + i) * 0.2;
+    p.z += 0.5;
+
+    if (p.z <= 0) continue;
+
+    ctx.save();
+    ctx.globalAlpha *= 1 / (p.z + 0.6);
+    ctx.translate(p.x / p.z, p.y / p.z);
+    ctx.scale(SIZE / p.z, SIZE / p.z);
+    ctx.rotate(SCREEN_ROTATION);
+
+    grad = ctx.createRadialGradient(0, -0.4, 0, 0, -0.4, 4);
+    grad.addColorStop(0, 'pink');
+    grad.addColorStop(1, 'red');
+
+    ctx.fillStyle = grad;
+    ctx.beginPath();
+    ctx.moveTo(0, 1.8);
+    ctx.quadraticCurveTo(2, 0, 2, -1);
+    ctx.quadraticCurveTo(2, -2, 1, -2);
+    ctx.quadraticCurveTo(0, -2, 0, -1);
+    ctx.quadraticCurveTo(0, -2, -1, -2);
+    ctx.quadraticCurveTo(-2, -2, -2, -1);
+    ctx.quadraticCurveTo(-2, 0, 0, 1.8);
+    ctx.fill();
+
+    ctx.restore();
+  }
+}
+
+function loop() {
+  var scale = Math.max(canvas.width, canvas.height);
+
+  ctx.fillStyle = 'snow';
+  ctx.fillRect(0, 0, canvas.width, canvas.width);
+
+  ctx.save();
+  ctx.translate(canvas.width * 0.5, canvas.height*0.5);
+  ctx.scale(scale, scale);
+
+  draw(ctx);
+
+  ctx.restore();
+}
+
+addEventListener('resize', function resize() {
+  canvas.width = document.documentElement.clientWidth;
+  canvas.height = document.documentElement.clientHeight;
+  loop();
+  return resize;
+}(), false);
+
+setInterval(loop, 16);
+	</SCRIPT>
+
+</body>
+</html>

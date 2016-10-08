@@ -1,0 +1,1212 @@
+/* SOCIAL STYLE CLASSES 
+ * -------------------------- */
+/* FA based classes */
+/*! Useful brand and social color styles and effects with CSS classes - PIXEDEN
+ *  v.1.1.2
+ *  License - (CSS: MIT License)
+ */
+.pe-bg {
+  overflow: hidden;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-500px {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-500px, .pe-bg.pe-longshadow.pe-hover.pe-so-500px:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-500px
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-aim {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-aim, .pe-bg.pe-longshadow.pe-hover.pe-so-aim:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-aim
+   * *
+   * */
+  text-shadow: 0px 0px 0 #db7e07,1px 1px 0 #db7e07,2px 2px 0 #db7e07,3px 3px 0 #db7e07,4px 4px 0 #db7e07,5px 5px 0 #db7e07,6px 6px 0 #db7e07,7px 7px 0 #db7e07,8px 8px 0 #db7e07,9px 9px 0 #db7e07,10px 10px 0 #db7e07,11px 11px 0 #db7e07,12px 12px 0 #db7e07,13px 13px 0 #db7e07,14px 14px 0 #db7e07,15px 15px 0 #db7e07,16px 16px 0 #db7e07,17px 17px 0 #db7e07,18px 18px 0 #db7e07,19px 19px 0 #db7e07,20px 20px 0 #db7e07,21px 21px 0 #db7e07,22px 22px 0 #db7e07,23px 23px 0 #db7e07,24px 24px 0 #db7e07,25px 25px 0 #db7e07,26px 26px 0 #db7e07,27px 27px 0 #db7e07,28px 28px 0 #db7e07,1px 1px 0 rgba(219, 126, 7, 0.96667),2px 2px 0 rgba(219, 126, 7, 0.93333),3px 3px 0 rgba(219, 126, 7, 0.9),4px 4px 0 rgba(219, 126, 7, 0.86667),5px 5px 0 rgba(219, 126, 7, 0.83333),6px 6px 0 rgba(219, 126, 7, 0.8),7px 7px 0 rgba(219, 126, 7, 0.76667),8px 8px 0 rgba(219, 126, 7, 0.73333),9px 9px 0 rgba(219, 126, 7, 0.7),10px 10px 0 rgba(219, 126, 7, 0.66667),11px 11px 0 rgba(219, 126, 7, 0.63333),12px 12px 0 rgba(219, 126, 7, 0.6),13px 13px 0 rgba(219, 126, 7, 0.56667),14px 14px 0 rgba(219, 126, 7, 0.53333),15px 15px 0 rgba(219, 126, 7, 0.5),16px 16px 0 rgba(219, 126, 7, 0.46667),17px 17px 0 rgba(219, 126, 7, 0.43333),18px 18px 0 rgba(219, 126, 7, 0.4),19px 19px 0 rgba(219, 126, 7, 0.36667),20px 20px 0 rgba(219, 126, 7, 0.33333),21px 21px 0 rgba(219, 126, 7, 0.3),22px 22px 0 rgba(219, 126, 7, 0.26667),23px 23px 0 rgba(219, 126, 7, 0.23333),24px 24px 0 rgba(219, 126, 7, 0.2),25px 25px 0 rgba(219, 126, 7, 0.16667),26px 26px 0 rgba(219, 126, 7, 0.13333),27px 27px 0 rgba(219, 126, 7, 0.1),28px 28px 0 rgba(219, 126, 7, 0.06667),30px 30px 0 rgba(219, 126, 7, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-amazon {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-amazon, .pe-bg.pe-longshadow.pe-hover.pe-so-amazon:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-amazon
+   * *
+   * */
+  text-shadow: 0px 0px 0 #db7e07,1px 1px 0 #db7e07,2px 2px 0 #db7e07,3px 3px 0 #db7e07,4px 4px 0 #db7e07,5px 5px 0 #db7e07,6px 6px 0 #db7e07,7px 7px 0 #db7e07,8px 8px 0 #db7e07,9px 9px 0 #db7e07,10px 10px 0 #db7e07,11px 11px 0 #db7e07,12px 12px 0 #db7e07,13px 13px 0 #db7e07,14px 14px 0 #db7e07,15px 15px 0 #db7e07,16px 16px 0 #db7e07,17px 17px 0 #db7e07,18px 18px 0 #db7e07,19px 19px 0 #db7e07,20px 20px 0 #db7e07,21px 21px 0 #db7e07,22px 22px 0 #db7e07,23px 23px 0 #db7e07,24px 24px 0 #db7e07,25px 25px 0 #db7e07,26px 26px 0 #db7e07,27px 27px 0 #db7e07,28px 28px 0 #db7e07,1px 1px 0 rgba(219, 126, 7, 0.96667),2px 2px 0 rgba(219, 126, 7, 0.93333),3px 3px 0 rgba(219, 126, 7, 0.9),4px 4px 0 rgba(219, 126, 7, 0.86667),5px 5px 0 rgba(219, 126, 7, 0.83333),6px 6px 0 rgba(219, 126, 7, 0.8),7px 7px 0 rgba(219, 126, 7, 0.76667),8px 8px 0 rgba(219, 126, 7, 0.73333),9px 9px 0 rgba(219, 126, 7, 0.7),10px 10px 0 rgba(219, 126, 7, 0.66667),11px 11px 0 rgba(219, 126, 7, 0.63333),12px 12px 0 rgba(219, 126, 7, 0.6),13px 13px 0 rgba(219, 126, 7, 0.56667),14px 14px 0 rgba(219, 126, 7, 0.53333),15px 15px 0 rgba(219, 126, 7, 0.5),16px 16px 0 rgba(219, 126, 7, 0.46667),17px 17px 0 rgba(219, 126, 7, 0.43333),18px 18px 0 rgba(219, 126, 7, 0.4),19px 19px 0 rgba(219, 126, 7, 0.36667),20px 20px 0 rgba(219, 126, 7, 0.33333),21px 21px 0 rgba(219, 126, 7, 0.3),22px 22px 0 rgba(219, 126, 7, 0.26667),23px 23px 0 rgba(219, 126, 7, 0.23333),24px 24px 0 rgba(219, 126, 7, 0.2),25px 25px 0 rgba(219, 126, 7, 0.16667),26px 26px 0 rgba(219, 126, 7, 0.13333),27px 27px 0 rgba(219, 126, 7, 0.1),28px 28px 0 rgba(219, 126, 7, 0.06667),30px 30px 0 rgba(219, 126, 7, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-android {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-android, .pe-bg.pe-longshadow.pe-hover.pe-so-android:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-android
+   * *
+   * */
+  text-shadow: 0px 0px 0 #8b9a34,1px 1px 0 #8b9a34,2px 2px 0 #8b9a34,3px 3px 0 #8b9a34,4px 4px 0 #8b9a34,5px 5px 0 #8b9a34,6px 6px 0 #8b9a34,7px 7px 0 #8b9a34,8px 8px 0 #8b9a34,9px 9px 0 #8b9a34,10px 10px 0 #8b9a34,11px 11px 0 #8b9a34,12px 12px 0 #8b9a34,13px 13px 0 #8b9a34,14px 14px 0 #8b9a34,15px 15px 0 #8b9a34,16px 16px 0 #8b9a34,17px 17px 0 #8b9a34,18px 18px 0 #8b9a34,19px 19px 0 #8b9a34,20px 20px 0 #8b9a34,21px 21px 0 #8b9a34,22px 22px 0 #8b9a34,23px 23px 0 #8b9a34,24px 24px 0 #8b9a34,25px 25px 0 #8b9a34,26px 26px 0 #8b9a34,27px 27px 0 #8b9a34,28px 28px 0 #8b9a34,1px 1px 0 rgba(139, 154, 52, 0.96667),2px 2px 0 rgba(139, 154, 52, 0.93333),3px 3px 0 rgba(139, 154, 52, 0.9),4px 4px 0 rgba(139, 154, 52, 0.86667),5px 5px 0 rgba(139, 154, 52, 0.83333),6px 6px 0 rgba(139, 154, 52, 0.8),7px 7px 0 rgba(139, 154, 52, 0.76667),8px 8px 0 rgba(139, 154, 52, 0.73333),9px 9px 0 rgba(139, 154, 52, 0.7),10px 10px 0 rgba(139, 154, 52, 0.66667),11px 11px 0 rgba(139, 154, 52, 0.63333),12px 12px 0 rgba(139, 154, 52, 0.6),13px 13px 0 rgba(139, 154, 52, 0.56667),14px 14px 0 rgba(139, 154, 52, 0.53333),15px 15px 0 rgba(139, 154, 52, 0.5),16px 16px 0 rgba(139, 154, 52, 0.46667),17px 17px 0 rgba(139, 154, 52, 0.43333),18px 18px 0 rgba(139, 154, 52, 0.4),19px 19px 0 rgba(139, 154, 52, 0.36667),20px 20px 0 rgba(139, 154, 52, 0.33333),21px 21px 0 rgba(139, 154, 52, 0.3),22px 22px 0 rgba(139, 154, 52, 0.26667),23px 23px 0 rgba(139, 154, 52, 0.23333),24px 24px 0 rgba(139, 154, 52, 0.2),25px 25px 0 rgba(139, 154, 52, 0.16667),26px 26px 0 rgba(139, 154, 52, 0.13333),27px 27px 0 rgba(139, 154, 52, 0.1),28px 28px 0 rgba(139, 154, 52, 0.06667),30px 30px 0 rgba(139, 154, 52, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-app-store {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-app-store, .pe-bg.pe-longshadow.pe-hover.pe-so-app-store:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-app-store
+   * *
+   * */
+  text-shadow: 0px 0px 0 #0f75d9,1px 1px 0 #0f75d9,2px 2px 0 #0f75d9,3px 3px 0 #0f75d9,4px 4px 0 #0f75d9,5px 5px 0 #0f75d9,6px 6px 0 #0f75d9,7px 7px 0 #0f75d9,8px 8px 0 #0f75d9,9px 9px 0 #0f75d9,10px 10px 0 #0f75d9,11px 11px 0 #0f75d9,12px 12px 0 #0f75d9,13px 13px 0 #0f75d9,14px 14px 0 #0f75d9,15px 15px 0 #0f75d9,16px 16px 0 #0f75d9,17px 17px 0 #0f75d9,18px 18px 0 #0f75d9,19px 19px 0 #0f75d9,20px 20px 0 #0f75d9,21px 21px 0 #0f75d9,22px 22px 0 #0f75d9,23px 23px 0 #0f75d9,24px 24px 0 #0f75d9,25px 25px 0 #0f75d9,26px 26px 0 #0f75d9,27px 27px 0 #0f75d9,28px 28px 0 #0f75d9,1px 1px 0 rgba(15, 117, 217, 0.96667),2px 2px 0 rgba(15, 117, 217, 0.93333),3px 3px 0 rgba(15, 117, 217, 0.9),4px 4px 0 rgba(15, 117, 217, 0.86667),5px 5px 0 rgba(15, 117, 217, 0.83333),6px 6px 0 rgba(15, 117, 217, 0.8),7px 7px 0 rgba(15, 117, 217, 0.76667),8px 8px 0 rgba(15, 117, 217, 0.73333),9px 9px 0 rgba(15, 117, 217, 0.7),10px 10px 0 rgba(15, 117, 217, 0.66667),11px 11px 0 rgba(15, 117, 217, 0.63333),12px 12px 0 rgba(15, 117, 217, 0.6),13px 13px 0 rgba(15, 117, 217, 0.56667),14px 14px 0 rgba(15, 117, 217, 0.53333),15px 15px 0 rgba(15, 117, 217, 0.5),16px 16px 0 rgba(15, 117, 217, 0.46667),17px 17px 0 rgba(15, 117, 217, 0.43333),18px 18px 0 rgba(15, 117, 217, 0.4),19px 19px 0 rgba(15, 117, 217, 0.36667),20px 20px 0 rgba(15, 117, 217, 0.33333),21px 21px 0 rgba(15, 117, 217, 0.3),22px 22px 0 rgba(15, 117, 217, 0.26667),23px 23px 0 rgba(15, 117, 217, 0.23333),24px 24px 0 rgba(15, 117, 217, 0.2),25px 25px 0 rgba(15, 117, 217, 0.16667),26px 26px 0 rgba(15, 117, 217, 0.13333),27px 27px 0 rgba(15, 117, 217, 0.1),28px 28px 0 rgba(15, 117, 217, 0.06667),30px 30px 0 rgba(15, 117, 217, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-apple {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-apple, .pe-bg.pe-longshadow.pe-hover.pe-so-apple:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-apple
+   * *
+   * */
+  text-shadow: 0px 0px 0 #4d4d4d,1px 1px 0 #4d4d4d,2px 2px 0 #4d4d4d,3px 3px 0 #4d4d4d,4px 4px 0 #4d4d4d,5px 5px 0 #4d4d4d,6px 6px 0 #4d4d4d,7px 7px 0 #4d4d4d,8px 8px 0 #4d4d4d,9px 9px 0 #4d4d4d,10px 10px 0 #4d4d4d,11px 11px 0 #4d4d4d,12px 12px 0 #4d4d4d,13px 13px 0 #4d4d4d,14px 14px 0 #4d4d4d,15px 15px 0 #4d4d4d,16px 16px 0 #4d4d4d,17px 17px 0 #4d4d4d,18px 18px 0 #4d4d4d,19px 19px 0 #4d4d4d,20px 20px 0 #4d4d4d,21px 21px 0 #4d4d4d,22px 22px 0 #4d4d4d,23px 23px 0 #4d4d4d,24px 24px 0 #4d4d4d,25px 25px 0 #4d4d4d,26px 26px 0 #4d4d4d,27px 27px 0 #4d4d4d,28px 28px 0 #4d4d4d,1px 1px 0 rgba(77, 77, 77, 0.96667),2px 2px 0 rgba(77, 77, 77, 0.93333),3px 3px 0 rgba(77, 77, 77, 0.9),4px 4px 0 rgba(77, 77, 77, 0.86667),5px 5px 0 rgba(77, 77, 77, 0.83333),6px 6px 0 rgba(77, 77, 77, 0.8),7px 7px 0 rgba(77, 77, 77, 0.76667),8px 8px 0 rgba(77, 77, 77, 0.73333),9px 9px 0 rgba(77, 77, 77, 0.7),10px 10px 0 rgba(77, 77, 77, 0.66667),11px 11px 0 rgba(77, 77, 77, 0.63333),12px 12px 0 rgba(77, 77, 77, 0.6),13px 13px 0 rgba(77, 77, 77, 0.56667),14px 14px 0 rgba(77, 77, 77, 0.53333),15px 15px 0 rgba(77, 77, 77, 0.5),16px 16px 0 rgba(77, 77, 77, 0.46667),17px 17px 0 rgba(77, 77, 77, 0.43333),18px 18px 0 rgba(77, 77, 77, 0.4),19px 19px 0 rgba(77, 77, 77, 0.36667),20px 20px 0 rgba(77, 77, 77, 0.33333),21px 21px 0 rgba(77, 77, 77, 0.3),22px 22px 0 rgba(77, 77, 77, 0.26667),23px 23px 0 rgba(77, 77, 77, 0.23333),24px 24px 0 rgba(77, 77, 77, 0.2),25px 25px 0 rgba(77, 77, 77, 0.16667),26px 26px 0 rgba(77, 77, 77, 0.13333),27px 27px 0 rgba(77, 77, 77, 0.1),28px 28px 0 rgba(77, 77, 77, 0.06667),30px 30px 0 rgba(77, 77, 77, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-behance {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-behance, .pe-bg.pe-longshadow.pe-hover.pe-so-behance:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-behance
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-bitbucket {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-bitbucket, .pe-bg.pe-longshadow.pe-hover.pe-so-bitbucket:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-bitbucket
+   * *
+   * */
+  text-shadow: 0px 0px 0 #041d36,1px 1px 0 #041d36,2px 2px 0 #041d36,3px 3px 0 #041d36,4px 4px 0 #041d36,5px 5px 0 #041d36,6px 6px 0 #041d36,7px 7px 0 #041d36,8px 8px 0 #041d36,9px 9px 0 #041d36,10px 10px 0 #041d36,11px 11px 0 #041d36,12px 12px 0 #041d36,13px 13px 0 #041d36,14px 14px 0 #041d36,15px 15px 0 #041d36,16px 16px 0 #041d36,17px 17px 0 #041d36,18px 18px 0 #041d36,19px 19px 0 #041d36,20px 20px 0 #041d36,21px 21px 0 #041d36,22px 22px 0 #041d36,23px 23px 0 #041d36,24px 24px 0 #041d36,25px 25px 0 #041d36,26px 26px 0 #041d36,27px 27px 0 #041d36,28px 28px 0 #041d36,1px 1px 0 rgba(4, 29, 54, 0.96667),2px 2px 0 rgba(4, 29, 54, 0.93333),3px 3px 0 rgba(4, 29, 54, 0.9),4px 4px 0 rgba(4, 29, 54, 0.86667),5px 5px 0 rgba(4, 29, 54, 0.83333),6px 6px 0 rgba(4, 29, 54, 0.8),7px 7px 0 rgba(4, 29, 54, 0.76667),8px 8px 0 rgba(4, 29, 54, 0.73333),9px 9px 0 rgba(4, 29, 54, 0.7),10px 10px 0 rgba(4, 29, 54, 0.66667),11px 11px 0 rgba(4, 29, 54, 0.63333),12px 12px 0 rgba(4, 29, 54, 0.6),13px 13px 0 rgba(4, 29, 54, 0.56667),14px 14px 0 rgba(4, 29, 54, 0.53333),15px 15px 0 rgba(4, 29, 54, 0.5),16px 16px 0 rgba(4, 29, 54, 0.46667),17px 17px 0 rgba(4, 29, 54, 0.43333),18px 18px 0 rgba(4, 29, 54, 0.4),19px 19px 0 rgba(4, 29, 54, 0.36667),20px 20px 0 rgba(4, 29, 54, 0.33333),21px 21px 0 rgba(4, 29, 54, 0.3),22px 22px 0 rgba(4, 29, 54, 0.26667),23px 23px 0 rgba(4, 29, 54, 0.23333),24px 24px 0 rgba(4, 29, 54, 0.2),25px 25px 0 rgba(4, 29, 54, 0.16667),26px 26px 0 rgba(4, 29, 54, 0.13333),27px 27px 0 rgba(4, 29, 54, 0.1),28px 28px 0 rgba(4, 29, 54, 0.06667),30px 30px 0 rgba(4, 29, 54, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-blogger {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-blogger, .pe-bg.pe-longshadow.pe-hover.pe-so-blogger:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-blogger
+   * *
+   * */
+  text-shadow: 0px 0px 0 #d54d13,1px 1px 0 #d54d13,2px 2px 0 #d54d13,3px 3px 0 #d54d13,4px 4px 0 #d54d13,5px 5px 0 #d54d13,6px 6px 0 #d54d13,7px 7px 0 #d54d13,8px 8px 0 #d54d13,9px 9px 0 #d54d13,10px 10px 0 #d54d13,11px 11px 0 #d54d13,12px 12px 0 #d54d13,13px 13px 0 #d54d13,14px 14px 0 #d54d13,15px 15px 0 #d54d13,16px 16px 0 #d54d13,17px 17px 0 #d54d13,18px 18px 0 #d54d13,19px 19px 0 #d54d13,20px 20px 0 #d54d13,21px 21px 0 #d54d13,22px 22px 0 #d54d13,23px 23px 0 #d54d13,24px 24px 0 #d54d13,25px 25px 0 #d54d13,26px 26px 0 #d54d13,27px 27px 0 #d54d13,28px 28px 0 #d54d13,1px 1px 0 rgba(213, 77, 19, 0.96667),2px 2px 0 rgba(213, 77, 19, 0.93333),3px 3px 0 rgba(213, 77, 19, 0.9),4px 4px 0 rgba(213, 77, 19, 0.86667),5px 5px 0 rgba(213, 77, 19, 0.83333),6px 6px 0 rgba(213, 77, 19, 0.8),7px 7px 0 rgba(213, 77, 19, 0.76667),8px 8px 0 rgba(213, 77, 19, 0.73333),9px 9px 0 rgba(213, 77, 19, 0.7),10px 10px 0 rgba(213, 77, 19, 0.66667),11px 11px 0 rgba(213, 77, 19, 0.63333),12px 12px 0 rgba(213, 77, 19, 0.6),13px 13px 0 rgba(213, 77, 19, 0.56667),14px 14px 0 rgba(213, 77, 19, 0.53333),15px 15px 0 rgba(213, 77, 19, 0.5),16px 16px 0 rgba(213, 77, 19, 0.46667),17px 17px 0 rgba(213, 77, 19, 0.43333),18px 18px 0 rgba(213, 77, 19, 0.4),19px 19px 0 rgba(213, 77, 19, 0.36667),20px 20px 0 rgba(213, 77, 19, 0.33333),21px 21px 0 rgba(213, 77, 19, 0.3),22px 22px 0 rgba(213, 77, 19, 0.26667),23px 23px 0 rgba(213, 77, 19, 0.23333),24px 24px 0 rgba(213, 77, 19, 0.2),25px 25px 0 rgba(213, 77, 19, 0.16667),26px 26px 0 rgba(213, 77, 19, 0.13333),27px 27px 0 rgba(213, 77, 19, 0.1),28px 28px 0 rgba(213, 77, 19, 0.06667),30px 30px 0 rgba(213, 77, 19, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-codepen {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-codepen, .pe-bg.pe-longshadow.pe-hover.pe-so-codepen:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-codepen
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-css3 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-css3, .pe-bg.pe-longshadow.pe-hover.pe-so-css3:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-css3
+   * *
+   * */
+  text-shadow: 0px 0px 0 #3071a7,1px 1px 0 #3071a7,2px 2px 0 #3071a7,3px 3px 0 #3071a7,4px 4px 0 #3071a7,5px 5px 0 #3071a7,6px 6px 0 #3071a7,7px 7px 0 #3071a7,8px 8px 0 #3071a7,9px 9px 0 #3071a7,10px 10px 0 #3071a7,11px 11px 0 #3071a7,12px 12px 0 #3071a7,13px 13px 0 #3071a7,14px 14px 0 #3071a7,15px 15px 0 #3071a7,16px 16px 0 #3071a7,17px 17px 0 #3071a7,18px 18px 0 #3071a7,19px 19px 0 #3071a7,20px 20px 0 #3071a7,21px 21px 0 #3071a7,22px 22px 0 #3071a7,23px 23px 0 #3071a7,24px 24px 0 #3071a7,25px 25px 0 #3071a7,26px 26px 0 #3071a7,27px 27px 0 #3071a7,28px 28px 0 #3071a7,1px 1px 0 rgba(48, 113, 167, 0.96667),2px 2px 0 rgba(48, 113, 167, 0.93333),3px 3px 0 rgba(48, 113, 167, 0.9),4px 4px 0 rgba(48, 113, 167, 0.86667),5px 5px 0 rgba(48, 113, 167, 0.83333),6px 6px 0 rgba(48, 113, 167, 0.8),7px 7px 0 rgba(48, 113, 167, 0.76667),8px 8px 0 rgba(48, 113, 167, 0.73333),9px 9px 0 rgba(48, 113, 167, 0.7),10px 10px 0 rgba(48, 113, 167, 0.66667),11px 11px 0 rgba(48, 113, 167, 0.63333),12px 12px 0 rgba(48, 113, 167, 0.6),13px 13px 0 rgba(48, 113, 167, 0.56667),14px 14px 0 rgba(48, 113, 167, 0.53333),15px 15px 0 rgba(48, 113, 167, 0.5),16px 16px 0 rgba(48, 113, 167, 0.46667),17px 17px 0 rgba(48, 113, 167, 0.43333),18px 18px 0 rgba(48, 113, 167, 0.4),19px 19px 0 rgba(48, 113, 167, 0.36667),20px 20px 0 rgba(48, 113, 167, 0.33333),21px 21px 0 rgba(48, 113, 167, 0.3),22px 22px 0 rgba(48, 113, 167, 0.26667),23px 23px 0 rgba(48, 113, 167, 0.23333),24px 24px 0 rgba(48, 113, 167, 0.2),25px 25px 0 rgba(48, 113, 167, 0.16667),26px 26px 0 rgba(48, 113, 167, 0.13333),27px 27px 0 rgba(48, 113, 167, 0.1),28px 28px 0 rgba(48, 113, 167, 0.06667),30px 30px 0 rgba(48, 113, 167, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-deviantart-1 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-deviantart-1, .pe-bg.pe-longshadow.pe-hover.pe-so-deviantart-1:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-deviantart-1
+   * *
+   * */
+  text-shadow: 0px 0px 0 #9ca71e,1px 1px 0 #9ca71e,2px 2px 0 #9ca71e,3px 3px 0 #9ca71e,4px 4px 0 #9ca71e,5px 5px 0 #9ca71e,6px 6px 0 #9ca71e,7px 7px 0 #9ca71e,8px 8px 0 #9ca71e,9px 9px 0 #9ca71e,10px 10px 0 #9ca71e,11px 11px 0 #9ca71e,12px 12px 0 #9ca71e,13px 13px 0 #9ca71e,14px 14px 0 #9ca71e,15px 15px 0 #9ca71e,16px 16px 0 #9ca71e,17px 17px 0 #9ca71e,18px 18px 0 #9ca71e,19px 19px 0 #9ca71e,20px 20px 0 #9ca71e,21px 21px 0 #9ca71e,22px 22px 0 #9ca71e,23px 23px 0 #9ca71e,24px 24px 0 #9ca71e,25px 25px 0 #9ca71e,26px 26px 0 #9ca71e,27px 27px 0 #9ca71e,28px 28px 0 #9ca71e,1px 1px 0 rgba(156, 167, 30, 0.96667),2px 2px 0 rgba(156, 167, 30, 0.93333),3px 3px 0 rgba(156, 167, 30, 0.9),4px 4px 0 rgba(156, 167, 30, 0.86667),5px 5px 0 rgba(156, 167, 30, 0.83333),6px 6px 0 rgba(156, 167, 30, 0.8),7px 7px 0 rgba(156, 167, 30, 0.76667),8px 8px 0 rgba(156, 167, 30, 0.73333),9px 9px 0 rgba(156, 167, 30, 0.7),10px 10px 0 rgba(156, 167, 30, 0.66667),11px 11px 0 rgba(156, 167, 30, 0.63333),12px 12px 0 rgba(156, 167, 30, 0.6),13px 13px 0 rgba(156, 167, 30, 0.56667),14px 14px 0 rgba(156, 167, 30, 0.53333),15px 15px 0 rgba(156, 167, 30, 0.5),16px 16px 0 rgba(156, 167, 30, 0.46667),17px 17px 0 rgba(156, 167, 30, 0.43333),18px 18px 0 rgba(156, 167, 30, 0.4),19px 19px 0 rgba(156, 167, 30, 0.36667),20px 20px 0 rgba(156, 167, 30, 0.33333),21px 21px 0 rgba(156, 167, 30, 0.3),22px 22px 0 rgba(156, 167, 30, 0.26667),23px 23px 0 rgba(156, 167, 30, 0.23333),24px 24px 0 rgba(156, 167, 30, 0.2),25px 25px 0 rgba(156, 167, 30, 0.16667),26px 26px 0 rgba(156, 167, 30, 0.13333),27px 27px 0 rgba(156, 167, 30, 0.1),28px 28px 0 rgba(156, 167, 30, 0.06667),30px 30px 0 rgba(156, 167, 30, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-deviantart-2 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-deviantart-2, .pe-bg.pe-longshadow.pe-hover.pe-so-deviantart-2:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-deviantart-2
+   * *
+   * */
+  text-shadow: 0px 0px 0 #48a036,1px 1px 0 #48a036,2px 2px 0 #48a036,3px 3px 0 #48a036,4px 4px 0 #48a036,5px 5px 0 #48a036,6px 6px 0 #48a036,7px 7px 0 #48a036,8px 8px 0 #48a036,9px 9px 0 #48a036,10px 10px 0 #48a036,11px 11px 0 #48a036,12px 12px 0 #48a036,13px 13px 0 #48a036,14px 14px 0 #48a036,15px 15px 0 #48a036,16px 16px 0 #48a036,17px 17px 0 #48a036,18px 18px 0 #48a036,19px 19px 0 #48a036,20px 20px 0 #48a036,21px 21px 0 #48a036,22px 22px 0 #48a036,23px 23px 0 #48a036,24px 24px 0 #48a036,25px 25px 0 #48a036,26px 26px 0 #48a036,27px 27px 0 #48a036,28px 28px 0 #48a036,1px 1px 0 rgba(72, 160, 54, 0.96667),2px 2px 0 rgba(72, 160, 54, 0.93333),3px 3px 0 rgba(72, 160, 54, 0.9),4px 4px 0 rgba(72, 160, 54, 0.86667),5px 5px 0 rgba(72, 160, 54, 0.83333),6px 6px 0 rgba(72, 160, 54, 0.8),7px 7px 0 rgba(72, 160, 54, 0.76667),8px 8px 0 rgba(72, 160, 54, 0.73333),9px 9px 0 rgba(72, 160, 54, 0.7),10px 10px 0 rgba(72, 160, 54, 0.66667),11px 11px 0 rgba(72, 160, 54, 0.63333),12px 12px 0 rgba(72, 160, 54, 0.6),13px 13px 0 rgba(72, 160, 54, 0.56667),14px 14px 0 rgba(72, 160, 54, 0.53333),15px 15px 0 rgba(72, 160, 54, 0.5),16px 16px 0 rgba(72, 160, 54, 0.46667),17px 17px 0 rgba(72, 160, 54, 0.43333),18px 18px 0 rgba(72, 160, 54, 0.4),19px 19px 0 rgba(72, 160, 54, 0.36667),20px 20px 0 rgba(72, 160, 54, 0.33333),21px 21px 0 rgba(72, 160, 54, 0.3),22px 22px 0 rgba(72, 160, 54, 0.26667),23px 23px 0 rgba(72, 160, 54, 0.23333),24px 24px 0 rgba(72, 160, 54, 0.2),25px 25px 0 rgba(72, 160, 54, 0.16667),26px 26px 0 rgba(72, 160, 54, 0.13333),27px 27px 0 rgba(72, 160, 54, 0.1),28px 28px 0 rgba(72, 160, 54, 0.06667),30px 30px 0 rgba(72, 160, 54, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-digg {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-digg, .pe-bg.pe-longshadow.pe-hover.pe-so-digg:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-digg
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-dribbble {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-dribbble, .pe-bg.pe-longshadow.pe-hover.pe-so-dribbble:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-dribbble
+   * *
+   * */
+  text-shadow: 0px 0px 0 #e2206a,1px 1px 0 #e2206a,2px 2px 0 #e2206a,3px 3px 0 #e2206a,4px 4px 0 #e2206a,5px 5px 0 #e2206a,6px 6px 0 #e2206a,7px 7px 0 #e2206a,8px 8px 0 #e2206a,9px 9px 0 #e2206a,10px 10px 0 #e2206a,11px 11px 0 #e2206a,12px 12px 0 #e2206a,13px 13px 0 #e2206a,14px 14px 0 #e2206a,15px 15px 0 #e2206a,16px 16px 0 #e2206a,17px 17px 0 #e2206a,18px 18px 0 #e2206a,19px 19px 0 #e2206a,20px 20px 0 #e2206a,21px 21px 0 #e2206a,22px 22px 0 #e2206a,23px 23px 0 #e2206a,24px 24px 0 #e2206a,25px 25px 0 #e2206a,26px 26px 0 #e2206a,27px 27px 0 #e2206a,28px 28px 0 #e2206a,1px 1px 0 rgba(226, 32, 106, 0.96667),2px 2px 0 rgba(226, 32, 106, 0.93333),3px 3px 0 rgba(226, 32, 106, 0.9),4px 4px 0 rgba(226, 32, 106, 0.86667),5px 5px 0 rgba(226, 32, 106, 0.83333),6px 6px 0 rgba(226, 32, 106, 0.8),7px 7px 0 rgba(226, 32, 106, 0.76667),8px 8px 0 rgba(226, 32, 106, 0.73333),9px 9px 0 rgba(226, 32, 106, 0.7),10px 10px 0 rgba(226, 32, 106, 0.66667),11px 11px 0 rgba(226, 32, 106, 0.63333),12px 12px 0 rgba(226, 32, 106, 0.6),13px 13px 0 rgba(226, 32, 106, 0.56667),14px 14px 0 rgba(226, 32, 106, 0.53333),15px 15px 0 rgba(226, 32, 106, 0.5),16px 16px 0 rgba(226, 32, 106, 0.46667),17px 17px 0 rgba(226, 32, 106, 0.43333),18px 18px 0 rgba(226, 32, 106, 0.4),19px 19px 0 rgba(226, 32, 106, 0.36667),20px 20px 0 rgba(226, 32, 106, 0.33333),21px 21px 0 rgba(226, 32, 106, 0.3),22px 22px 0 rgba(226, 32, 106, 0.26667),23px 23px 0 rgba(226, 32, 106, 0.23333),24px 24px 0 rgba(226, 32, 106, 0.2),25px 25px 0 rgba(226, 32, 106, 0.16667),26px 26px 0 rgba(226, 32, 106, 0.13333),27px 27px 0 rgba(226, 32, 106, 0.1),28px 28px 0 rgba(226, 32, 106, 0.06667),30px 30px 0 rgba(226, 32, 106, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-dropbox {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-dropbox, .pe-bg.pe-longshadow.pe-hover.pe-so-dropbox:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-dropbox
+   * *
+   * */
+  text-shadow: 0px 0px 0 #186bb6,1px 1px 0 #186bb6,2px 2px 0 #186bb6,3px 3px 0 #186bb6,4px 4px 0 #186bb6,5px 5px 0 #186bb6,6px 6px 0 #186bb6,7px 7px 0 #186bb6,8px 8px 0 #186bb6,9px 9px 0 #186bb6,10px 10px 0 #186bb6,11px 11px 0 #186bb6,12px 12px 0 #186bb6,13px 13px 0 #186bb6,14px 14px 0 #186bb6,15px 15px 0 #186bb6,16px 16px 0 #186bb6,17px 17px 0 #186bb6,18px 18px 0 #186bb6,19px 19px 0 #186bb6,20px 20px 0 #186bb6,21px 21px 0 #186bb6,22px 22px 0 #186bb6,23px 23px 0 #186bb6,24px 24px 0 #186bb6,25px 25px 0 #186bb6,26px 26px 0 #186bb6,27px 27px 0 #186bb6,28px 28px 0 #186bb6,1px 1px 0 rgba(24, 107, 182, 0.96667),2px 2px 0 rgba(24, 107, 182, 0.93333),3px 3px 0 rgba(24, 107, 182, 0.9),4px 4px 0 rgba(24, 107, 182, 0.86667),5px 5px 0 rgba(24, 107, 182, 0.83333),6px 6px 0 rgba(24, 107, 182, 0.8),7px 7px 0 rgba(24, 107, 182, 0.76667),8px 8px 0 rgba(24, 107, 182, 0.73333),9px 9px 0 rgba(24, 107, 182, 0.7),10px 10px 0 rgba(24, 107, 182, 0.66667),11px 11px 0 rgba(24, 107, 182, 0.63333),12px 12px 0 rgba(24, 107, 182, 0.6),13px 13px 0 rgba(24, 107, 182, 0.56667),14px 14px 0 rgba(24, 107, 182, 0.53333),15px 15px 0 rgba(24, 107, 182, 0.5),16px 16px 0 rgba(24, 107, 182, 0.46667),17px 17px 0 rgba(24, 107, 182, 0.43333),18px 18px 0 rgba(24, 107, 182, 0.4),19px 19px 0 rgba(24, 107, 182, 0.36667),20px 20px 0 rgba(24, 107, 182, 0.33333),21px 21px 0 rgba(24, 107, 182, 0.3),22px 22px 0 rgba(24, 107, 182, 0.26667),23px 23px 0 rgba(24, 107, 182, 0.23333),24px 24px 0 rgba(24, 107, 182, 0.2),25px 25px 0 rgba(24, 107, 182, 0.16667),26px 26px 0 rgba(24, 107, 182, 0.13333),27px 27px 0 rgba(24, 107, 182, 0.1),28px 28px 0 rgba(24, 107, 182, 0.06667),30px 30px 0 rgba(24, 107, 182, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-drupal {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-drupal, .pe-bg.pe-longshadow.pe-hover.pe-so-drupal:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-drupal
+   * *
+   * */
+  text-shadow: 0px 0px 0 #103e62,1px 1px 0 #103e62,2px 2px 0 #103e62,3px 3px 0 #103e62,4px 4px 0 #103e62,5px 5px 0 #103e62,6px 6px 0 #103e62,7px 7px 0 #103e62,8px 8px 0 #103e62,9px 9px 0 #103e62,10px 10px 0 #103e62,11px 11px 0 #103e62,12px 12px 0 #103e62,13px 13px 0 #103e62,14px 14px 0 #103e62,15px 15px 0 #103e62,16px 16px 0 #103e62,17px 17px 0 #103e62,18px 18px 0 #103e62,19px 19px 0 #103e62,20px 20px 0 #103e62,21px 21px 0 #103e62,22px 22px 0 #103e62,23px 23px 0 #103e62,24px 24px 0 #103e62,25px 25px 0 #103e62,26px 26px 0 #103e62,27px 27px 0 #103e62,28px 28px 0 #103e62,1px 1px 0 rgba(16, 62, 98, 0.96667),2px 2px 0 rgba(16, 62, 98, 0.93333),3px 3px 0 rgba(16, 62, 98, 0.9),4px 4px 0 rgba(16, 62, 98, 0.86667),5px 5px 0 rgba(16, 62, 98, 0.83333),6px 6px 0 rgba(16, 62, 98, 0.8),7px 7px 0 rgba(16, 62, 98, 0.76667),8px 8px 0 rgba(16, 62, 98, 0.73333),9px 9px 0 rgba(16, 62, 98, 0.7),10px 10px 0 rgba(16, 62, 98, 0.66667),11px 11px 0 rgba(16, 62, 98, 0.63333),12px 12px 0 rgba(16, 62, 98, 0.6),13px 13px 0 rgba(16, 62, 98, 0.56667),14px 14px 0 rgba(16, 62, 98, 0.53333),15px 15px 0 rgba(16, 62, 98, 0.5),16px 16px 0 rgba(16, 62, 98, 0.46667),17px 17px 0 rgba(16, 62, 98, 0.43333),18px 18px 0 rgba(16, 62, 98, 0.4),19px 19px 0 rgba(16, 62, 98, 0.36667),20px 20px 0 rgba(16, 62, 98, 0.33333),21px 21px 0 rgba(16, 62, 98, 0.3),22px 22px 0 rgba(16, 62, 98, 0.26667),23px 23px 0 rgba(16, 62, 98, 0.23333),24px 24px 0 rgba(16, 62, 98, 0.2),25px 25px 0 rgba(16, 62, 98, 0.16667),26px 26px 0 rgba(16, 62, 98, 0.13333),27px 27px 0 rgba(16, 62, 98, 0.1),28px 28px 0 rgba(16, 62, 98, 0.06667),30px 30px 0 rgba(16, 62, 98, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-etsy {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-etsy, .pe-bg.pe-longshadow.pe-hover.pe-so-etsy:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-etsy
+   * *
+   * */
+  text-shadow: 0px 0px 0 #a15728,1px 1px 0 #a15728,2px 2px 0 #a15728,3px 3px 0 #a15728,4px 4px 0 #a15728,5px 5px 0 #a15728,6px 6px 0 #a15728,7px 7px 0 #a15728,8px 8px 0 #a15728,9px 9px 0 #a15728,10px 10px 0 #a15728,11px 11px 0 #a15728,12px 12px 0 #a15728,13px 13px 0 #a15728,14px 14px 0 #a15728,15px 15px 0 #a15728,16px 16px 0 #a15728,17px 17px 0 #a15728,18px 18px 0 #a15728,19px 19px 0 #a15728,20px 20px 0 #a15728,21px 21px 0 #a15728,22px 22px 0 #a15728,23px 23px 0 #a15728,24px 24px 0 #a15728,25px 25px 0 #a15728,26px 26px 0 #a15728,27px 27px 0 #a15728,28px 28px 0 #a15728,1px 1px 0 rgba(161, 87, 40, 0.96667),2px 2px 0 rgba(161, 87, 40, 0.93333),3px 3px 0 rgba(161, 87, 40, 0.9),4px 4px 0 rgba(161, 87, 40, 0.86667),5px 5px 0 rgba(161, 87, 40, 0.83333),6px 6px 0 rgba(161, 87, 40, 0.8),7px 7px 0 rgba(161, 87, 40, 0.76667),8px 8px 0 rgba(161, 87, 40, 0.73333),9px 9px 0 rgba(161, 87, 40, 0.7),10px 10px 0 rgba(161, 87, 40, 0.66667),11px 11px 0 rgba(161, 87, 40, 0.63333),12px 12px 0 rgba(161, 87, 40, 0.6),13px 13px 0 rgba(161, 87, 40, 0.56667),14px 14px 0 rgba(161, 87, 40, 0.53333),15px 15px 0 rgba(161, 87, 40, 0.5),16px 16px 0 rgba(161, 87, 40, 0.46667),17px 17px 0 rgba(161, 87, 40, 0.43333),18px 18px 0 rgba(161, 87, 40, 0.4),19px 19px 0 rgba(161, 87, 40, 0.36667),20px 20px 0 rgba(161, 87, 40, 0.33333),21px 21px 0 rgba(161, 87, 40, 0.3),22px 22px 0 rgba(161, 87, 40, 0.26667),23px 23px 0 rgba(161, 87, 40, 0.23333),24px 24px 0 rgba(161, 87, 40, 0.2),25px 25px 0 rgba(161, 87, 40, 0.16667),26px 26px 0 rgba(161, 87, 40, 0.13333),27px 27px 0 rgba(161, 87, 40, 0.1),28px 28px 0 rgba(161, 87, 40, 0.06667),30px 30px 0 rgba(161, 87, 40, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-evernote {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-evernote, .pe-bg.pe-longshadow.pe-hover.pe-so-evernote:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-evernote
+   * *
+   * */
+  text-shadow: 0px 0px 0 #6f9339,1px 1px 0 #6f9339,2px 2px 0 #6f9339,3px 3px 0 #6f9339,4px 4px 0 #6f9339,5px 5px 0 #6f9339,6px 6px 0 #6f9339,7px 7px 0 #6f9339,8px 8px 0 #6f9339,9px 9px 0 #6f9339,10px 10px 0 #6f9339,11px 11px 0 #6f9339,12px 12px 0 #6f9339,13px 13px 0 #6f9339,14px 14px 0 #6f9339,15px 15px 0 #6f9339,16px 16px 0 #6f9339,17px 17px 0 #6f9339,18px 18px 0 #6f9339,19px 19px 0 #6f9339,20px 20px 0 #6f9339,21px 21px 0 #6f9339,22px 22px 0 #6f9339,23px 23px 0 #6f9339,24px 24px 0 #6f9339,25px 25px 0 #6f9339,26px 26px 0 #6f9339,27px 27px 0 #6f9339,28px 28px 0 #6f9339,1px 1px 0 rgba(111, 147, 57, 0.96667),2px 2px 0 rgba(111, 147, 57, 0.93333),3px 3px 0 rgba(111, 147, 57, 0.9),4px 4px 0 rgba(111, 147, 57, 0.86667),5px 5px 0 rgba(111, 147, 57, 0.83333),6px 6px 0 rgba(111, 147, 57, 0.8),7px 7px 0 rgba(111, 147, 57, 0.76667),8px 8px 0 rgba(111, 147, 57, 0.73333),9px 9px 0 rgba(111, 147, 57, 0.7),10px 10px 0 rgba(111, 147, 57, 0.66667),11px 11px 0 rgba(111, 147, 57, 0.63333),12px 12px 0 rgba(111, 147, 57, 0.6),13px 13px 0 rgba(111, 147, 57, 0.56667),14px 14px 0 rgba(111, 147, 57, 0.53333),15px 15px 0 rgba(111, 147, 57, 0.5),16px 16px 0 rgba(111, 147, 57, 0.46667),17px 17px 0 rgba(111, 147, 57, 0.43333),18px 18px 0 rgba(111, 147, 57, 0.4),19px 19px 0 rgba(111, 147, 57, 0.36667),20px 20px 0 rgba(111, 147, 57, 0.33333),21px 21px 0 rgba(111, 147, 57, 0.3),22px 22px 0 rgba(111, 147, 57, 0.26667),23px 23px 0 rgba(111, 147, 57, 0.23333),24px 24px 0 rgba(111, 147, 57, 0.2),25px 25px 0 rgba(111, 147, 57, 0.16667),26px 26px 0 rgba(111, 147, 57, 0.13333),27px 27px 0 rgba(111, 147, 57, 0.1),28px 28px 0 rgba(111, 147, 57, 0.06667),30px 30px 0 rgba(111, 147, 57, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-facebook {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-facebook, .pe-bg.pe-longshadow.pe-hover.pe-so-facebook:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-facebook
+   * *
+   * */
+  text-shadow: 0px 0px 0 #2f4574,1px 1px 0 #2f4574,2px 2px 0 #2f4574,3px 3px 0 #2f4574,4px 4px 0 #2f4574,5px 5px 0 #2f4574,6px 6px 0 #2f4574,7px 7px 0 #2f4574,8px 8px 0 #2f4574,9px 9px 0 #2f4574,10px 10px 0 #2f4574,11px 11px 0 #2f4574,12px 12px 0 #2f4574,13px 13px 0 #2f4574,14px 14px 0 #2f4574,15px 15px 0 #2f4574,16px 16px 0 #2f4574,17px 17px 0 #2f4574,18px 18px 0 #2f4574,19px 19px 0 #2f4574,20px 20px 0 #2f4574,21px 21px 0 #2f4574,22px 22px 0 #2f4574,23px 23px 0 #2f4574,24px 24px 0 #2f4574,25px 25px 0 #2f4574,26px 26px 0 #2f4574,27px 27px 0 #2f4574,28px 28px 0 #2f4574,1px 1px 0 rgba(47, 69, 116, 0.96667),2px 2px 0 rgba(47, 69, 116, 0.93333),3px 3px 0 rgba(47, 69, 116, 0.9),4px 4px 0 rgba(47, 69, 116, 0.86667),5px 5px 0 rgba(47, 69, 116, 0.83333),6px 6px 0 rgba(47, 69, 116, 0.8),7px 7px 0 rgba(47, 69, 116, 0.76667),8px 8px 0 rgba(47, 69, 116, 0.73333),9px 9px 0 rgba(47, 69, 116, 0.7),10px 10px 0 rgba(47, 69, 116, 0.66667),11px 11px 0 rgba(47, 69, 116, 0.63333),12px 12px 0 rgba(47, 69, 116, 0.6),13px 13px 0 rgba(47, 69, 116, 0.56667),14px 14px 0 rgba(47, 69, 116, 0.53333),15px 15px 0 rgba(47, 69, 116, 0.5),16px 16px 0 rgba(47, 69, 116, 0.46667),17px 17px 0 rgba(47, 69, 116, 0.43333),18px 18px 0 rgba(47, 69, 116, 0.4),19px 19px 0 rgba(47, 69, 116, 0.36667),20px 20px 0 rgba(47, 69, 116, 0.33333),21px 21px 0 rgba(47, 69, 116, 0.3),22px 22px 0 rgba(47, 69, 116, 0.26667),23px 23px 0 rgba(47, 69, 116, 0.23333),24px 24px 0 rgba(47, 69, 116, 0.2),25px 25px 0 rgba(47, 69, 116, 0.16667),26px 26px 0 rgba(47, 69, 116, 0.13333),27px 27px 0 rgba(47, 69, 116, 0.1),28px 28px 0 rgba(47, 69, 116, 0.06667),30px 30px 0 rgba(47, 69, 116, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-firefox {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-firefox, .pe-bg.pe-longshadow.pe-hover.pe-so-firefox:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-firefox
+   * *
+   * */
+  text-shadow: 0px 0px 0 #d17a15,1px 1px 0 #d17a15,2px 2px 0 #d17a15,3px 3px 0 #d17a15,4px 4px 0 #d17a15,5px 5px 0 #d17a15,6px 6px 0 #d17a15,7px 7px 0 #d17a15,8px 8px 0 #d17a15,9px 9px 0 #d17a15,10px 10px 0 #d17a15,11px 11px 0 #d17a15,12px 12px 0 #d17a15,13px 13px 0 #d17a15,14px 14px 0 #d17a15,15px 15px 0 #d17a15,16px 16px 0 #d17a15,17px 17px 0 #d17a15,18px 18px 0 #d17a15,19px 19px 0 #d17a15,20px 20px 0 #d17a15,21px 21px 0 #d17a15,22px 22px 0 #d17a15,23px 23px 0 #d17a15,24px 24px 0 #d17a15,25px 25px 0 #d17a15,26px 26px 0 #d17a15,27px 27px 0 #d17a15,28px 28px 0 #d17a15,1px 1px 0 rgba(209, 122, 21, 0.96667),2px 2px 0 rgba(209, 122, 21, 0.93333),3px 3px 0 rgba(209, 122, 21, 0.9),4px 4px 0 rgba(209, 122, 21, 0.86667),5px 5px 0 rgba(209, 122, 21, 0.83333),6px 6px 0 rgba(209, 122, 21, 0.8),7px 7px 0 rgba(209, 122, 21, 0.76667),8px 8px 0 rgba(209, 122, 21, 0.73333),9px 9px 0 rgba(209, 122, 21, 0.7),10px 10px 0 rgba(209, 122, 21, 0.66667),11px 11px 0 rgba(209, 122, 21, 0.63333),12px 12px 0 rgba(209, 122, 21, 0.6),13px 13px 0 rgba(209, 122, 21, 0.56667),14px 14px 0 rgba(209, 122, 21, 0.53333),15px 15px 0 rgba(209, 122, 21, 0.5),16px 16px 0 rgba(209, 122, 21, 0.46667),17px 17px 0 rgba(209, 122, 21, 0.43333),18px 18px 0 rgba(209, 122, 21, 0.4),19px 19px 0 rgba(209, 122, 21, 0.36667),20px 20px 0 rgba(209, 122, 21, 0.33333),21px 21px 0 rgba(209, 122, 21, 0.3),22px 22px 0 rgba(209, 122, 21, 0.26667),23px 23px 0 rgba(209, 122, 21, 0.23333),24px 24px 0 rgba(209, 122, 21, 0.2),25px 25px 0 rgba(209, 122, 21, 0.16667),26px 26px 0 rgba(209, 122, 21, 0.13333),27px 27px 0 rgba(209, 122, 21, 0.1),28px 28px 0 rgba(209, 122, 21, 0.06667),30px 30px 0 rgba(209, 122, 21, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-flattr {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-flattr, .pe-bg.pe-longshadow.pe-hover.pe-so-flattr:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-flattr
+   * *
+   * */
+  text-shadow: 0px 0px 0 #df600f,1px 1px 0 #df600f,2px 2px 0 #df600f,3px 3px 0 #df600f,4px 4px 0 #df600f,5px 5px 0 #df600f,6px 6px 0 #df600f,7px 7px 0 #df600f,8px 8px 0 #df600f,9px 9px 0 #df600f,10px 10px 0 #df600f,11px 11px 0 #df600f,12px 12px 0 #df600f,13px 13px 0 #df600f,14px 14px 0 #df600f,15px 15px 0 #df600f,16px 16px 0 #df600f,17px 17px 0 #df600f,18px 18px 0 #df600f,19px 19px 0 #df600f,20px 20px 0 #df600f,21px 21px 0 #df600f,22px 22px 0 #df600f,23px 23px 0 #df600f,24px 24px 0 #df600f,25px 25px 0 #df600f,26px 26px 0 #df600f,27px 27px 0 #df600f,28px 28px 0 #df600f,1px 1px 0 rgba(223, 96, 15, 0.96667),2px 2px 0 rgba(223, 96, 15, 0.93333),3px 3px 0 rgba(223, 96, 15, 0.9),4px 4px 0 rgba(223, 96, 15, 0.86667),5px 5px 0 rgba(223, 96, 15, 0.83333),6px 6px 0 rgba(223, 96, 15, 0.8),7px 7px 0 rgba(223, 96, 15, 0.76667),8px 8px 0 rgba(223, 96, 15, 0.73333),9px 9px 0 rgba(223, 96, 15, 0.7),10px 10px 0 rgba(223, 96, 15, 0.66667),11px 11px 0 rgba(223, 96, 15, 0.63333),12px 12px 0 rgba(223, 96, 15, 0.6),13px 13px 0 rgba(223, 96, 15, 0.56667),14px 14px 0 rgba(223, 96, 15, 0.53333),15px 15px 0 rgba(223, 96, 15, 0.5),16px 16px 0 rgba(223, 96, 15, 0.46667),17px 17px 0 rgba(223, 96, 15, 0.43333),18px 18px 0 rgba(223, 96, 15, 0.4),19px 19px 0 rgba(223, 96, 15, 0.36667),20px 20px 0 rgba(223, 96, 15, 0.33333),21px 21px 0 rgba(223, 96, 15, 0.3),22px 22px 0 rgba(223, 96, 15, 0.26667),23px 23px 0 rgba(223, 96, 15, 0.23333),24px 24px 0 rgba(223, 96, 15, 0.2),25px 25px 0 rgba(223, 96, 15, 0.16667),26px 26px 0 rgba(223, 96, 15, 0.13333),27px 27px 0 rgba(223, 96, 15, 0.1),28px 28px 0 rgba(223, 96, 15, 0.06667),30px 30px 0 rgba(223, 96, 15, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-forrst {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-forrst, .pe-bg.pe-longshadow.pe-hover.pe-so-forrst:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-forrst
+   * *
+   * */
+  text-shadow: 0px 0px 0 #497a52,1px 1px 0 #497a52,2px 2px 0 #497a52,3px 3px 0 #497a52,4px 4px 0 #497a52,5px 5px 0 #497a52,6px 6px 0 #497a52,7px 7px 0 #497a52,8px 8px 0 #497a52,9px 9px 0 #497a52,10px 10px 0 #497a52,11px 11px 0 #497a52,12px 12px 0 #497a52,13px 13px 0 #497a52,14px 14px 0 #497a52,15px 15px 0 #497a52,16px 16px 0 #497a52,17px 17px 0 #497a52,18px 18px 0 #497a52,19px 19px 0 #497a52,20px 20px 0 #497a52,21px 21px 0 #497a52,22px 22px 0 #497a52,23px 23px 0 #497a52,24px 24px 0 #497a52,25px 25px 0 #497a52,26px 26px 0 #497a52,27px 27px 0 #497a52,28px 28px 0 #497a52,1px 1px 0 rgba(73, 122, 82, 0.96667),2px 2px 0 rgba(73, 122, 82, 0.93333),3px 3px 0 rgba(73, 122, 82, 0.9),4px 4px 0 rgba(73, 122, 82, 0.86667),5px 5px 0 rgba(73, 122, 82, 0.83333),6px 6px 0 rgba(73, 122, 82, 0.8),7px 7px 0 rgba(73, 122, 82, 0.76667),8px 8px 0 rgba(73, 122, 82, 0.73333),9px 9px 0 rgba(73, 122, 82, 0.7),10px 10px 0 rgba(73, 122, 82, 0.66667),11px 11px 0 rgba(73, 122, 82, 0.63333),12px 12px 0 rgba(73, 122, 82, 0.6),13px 13px 0 rgba(73, 122, 82, 0.56667),14px 14px 0 rgba(73, 122, 82, 0.53333),15px 15px 0 rgba(73, 122, 82, 0.5),16px 16px 0 rgba(73, 122, 82, 0.46667),17px 17px 0 rgba(73, 122, 82, 0.43333),18px 18px 0 rgba(73, 122, 82, 0.4),19px 19px 0 rgba(73, 122, 82, 0.36667),20px 20px 0 rgba(73, 122, 82, 0.33333),21px 21px 0 rgba(73, 122, 82, 0.3),22px 22px 0 rgba(73, 122, 82, 0.26667),23px 23px 0 rgba(73, 122, 82, 0.23333),24px 24px 0 rgba(73, 122, 82, 0.2),25px 25px 0 rgba(73, 122, 82, 0.16667),26px 26px 0 rgba(73, 122, 82, 0.13333),27px 27px 0 rgba(73, 122, 82, 0.1),28px 28px 0 rgba(73, 122, 82, 0.06667),30px 30px 0 rgba(73, 122, 82, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-foursquare {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-foursquare, .pe-bg.pe-longshadow.pe-hover.pe-so-foursquare:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-foursquare
+   * *
+   * */
+  text-shadow: 0px 0px 0 #f71752,1px 1px 0 #f71752,2px 2px 0 #f71752,3px 3px 0 #f71752,4px 4px 0 #f71752,5px 5px 0 #f71752,6px 6px 0 #f71752,7px 7px 0 #f71752,8px 8px 0 #f71752,9px 9px 0 #f71752,10px 10px 0 #f71752,11px 11px 0 #f71752,12px 12px 0 #f71752,13px 13px 0 #f71752,14px 14px 0 #f71752,15px 15px 0 #f71752,16px 16px 0 #f71752,17px 17px 0 #f71752,18px 18px 0 #f71752,19px 19px 0 #f71752,20px 20px 0 #f71752,21px 21px 0 #f71752,22px 22px 0 #f71752,23px 23px 0 #f71752,24px 24px 0 #f71752,25px 25px 0 #f71752,26px 26px 0 #f71752,27px 27px 0 #f71752,28px 28px 0 #f71752,1px 1px 0 rgba(247, 23, 82, 0.96667),2px 2px 0 rgba(247, 23, 82, 0.93333),3px 3px 0 rgba(247, 23, 82, 0.9),4px 4px 0 rgba(247, 23, 82, 0.86667),5px 5px 0 rgba(247, 23, 82, 0.83333),6px 6px 0 rgba(247, 23, 82, 0.8),7px 7px 0 rgba(247, 23, 82, 0.76667),8px 8px 0 rgba(247, 23, 82, 0.73333),9px 9px 0 rgba(247, 23, 82, 0.7),10px 10px 0 rgba(247, 23, 82, 0.66667),11px 11px 0 rgba(247, 23, 82, 0.63333),12px 12px 0 rgba(247, 23, 82, 0.6),13px 13px 0 rgba(247, 23, 82, 0.56667),14px 14px 0 rgba(247, 23, 82, 0.53333),15px 15px 0 rgba(247, 23, 82, 0.5),16px 16px 0 rgba(247, 23, 82, 0.46667),17px 17px 0 rgba(247, 23, 82, 0.43333),18px 18px 0 rgba(247, 23, 82, 0.4),19px 19px 0 rgba(247, 23, 82, 0.36667),20px 20px 0 rgba(247, 23, 82, 0.33333),21px 21px 0 rgba(247, 23, 82, 0.3),22px 22px 0 rgba(247, 23, 82, 0.26667),23px 23px 0 rgba(247, 23, 82, 0.23333),24px 24px 0 rgba(247, 23, 82, 0.2),25px 25px 0 rgba(247, 23, 82, 0.16667),26px 26px 0 rgba(247, 23, 82, 0.13333),27px 27px 0 rgba(247, 23, 82, 0.1),28px 28px 0 rgba(247, 23, 82, 0.06667),30px 30px 0 rgba(247, 23, 82, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-git {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-git, .pe-bg.pe-longshadow.pe-hover.pe-so-git:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-git
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-github {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-github, .pe-bg.pe-longshadow.pe-hover.pe-so-github:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-github
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-google-plus {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-google-plus, .pe-bg.pe-longshadow.pe-hover.pe-so-google-plus:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-google-plus
+   * *
+   * */
+  text-shadow: 0px 0px 0 #b33020,1px 1px 0 #b33020,2px 2px 0 #b33020,3px 3px 0 #b33020,4px 4px 0 #b33020,5px 5px 0 #b33020,6px 6px 0 #b33020,7px 7px 0 #b33020,8px 8px 0 #b33020,9px 9px 0 #b33020,10px 10px 0 #b33020,11px 11px 0 #b33020,12px 12px 0 #b33020,13px 13px 0 #b33020,14px 14px 0 #b33020,15px 15px 0 #b33020,16px 16px 0 #b33020,17px 17px 0 #b33020,18px 18px 0 #b33020,19px 19px 0 #b33020,20px 20px 0 #b33020,21px 21px 0 #b33020,22px 22px 0 #b33020,23px 23px 0 #b33020,24px 24px 0 #b33020,25px 25px 0 #b33020,26px 26px 0 #b33020,27px 27px 0 #b33020,28px 28px 0 #b33020,1px 1px 0 rgba(179, 48, 32, 0.96667),2px 2px 0 rgba(179, 48, 32, 0.93333),3px 3px 0 rgba(179, 48, 32, 0.9),4px 4px 0 rgba(179, 48, 32, 0.86667),5px 5px 0 rgba(179, 48, 32, 0.83333),6px 6px 0 rgba(179, 48, 32, 0.8),7px 7px 0 rgba(179, 48, 32, 0.76667),8px 8px 0 rgba(179, 48, 32, 0.73333),9px 9px 0 rgba(179, 48, 32, 0.7),10px 10px 0 rgba(179, 48, 32, 0.66667),11px 11px 0 rgba(179, 48, 32, 0.63333),12px 12px 0 rgba(179, 48, 32, 0.6),13px 13px 0 rgba(179, 48, 32, 0.56667),14px 14px 0 rgba(179, 48, 32, 0.53333),15px 15px 0 rgba(179, 48, 32, 0.5),16px 16px 0 rgba(179, 48, 32, 0.46667),17px 17px 0 rgba(179, 48, 32, 0.43333),18px 18px 0 rgba(179, 48, 32, 0.4),19px 19px 0 rgba(179, 48, 32, 0.36667),20px 20px 0 rgba(179, 48, 32, 0.33333),21px 21px 0 rgba(179, 48, 32, 0.3),22px 22px 0 rgba(179, 48, 32, 0.26667),23px 23px 0 rgba(179, 48, 32, 0.23333),24px 24px 0 rgba(179, 48, 32, 0.2),25px 25px 0 rgba(179, 48, 32, 0.16667),26px 26px 0 rgba(179, 48, 32, 0.13333),27px 27px 0 rgba(179, 48, 32, 0.1),28px 28px 0 rgba(179, 48, 32, 0.06667),30px 30px 0 rgba(179, 48, 32, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-grooveshark {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-grooveshark, .pe-bg.pe-longshadow.pe-hover.pe-so-grooveshark:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-grooveshark
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-habbo {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-habbo, .pe-bg.pe-longshadow.pe-hover.pe-so-habbo:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-habbo
+   * *
+   * */
+  text-shadow: 0px 0px 0 #e6c40c,1px 1px 0 #e6c40c,2px 2px 0 #e6c40c,3px 3px 0 #e6c40c,4px 4px 0 #e6c40c,5px 5px 0 #e6c40c,6px 6px 0 #e6c40c,7px 7px 0 #e6c40c,8px 8px 0 #e6c40c,9px 9px 0 #e6c40c,10px 10px 0 #e6c40c,11px 11px 0 #e6c40c,12px 12px 0 #e6c40c,13px 13px 0 #e6c40c,14px 14px 0 #e6c40c,15px 15px 0 #e6c40c,16px 16px 0 #e6c40c,17px 17px 0 #e6c40c,18px 18px 0 #e6c40c,19px 19px 0 #e6c40c,20px 20px 0 #e6c40c,21px 21px 0 #e6c40c,22px 22px 0 #e6c40c,23px 23px 0 #e6c40c,24px 24px 0 #e6c40c,25px 25px 0 #e6c40c,26px 26px 0 #e6c40c,27px 27px 0 #e6c40c,28px 28px 0 #e6c40c,1px 1px 0 rgba(230, 196, 12, 0.96667),2px 2px 0 rgba(230, 196, 12, 0.93333),3px 3px 0 rgba(230, 196, 12, 0.9),4px 4px 0 rgba(230, 196, 12, 0.86667),5px 5px 0 rgba(230, 196, 12, 0.83333),6px 6px 0 rgba(230, 196, 12, 0.8),7px 7px 0 rgba(230, 196, 12, 0.76667),8px 8px 0 rgba(230, 196, 12, 0.73333),9px 9px 0 rgba(230, 196, 12, 0.7),10px 10px 0 rgba(230, 196, 12, 0.66667),11px 11px 0 rgba(230, 196, 12, 0.63333),12px 12px 0 rgba(230, 196, 12, 0.6),13px 13px 0 rgba(230, 196, 12, 0.56667),14px 14px 0 rgba(230, 196, 12, 0.53333),15px 15px 0 rgba(230, 196, 12, 0.5),16px 16px 0 rgba(230, 196, 12, 0.46667),17px 17px 0 rgba(230, 196, 12, 0.43333),18px 18px 0 rgba(230, 196, 12, 0.4),19px 19px 0 rgba(230, 196, 12, 0.36667),20px 20px 0 rgba(230, 196, 12, 0.33333),21px 21px 0 rgba(230, 196, 12, 0.3),22px 22px 0 rgba(230, 196, 12, 0.26667),23px 23px 0 rgba(230, 196, 12, 0.23333),24px 24px 0 rgba(230, 196, 12, 0.2),25px 25px 0 rgba(230, 196, 12, 0.16667),26px 26px 0 rgba(230, 196, 12, 0.13333),27px 27px 0 rgba(230, 196, 12, 0.1),28px 28px 0 rgba(230, 196, 12, 0.06667),30px 30px 0 rgba(230, 196, 12, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-hacker-news {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-hacker-news, .pe-bg.pe-longshadow.pe-hover.pe-so-hacker-news:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-hacker-news
+   * *
+   * */
+  text-shadow: 0px 0px 0 #dd5a10,1px 1px 0 #dd5a10,2px 2px 0 #dd5a10,3px 3px 0 #dd5a10,4px 4px 0 #dd5a10,5px 5px 0 #dd5a10,6px 6px 0 #dd5a10,7px 7px 0 #dd5a10,8px 8px 0 #dd5a10,9px 9px 0 #dd5a10,10px 10px 0 #dd5a10,11px 11px 0 #dd5a10,12px 12px 0 #dd5a10,13px 13px 0 #dd5a10,14px 14px 0 #dd5a10,15px 15px 0 #dd5a10,16px 16px 0 #dd5a10,17px 17px 0 #dd5a10,18px 18px 0 #dd5a10,19px 19px 0 #dd5a10,20px 20px 0 #dd5a10,21px 21px 0 #dd5a10,22px 22px 0 #dd5a10,23px 23px 0 #dd5a10,24px 24px 0 #dd5a10,25px 25px 0 #dd5a10,26px 26px 0 #dd5a10,27px 27px 0 #dd5a10,28px 28px 0 #dd5a10,1px 1px 0 rgba(221, 90, 16, 0.96667),2px 2px 0 rgba(221, 90, 16, 0.93333),3px 3px 0 rgba(221, 90, 16, 0.9),4px 4px 0 rgba(221, 90, 16, 0.86667),5px 5px 0 rgba(221, 90, 16, 0.83333),6px 6px 0 rgba(221, 90, 16, 0.8),7px 7px 0 rgba(221, 90, 16, 0.76667),8px 8px 0 rgba(221, 90, 16, 0.73333),9px 9px 0 rgba(221, 90, 16, 0.7),10px 10px 0 rgba(221, 90, 16, 0.66667),11px 11px 0 rgba(221, 90, 16, 0.63333),12px 12px 0 rgba(221, 90, 16, 0.6),13px 13px 0 rgba(221, 90, 16, 0.56667),14px 14px 0 rgba(221, 90, 16, 0.53333),15px 15px 0 rgba(221, 90, 16, 0.5),16px 16px 0 rgba(221, 90, 16, 0.46667),17px 17px 0 rgba(221, 90, 16, 0.43333),18px 18px 0 rgba(221, 90, 16, 0.4),19px 19px 0 rgba(221, 90, 16, 0.36667),20px 20px 0 rgba(221, 90, 16, 0.33333),21px 21px 0 rgba(221, 90, 16, 0.3),22px 22px 0 rgba(221, 90, 16, 0.26667),23px 23px 0 rgba(221, 90, 16, 0.23333),24px 24px 0 rgba(221, 90, 16, 0.2),25px 25px 0 rgba(221, 90, 16, 0.16667),26px 26px 0 rgba(221, 90, 16, 0.13333),27px 27px 0 rgba(221, 90, 16, 0.1),28px 28px 0 rgba(221, 90, 16, 0.06667),30px 30px 0 rgba(221, 90, 16, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-html5 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-html5, .pe-bg.pe-longshadow.pe-hover.pe-so-html5:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-html5
+   * *
+   * */
+  text-shadow: 0px 0px 0 #d2561d,1px 1px 0 #d2561d,2px 2px 0 #d2561d,3px 3px 0 #d2561d,4px 4px 0 #d2561d,5px 5px 0 #d2561d,6px 6px 0 #d2561d,7px 7px 0 #d2561d,8px 8px 0 #d2561d,9px 9px 0 #d2561d,10px 10px 0 #d2561d,11px 11px 0 #d2561d,12px 12px 0 #d2561d,13px 13px 0 #d2561d,14px 14px 0 #d2561d,15px 15px 0 #d2561d,16px 16px 0 #d2561d,17px 17px 0 #d2561d,18px 18px 0 #d2561d,19px 19px 0 #d2561d,20px 20px 0 #d2561d,21px 21px 0 #d2561d,22px 22px 0 #d2561d,23px 23px 0 #d2561d,24px 24px 0 #d2561d,25px 25px 0 #d2561d,26px 26px 0 #d2561d,27px 27px 0 #d2561d,28px 28px 0 #d2561d,1px 1px 0 rgba(210, 86, 29, 0.96667),2px 2px 0 rgba(210, 86, 29, 0.93333),3px 3px 0 rgba(210, 86, 29, 0.9),4px 4px 0 rgba(210, 86, 29, 0.86667),5px 5px 0 rgba(210, 86, 29, 0.83333),6px 6px 0 rgba(210, 86, 29, 0.8),7px 7px 0 rgba(210, 86, 29, 0.76667),8px 8px 0 rgba(210, 86, 29, 0.73333),9px 9px 0 rgba(210, 86, 29, 0.7),10px 10px 0 rgba(210, 86, 29, 0.66667),11px 11px 0 rgba(210, 86, 29, 0.63333),12px 12px 0 rgba(210, 86, 29, 0.6),13px 13px 0 rgba(210, 86, 29, 0.56667),14px 14px 0 rgba(210, 86, 29, 0.53333),15px 15px 0 rgba(210, 86, 29, 0.5),16px 16px 0 rgba(210, 86, 29, 0.46667),17px 17px 0 rgba(210, 86, 29, 0.43333),18px 18px 0 rgba(210, 86, 29, 0.4),19px 19px 0 rgba(210, 86, 29, 0.36667),20px 20px 0 rgba(210, 86, 29, 0.33333),21px 21px 0 rgba(210, 86, 29, 0.3),22px 22px 0 rgba(210, 86, 29, 0.26667),23px 23px 0 rgba(210, 86, 29, 0.23333),24px 24px 0 rgba(210, 86, 29, 0.2),25px 25px 0 rgba(210, 86, 29, 0.16667),26px 26px 0 rgba(210, 86, 29, 0.13333),27px 27px 0 rgba(210, 86, 29, 0.1),28px 28px 0 rgba(210, 86, 29, 0.06667),30px 30px 0 rgba(210, 86, 29, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-ie {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-ie, .pe-bg.pe-longshadow.pe-hover.pe-so-ie:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-ie
+   * *
+   * */
+  text-shadow: 0px 0px 0 #1572dd,1px 1px 0 #1572dd,2px 2px 0 #1572dd,3px 3px 0 #1572dd,4px 4px 0 #1572dd,5px 5px 0 #1572dd,6px 6px 0 #1572dd,7px 7px 0 #1572dd,8px 8px 0 #1572dd,9px 9px 0 #1572dd,10px 10px 0 #1572dd,11px 11px 0 #1572dd,12px 12px 0 #1572dd,13px 13px 0 #1572dd,14px 14px 0 #1572dd,15px 15px 0 #1572dd,16px 16px 0 #1572dd,17px 17px 0 #1572dd,18px 18px 0 #1572dd,19px 19px 0 #1572dd,20px 20px 0 #1572dd,21px 21px 0 #1572dd,22px 22px 0 #1572dd,23px 23px 0 #1572dd,24px 24px 0 #1572dd,25px 25px 0 #1572dd,26px 26px 0 #1572dd,27px 27px 0 #1572dd,28px 28px 0 #1572dd,1px 1px 0 rgba(21, 114, 221, 0.96667),2px 2px 0 rgba(21, 114, 221, 0.93333),3px 3px 0 rgba(21, 114, 221, 0.9),4px 4px 0 rgba(21, 114, 221, 0.86667),5px 5px 0 rgba(21, 114, 221, 0.83333),6px 6px 0 rgba(21, 114, 221, 0.8),7px 7px 0 rgba(21, 114, 221, 0.76667),8px 8px 0 rgba(21, 114, 221, 0.73333),9px 9px 0 rgba(21, 114, 221, 0.7),10px 10px 0 rgba(21, 114, 221, 0.66667),11px 11px 0 rgba(21, 114, 221, 0.63333),12px 12px 0 rgba(21, 114, 221, 0.6),13px 13px 0 rgba(21, 114, 221, 0.56667),14px 14px 0 rgba(21, 114, 221, 0.53333),15px 15px 0 rgba(21, 114, 221, 0.5),16px 16px 0 rgba(21, 114, 221, 0.46667),17px 17px 0 rgba(21, 114, 221, 0.43333),18px 18px 0 rgba(21, 114, 221, 0.4),19px 19px 0 rgba(21, 114, 221, 0.36667),20px 20px 0 rgba(21, 114, 221, 0.33333),21px 21px 0 rgba(21, 114, 221, 0.3),22px 22px 0 rgba(21, 114, 221, 0.26667),23px 23px 0 rgba(21, 114, 221, 0.23333),24px 24px 0 rgba(21, 114, 221, 0.2),25px 25px 0 rgba(21, 114, 221, 0.16667),26px 26px 0 rgba(21, 114, 221, 0.13333),27px 27px 0 rgba(21, 114, 221, 0.1),28px 28px 0 rgba(21, 114, 221, 0.06667),30px 30px 0 rgba(21, 114, 221, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-instagram {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-instagram, .pe-bg.pe-longshadow.pe-hover.pe-so-instagram:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-instagram
+   * *
+   * */
+  text-shadow: 0px 0px 0 #684c41,1px 1px 0 #684c41,2px 2px 0 #684c41,3px 3px 0 #684c41,4px 4px 0 #684c41,5px 5px 0 #684c41,6px 6px 0 #684c41,7px 7px 0 #684c41,8px 8px 0 #684c41,9px 9px 0 #684c41,10px 10px 0 #684c41,11px 11px 0 #684c41,12px 12px 0 #684c41,13px 13px 0 #684c41,14px 14px 0 #684c41,15px 15px 0 #684c41,16px 16px 0 #684c41,17px 17px 0 #684c41,18px 18px 0 #684c41,19px 19px 0 #684c41,20px 20px 0 #684c41,21px 21px 0 #684c41,22px 22px 0 #684c41,23px 23px 0 #684c41,24px 24px 0 #684c41,25px 25px 0 #684c41,26px 26px 0 #684c41,27px 27px 0 #684c41,28px 28px 0 #684c41,1px 1px 0 rgba(104, 76, 65, 0.96667),2px 2px 0 rgba(104, 76, 65, 0.93333),3px 3px 0 rgba(104, 76, 65, 0.9),4px 4px 0 rgba(104, 76, 65, 0.86667),5px 5px 0 rgba(104, 76, 65, 0.83333),6px 6px 0 rgba(104, 76, 65, 0.8),7px 7px 0 rgba(104, 76, 65, 0.76667),8px 8px 0 rgba(104, 76, 65, 0.73333),9px 9px 0 rgba(104, 76, 65, 0.7),10px 10px 0 rgba(104, 76, 65, 0.66667),11px 11px 0 rgba(104, 76, 65, 0.63333),12px 12px 0 rgba(104, 76, 65, 0.6),13px 13px 0 rgba(104, 76, 65, 0.56667),14px 14px 0 rgba(104, 76, 65, 0.53333),15px 15px 0 rgba(104, 76, 65, 0.5),16px 16px 0 rgba(104, 76, 65, 0.46667),17px 17px 0 rgba(104, 76, 65, 0.43333),18px 18px 0 rgba(104, 76, 65, 0.4),19px 19px 0 rgba(104, 76, 65, 0.36667),20px 20px 0 rgba(104, 76, 65, 0.33333),21px 21px 0 rgba(104, 76, 65, 0.3),22px 22px 0 rgba(104, 76, 65, 0.26667),23px 23px 0 rgba(104, 76, 65, 0.23333),24px 24px 0 rgba(104, 76, 65, 0.2),25px 25px 0 rgba(104, 76, 65, 0.16667),26px 26px 0 rgba(104, 76, 65, 0.13333),27px 27px 0 rgba(104, 76, 65, 0.1),28px 28px 0 rgba(104, 76, 65, 0.06667),30px 30px 0 rgba(104, 76, 65, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-jsfiddle {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-jsfiddle, .pe-bg.pe-longshadow.pe-hover.pe-so-jsfiddle:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-jsfiddle
+   * *
+   * */
+  text-shadow: 0px 0px 0 #3a649a,1px 1px 0 #3a649a,2px 2px 0 #3a649a,3px 3px 0 #3a649a,4px 4px 0 #3a649a,5px 5px 0 #3a649a,6px 6px 0 #3a649a,7px 7px 0 #3a649a,8px 8px 0 #3a649a,9px 9px 0 #3a649a,10px 10px 0 #3a649a,11px 11px 0 #3a649a,12px 12px 0 #3a649a,13px 13px 0 #3a649a,14px 14px 0 #3a649a,15px 15px 0 #3a649a,16px 16px 0 #3a649a,17px 17px 0 #3a649a,18px 18px 0 #3a649a,19px 19px 0 #3a649a,20px 20px 0 #3a649a,21px 21px 0 #3a649a,22px 22px 0 #3a649a,23px 23px 0 #3a649a,24px 24px 0 #3a649a,25px 25px 0 #3a649a,26px 26px 0 #3a649a,27px 27px 0 #3a649a,28px 28px 0 #3a649a,1px 1px 0 rgba(58, 100, 154, 0.96667),2px 2px 0 rgba(58, 100, 154, 0.93333),3px 3px 0 rgba(58, 100, 154, 0.9),4px 4px 0 rgba(58, 100, 154, 0.86667),5px 5px 0 rgba(58, 100, 154, 0.83333),6px 6px 0 rgba(58, 100, 154, 0.8),7px 7px 0 rgba(58, 100, 154, 0.76667),8px 8px 0 rgba(58, 100, 154, 0.73333),9px 9px 0 rgba(58, 100, 154, 0.7),10px 10px 0 rgba(58, 100, 154, 0.66667),11px 11px 0 rgba(58, 100, 154, 0.63333),12px 12px 0 rgba(58, 100, 154, 0.6),13px 13px 0 rgba(58, 100, 154, 0.56667),14px 14px 0 rgba(58, 100, 154, 0.53333),15px 15px 0 rgba(58, 100, 154, 0.5),16px 16px 0 rgba(58, 100, 154, 0.46667),17px 17px 0 rgba(58, 100, 154, 0.43333),18px 18px 0 rgba(58, 100, 154, 0.4),19px 19px 0 rgba(58, 100, 154, 0.36667),20px 20px 0 rgba(58, 100, 154, 0.33333),21px 21px 0 rgba(58, 100, 154, 0.3),22px 22px 0 rgba(58, 100, 154, 0.26667),23px 23px 0 rgba(58, 100, 154, 0.23333),24px 24px 0 rgba(58, 100, 154, 0.2),25px 25px 0 rgba(58, 100, 154, 0.16667),26px 26px 0 rgba(58, 100, 154, 0.13333),27px 27px 0 rgba(58, 100, 154, 0.1),28px 28px 0 rgba(58, 100, 154, 0.06667),30px 30px 0 rgba(58, 100, 154, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-lanyrd {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-lanyrd, .pe-bg.pe-longshadow.pe-hover.pe-so-lanyrd:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-lanyrd
+   * *
+   * */
+  text-shadow: 0px 0px 0 #2e67a4,1px 1px 0 #2e67a4,2px 2px 0 #2e67a4,3px 3px 0 #2e67a4,4px 4px 0 #2e67a4,5px 5px 0 #2e67a4,6px 6px 0 #2e67a4,7px 7px 0 #2e67a4,8px 8px 0 #2e67a4,9px 9px 0 #2e67a4,10px 10px 0 #2e67a4,11px 11px 0 #2e67a4,12px 12px 0 #2e67a4,13px 13px 0 #2e67a4,14px 14px 0 #2e67a4,15px 15px 0 #2e67a4,16px 16px 0 #2e67a4,17px 17px 0 #2e67a4,18px 18px 0 #2e67a4,19px 19px 0 #2e67a4,20px 20px 0 #2e67a4,21px 21px 0 #2e67a4,22px 22px 0 #2e67a4,23px 23px 0 #2e67a4,24px 24px 0 #2e67a4,25px 25px 0 #2e67a4,26px 26px 0 #2e67a4,27px 27px 0 #2e67a4,28px 28px 0 #2e67a4,1px 1px 0 rgba(46, 103, 164, 0.96667),2px 2px 0 rgba(46, 103, 164, 0.93333),3px 3px 0 rgba(46, 103, 164, 0.9),4px 4px 0 rgba(46, 103, 164, 0.86667),5px 5px 0 rgba(46, 103, 164, 0.83333),6px 6px 0 rgba(46, 103, 164, 0.8),7px 7px 0 rgba(46, 103, 164, 0.76667),8px 8px 0 rgba(46, 103, 164, 0.73333),9px 9px 0 rgba(46, 103, 164, 0.7),10px 10px 0 rgba(46, 103, 164, 0.66667),11px 11px 0 rgba(46, 103, 164, 0.63333),12px 12px 0 rgba(46, 103, 164, 0.6),13px 13px 0 rgba(46, 103, 164, 0.56667),14px 14px 0 rgba(46, 103, 164, 0.53333),15px 15px 0 rgba(46, 103, 164, 0.5),16px 16px 0 rgba(46, 103, 164, 0.46667),17px 17px 0 rgba(46, 103, 164, 0.43333),18px 18px 0 rgba(46, 103, 164, 0.4),19px 19px 0 rgba(46, 103, 164, 0.36667),20px 20px 0 rgba(46, 103, 164, 0.33333),21px 21px 0 rgba(46, 103, 164, 0.3),22px 22px 0 rgba(46, 103, 164, 0.26667),23px 23px 0 rgba(46, 103, 164, 0.23333),24px 24px 0 rgba(46, 103, 164, 0.2),25px 25px 0 rgba(46, 103, 164, 0.16667),26px 26px 0 rgba(46, 103, 164, 0.13333),27px 27px 0 rgba(46, 103, 164, 0.1),28px 28px 0 rgba(46, 103, 164, 0.06667),30px 30px 0 rgba(46, 103, 164, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-lastfm {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-lastfm, .pe-bg.pe-longshadow.pe-hover.pe-so-lastfm:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-lastfm
+   * *
+   * */
+  text-shadow: 0px 0px 0 #aa3222,1px 1px 0 #aa3222,2px 2px 0 #aa3222,3px 3px 0 #aa3222,4px 4px 0 #aa3222,5px 5px 0 #aa3222,6px 6px 0 #aa3222,7px 7px 0 #aa3222,8px 8px 0 #aa3222,9px 9px 0 #aa3222,10px 10px 0 #aa3222,11px 11px 0 #aa3222,12px 12px 0 #aa3222,13px 13px 0 #aa3222,14px 14px 0 #aa3222,15px 15px 0 #aa3222,16px 16px 0 #aa3222,17px 17px 0 #aa3222,18px 18px 0 #aa3222,19px 19px 0 #aa3222,20px 20px 0 #aa3222,21px 21px 0 #aa3222,22px 22px 0 #aa3222,23px 23px 0 #aa3222,24px 24px 0 #aa3222,25px 25px 0 #aa3222,26px 26px 0 #aa3222,27px 27px 0 #aa3222,28px 28px 0 #aa3222,1px 1px 0 rgba(170, 50, 34, 0.96667),2px 2px 0 rgba(170, 50, 34, 0.93333),3px 3px 0 rgba(170, 50, 34, 0.9),4px 4px 0 rgba(170, 50, 34, 0.86667),5px 5px 0 rgba(170, 50, 34, 0.83333),6px 6px 0 rgba(170, 50, 34, 0.8),7px 7px 0 rgba(170, 50, 34, 0.76667),8px 8px 0 rgba(170, 50, 34, 0.73333),9px 9px 0 rgba(170, 50, 34, 0.7),10px 10px 0 rgba(170, 50, 34, 0.66667),11px 11px 0 rgba(170, 50, 34, 0.63333),12px 12px 0 rgba(170, 50, 34, 0.6),13px 13px 0 rgba(170, 50, 34, 0.56667),14px 14px 0 rgba(170, 50, 34, 0.53333),15px 15px 0 rgba(170, 50, 34, 0.5),16px 16px 0 rgba(170, 50, 34, 0.46667),17px 17px 0 rgba(170, 50, 34, 0.43333),18px 18px 0 rgba(170, 50, 34, 0.4),19px 19px 0 rgba(170, 50, 34, 0.36667),20px 20px 0 rgba(170, 50, 34, 0.33333),21px 21px 0 rgba(170, 50, 34, 0.3),22px 22px 0 rgba(170, 50, 34, 0.26667),23px 23px 0 rgba(170, 50, 34, 0.23333),24px 24px 0 rgba(170, 50, 34, 0.2),25px 25px 0 rgba(170, 50, 34, 0.16667),26px 26px 0 rgba(170, 50, 34, 0.13333),27px 27px 0 rgba(170, 50, 34, 0.1),28px 28px 0 rgba(170, 50, 34, 0.06667),30px 30px 0 rgba(170, 50, 34, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-linkedin {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-linkedin, .pe-bg.pe-longshadow.pe-hover.pe-so-linkedin:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-linkedin
+   * *
+   * */
+  text-shadow: 0px 0px 0 #285890,1px 1px 0 #285890,2px 2px 0 #285890,3px 3px 0 #285890,4px 4px 0 #285890,5px 5px 0 #285890,6px 6px 0 #285890,7px 7px 0 #285890,8px 8px 0 #285890,9px 9px 0 #285890,10px 10px 0 #285890,11px 11px 0 #285890,12px 12px 0 #285890,13px 13px 0 #285890,14px 14px 0 #285890,15px 15px 0 #285890,16px 16px 0 #285890,17px 17px 0 #285890,18px 18px 0 #285890,19px 19px 0 #285890,20px 20px 0 #285890,21px 21px 0 #285890,22px 22px 0 #285890,23px 23px 0 #285890,24px 24px 0 #285890,25px 25px 0 #285890,26px 26px 0 #285890,27px 27px 0 #285890,28px 28px 0 #285890,1px 1px 0 rgba(40, 88, 144, 0.96667),2px 2px 0 rgba(40, 88, 144, 0.93333),3px 3px 0 rgba(40, 88, 144, 0.9),4px 4px 0 rgba(40, 88, 144, 0.86667),5px 5px 0 rgba(40, 88, 144, 0.83333),6px 6px 0 rgba(40, 88, 144, 0.8),7px 7px 0 rgba(40, 88, 144, 0.76667),8px 8px 0 rgba(40, 88, 144, 0.73333),9px 9px 0 rgba(40, 88, 144, 0.7),10px 10px 0 rgba(40, 88, 144, 0.66667),11px 11px 0 rgba(40, 88, 144, 0.63333),12px 12px 0 rgba(40, 88, 144, 0.6),13px 13px 0 rgba(40, 88, 144, 0.56667),14px 14px 0 rgba(40, 88, 144, 0.53333),15px 15px 0 rgba(40, 88, 144, 0.5),16px 16px 0 rgba(40, 88, 144, 0.46667),17px 17px 0 rgba(40, 88, 144, 0.43333),18px 18px 0 rgba(40, 88, 144, 0.4),19px 19px 0 rgba(40, 88, 144, 0.36667),20px 20px 0 rgba(40, 88, 144, 0.33333),21px 21px 0 rgba(40, 88, 144, 0.3),22px 22px 0 rgba(40, 88, 144, 0.26667),23px 23px 0 rgba(40, 88, 144, 0.23333),24px 24px 0 rgba(40, 88, 144, 0.2),25px 25px 0 rgba(40, 88, 144, 0.16667),26px 26px 0 rgba(40, 88, 144, 0.13333),27px 27px 0 rgba(40, 88, 144, 0.1),28px 28px 0 rgba(40, 88, 144, 0.06667),30px 30px 0 rgba(40, 88, 144, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-linux {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-linux, .pe-bg.pe-longshadow.pe-hover.pe-so-linux:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-linux
+   * *
+   * */
+  text-shadow: 0px 0px 0 #daa213,1px 1px 0 #daa213,2px 2px 0 #daa213,3px 3px 0 #daa213,4px 4px 0 #daa213,5px 5px 0 #daa213,6px 6px 0 #daa213,7px 7px 0 #daa213,8px 8px 0 #daa213,9px 9px 0 #daa213,10px 10px 0 #daa213,11px 11px 0 #daa213,12px 12px 0 #daa213,13px 13px 0 #daa213,14px 14px 0 #daa213,15px 15px 0 #daa213,16px 16px 0 #daa213,17px 17px 0 #daa213,18px 18px 0 #daa213,19px 19px 0 #daa213,20px 20px 0 #daa213,21px 21px 0 #daa213,22px 22px 0 #daa213,23px 23px 0 #daa213,24px 24px 0 #daa213,25px 25px 0 #daa213,26px 26px 0 #daa213,27px 27px 0 #daa213,28px 28px 0 #daa213,1px 1px 0 rgba(218, 162, 19, 0.96667),2px 2px 0 rgba(218, 162, 19, 0.93333),3px 3px 0 rgba(218, 162, 19, 0.9),4px 4px 0 rgba(218, 162, 19, 0.86667),5px 5px 0 rgba(218, 162, 19, 0.83333),6px 6px 0 rgba(218, 162, 19, 0.8),7px 7px 0 rgba(218, 162, 19, 0.76667),8px 8px 0 rgba(218, 162, 19, 0.73333),9px 9px 0 rgba(218, 162, 19, 0.7),10px 10px 0 rgba(218, 162, 19, 0.66667),11px 11px 0 rgba(218, 162, 19, 0.63333),12px 12px 0 rgba(218, 162, 19, 0.6),13px 13px 0 rgba(218, 162, 19, 0.56667),14px 14px 0 rgba(218, 162, 19, 0.53333),15px 15px 0 rgba(218, 162, 19, 0.5),16px 16px 0 rgba(218, 162, 19, 0.46667),17px 17px 0 rgba(218, 162, 19, 0.43333),18px 18px 0 rgba(218, 162, 19, 0.4),19px 19px 0 rgba(218, 162, 19, 0.36667),20px 20px 0 rgba(218, 162, 19, 0.33333),21px 21px 0 rgba(218, 162, 19, 0.3),22px 22px 0 rgba(218, 162, 19, 0.26667),23px 23px 0 rgba(218, 162, 19, 0.23333),24px 24px 0 rgba(218, 162, 19, 0.2),25px 25px 0 rgba(218, 162, 19, 0.16667),26px 26px 0 rgba(218, 162, 19, 0.13333),27px 27px 0 rgba(218, 162, 19, 0.1),28px 28px 0 rgba(218, 162, 19, 0.06667),30px 30px 0 rgba(218, 162, 19, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-love {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-love, .pe-bg.pe-longshadow.pe-hover.pe-so-love:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-love
+   * *
+   * */
+  text-shadow: 0px 0px 0 #ea6b8c,1px 1px 0 #ea6b8c,2px 2px 0 #ea6b8c,3px 3px 0 #ea6b8c,4px 4px 0 #ea6b8c,5px 5px 0 #ea6b8c,6px 6px 0 #ea6b8c,7px 7px 0 #ea6b8c,8px 8px 0 #ea6b8c,9px 9px 0 #ea6b8c,10px 10px 0 #ea6b8c,11px 11px 0 #ea6b8c,12px 12px 0 #ea6b8c,13px 13px 0 #ea6b8c,14px 14px 0 #ea6b8c,15px 15px 0 #ea6b8c,16px 16px 0 #ea6b8c,17px 17px 0 #ea6b8c,18px 18px 0 #ea6b8c,19px 19px 0 #ea6b8c,20px 20px 0 #ea6b8c,21px 21px 0 #ea6b8c,22px 22px 0 #ea6b8c,23px 23px 0 #ea6b8c,24px 24px 0 #ea6b8c,25px 25px 0 #ea6b8c,26px 26px 0 #ea6b8c,27px 27px 0 #ea6b8c,28px 28px 0 #ea6b8c,1px 1px 0 rgba(234, 107, 140, 0.96667),2px 2px 0 rgba(234, 107, 140, 0.93333),3px 3px 0 rgba(234, 107, 140, 0.9),4px 4px 0 rgba(234, 107, 140, 0.86667),5px 5px 0 rgba(234, 107, 140, 0.83333),6px 6px 0 rgba(234, 107, 140, 0.8),7px 7px 0 rgba(234, 107, 140, 0.76667),8px 8px 0 rgba(234, 107, 140, 0.73333),9px 9px 0 rgba(234, 107, 140, 0.7),10px 10px 0 rgba(234, 107, 140, 0.66667),11px 11px 0 rgba(234, 107, 140, 0.63333),12px 12px 0 rgba(234, 107, 140, 0.6),13px 13px 0 rgba(234, 107, 140, 0.56667),14px 14px 0 rgba(234, 107, 140, 0.53333),15px 15px 0 rgba(234, 107, 140, 0.5),16px 16px 0 rgba(234, 107, 140, 0.46667),17px 17px 0 rgba(234, 107, 140, 0.43333),18px 18px 0 rgba(234, 107, 140, 0.4),19px 19px 0 rgba(234, 107, 140, 0.36667),20px 20px 0 rgba(234, 107, 140, 0.33333),21px 21px 0 rgba(234, 107, 140, 0.3),22px 22px 0 rgba(234, 107, 140, 0.26667),23px 23px 0 rgba(234, 107, 140, 0.23333),24px 24px 0 rgba(234, 107, 140, 0.2),25px 25px 0 rgba(234, 107, 140, 0.16667),26px 26px 0 rgba(234, 107, 140, 0.13333),27px 27px 0 rgba(234, 107, 140, 0.1),28px 28px 0 rgba(234, 107, 140, 0.06667),30px 30px 0 rgba(234, 107, 140, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-myspace {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-myspace, .pe-bg.pe-longshadow.pe-hover.pe-so-myspace:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-myspace
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-odnolassniki {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-odnolassniki, .pe-bg.pe-longshadow.pe-hover.pe-so-odnolassniki:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-odnolassniki
+   * *
+   * */
+  text-shadow: 0px 0px 0 #e2690e,1px 1px 0 #e2690e,2px 2px 0 #e2690e,3px 3px 0 #e2690e,4px 4px 0 #e2690e,5px 5px 0 #e2690e,6px 6px 0 #e2690e,7px 7px 0 #e2690e,8px 8px 0 #e2690e,9px 9px 0 #e2690e,10px 10px 0 #e2690e,11px 11px 0 #e2690e,12px 12px 0 #e2690e,13px 13px 0 #e2690e,14px 14px 0 #e2690e,15px 15px 0 #e2690e,16px 16px 0 #e2690e,17px 17px 0 #e2690e,18px 18px 0 #e2690e,19px 19px 0 #e2690e,20px 20px 0 #e2690e,21px 21px 0 #e2690e,22px 22px 0 #e2690e,23px 23px 0 #e2690e,24px 24px 0 #e2690e,25px 25px 0 #e2690e,26px 26px 0 #e2690e,27px 27px 0 #e2690e,28px 28px 0 #e2690e,1px 1px 0 rgba(226, 105, 14, 0.96667),2px 2px 0 rgba(226, 105, 14, 0.93333),3px 3px 0 rgba(226, 105, 14, 0.9),4px 4px 0 rgba(226, 105, 14, 0.86667),5px 5px 0 rgba(226, 105, 14, 0.83333),6px 6px 0 rgba(226, 105, 14, 0.8),7px 7px 0 rgba(226, 105, 14, 0.76667),8px 8px 0 rgba(226, 105, 14, 0.73333),9px 9px 0 rgba(226, 105, 14, 0.7),10px 10px 0 rgba(226, 105, 14, 0.66667),11px 11px 0 rgba(226, 105, 14, 0.63333),12px 12px 0 rgba(226, 105, 14, 0.6),13px 13px 0 rgba(226, 105, 14, 0.56667),14px 14px 0 rgba(226, 105, 14, 0.53333),15px 15px 0 rgba(226, 105, 14, 0.5),16px 16px 0 rgba(226, 105, 14, 0.46667),17px 17px 0 rgba(226, 105, 14, 0.43333),18px 18px 0 rgba(226, 105, 14, 0.4),19px 19px 0 rgba(226, 105, 14, 0.36667),20px 20px 0 rgba(226, 105, 14, 0.33333),21px 21px 0 rgba(226, 105, 14, 0.3),22px 22px 0 rgba(226, 105, 14, 0.26667),23px 23px 0 rgba(226, 105, 14, 0.23333),24px 24px 0 rgba(226, 105, 14, 0.2),25px 25px 0 rgba(226, 105, 14, 0.16667),26px 26px 0 rgba(226, 105, 14, 0.13333),27px 27px 0 rgba(226, 105, 14, 0.1),28px 28px 0 rgba(226, 105, 14, 0.06667),30px 30px 0 rgba(226, 105, 14, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-openid {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-openid, .pe-bg.pe-longshadow.pe-hover.pe-so-openid:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-openid
+   * *
+   * */
+  text-shadow: 0px 0px 0 #ce6d1a,1px 1px 0 #ce6d1a,2px 2px 0 #ce6d1a,3px 3px 0 #ce6d1a,4px 4px 0 #ce6d1a,5px 5px 0 #ce6d1a,6px 6px 0 #ce6d1a,7px 7px 0 #ce6d1a,8px 8px 0 #ce6d1a,9px 9px 0 #ce6d1a,10px 10px 0 #ce6d1a,11px 11px 0 #ce6d1a,12px 12px 0 #ce6d1a,13px 13px 0 #ce6d1a,14px 14px 0 #ce6d1a,15px 15px 0 #ce6d1a,16px 16px 0 #ce6d1a,17px 17px 0 #ce6d1a,18px 18px 0 #ce6d1a,19px 19px 0 #ce6d1a,20px 20px 0 #ce6d1a,21px 21px 0 #ce6d1a,22px 22px 0 #ce6d1a,23px 23px 0 #ce6d1a,24px 24px 0 #ce6d1a,25px 25px 0 #ce6d1a,26px 26px 0 #ce6d1a,27px 27px 0 #ce6d1a,28px 28px 0 #ce6d1a,1px 1px 0 rgba(206, 109, 26, 0.96667),2px 2px 0 rgba(206, 109, 26, 0.93333),3px 3px 0 rgba(206, 109, 26, 0.9),4px 4px 0 rgba(206, 109, 26, 0.86667),5px 5px 0 rgba(206, 109, 26, 0.83333),6px 6px 0 rgba(206, 109, 26, 0.8),7px 7px 0 rgba(206, 109, 26, 0.76667),8px 8px 0 rgba(206, 109, 26, 0.73333),9px 9px 0 rgba(206, 109, 26, 0.7),10px 10px 0 rgba(206, 109, 26, 0.66667),11px 11px 0 rgba(206, 109, 26, 0.63333),12px 12px 0 rgba(206, 109, 26, 0.6),13px 13px 0 rgba(206, 109, 26, 0.56667),14px 14px 0 rgba(206, 109, 26, 0.53333),15px 15px 0 rgba(206, 109, 26, 0.5),16px 16px 0 rgba(206, 109, 26, 0.46667),17px 17px 0 rgba(206, 109, 26, 0.43333),18px 18px 0 rgba(206, 109, 26, 0.4),19px 19px 0 rgba(206, 109, 26, 0.36667),20px 20px 0 rgba(206, 109, 26, 0.33333),21px 21px 0 rgba(206, 109, 26, 0.3),22px 22px 0 rgba(206, 109, 26, 0.26667),23px 23px 0 rgba(206, 109, 26, 0.23333),24px 24px 0 rgba(206, 109, 26, 0.2),25px 25px 0 rgba(206, 109, 26, 0.16667),26px 26px 0 rgba(206, 109, 26, 0.13333),27px 27px 0 rgba(206, 109, 26, 0.1),28px 28px 0 rgba(206, 109, 26, 0.06667),30px 30px 0 rgba(206, 109, 26, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-opera {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-opera, .pe-bg.pe-longshadow.pe-hover.pe-so-opera:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-opera
+   * *
+   * */
+  text-shadow: 0px 0px 0 #9d352c,1px 1px 0 #9d352c,2px 2px 0 #9d352c,3px 3px 0 #9d352c,4px 4px 0 #9d352c,5px 5px 0 #9d352c,6px 6px 0 #9d352c,7px 7px 0 #9d352c,8px 8px 0 #9d352c,9px 9px 0 #9d352c,10px 10px 0 #9d352c,11px 11px 0 #9d352c,12px 12px 0 #9d352c,13px 13px 0 #9d352c,14px 14px 0 #9d352c,15px 15px 0 #9d352c,16px 16px 0 #9d352c,17px 17px 0 #9d352c,18px 18px 0 #9d352c,19px 19px 0 #9d352c,20px 20px 0 #9d352c,21px 21px 0 #9d352c,22px 22px 0 #9d352c,23px 23px 0 #9d352c,24px 24px 0 #9d352c,25px 25px 0 #9d352c,26px 26px 0 #9d352c,27px 27px 0 #9d352c,28px 28px 0 #9d352c,1px 1px 0 rgba(157, 53, 44, 0.96667),2px 2px 0 rgba(157, 53, 44, 0.93333),3px 3px 0 rgba(157, 53, 44, 0.9),4px 4px 0 rgba(157, 53, 44, 0.86667),5px 5px 0 rgba(157, 53, 44, 0.83333),6px 6px 0 rgba(157, 53, 44, 0.8),7px 7px 0 rgba(157, 53, 44, 0.76667),8px 8px 0 rgba(157, 53, 44, 0.73333),9px 9px 0 rgba(157, 53, 44, 0.7),10px 10px 0 rgba(157, 53, 44, 0.66667),11px 11px 0 rgba(157, 53, 44, 0.63333),12px 12px 0 rgba(157, 53, 44, 0.6),13px 13px 0 rgba(157, 53, 44, 0.56667),14px 14px 0 rgba(157, 53, 44, 0.53333),15px 15px 0 rgba(157, 53, 44, 0.5),16px 16px 0 rgba(157, 53, 44, 0.46667),17px 17px 0 rgba(157, 53, 44, 0.43333),18px 18px 0 rgba(157, 53, 44, 0.4),19px 19px 0 rgba(157, 53, 44, 0.36667),20px 20px 0 rgba(157, 53, 44, 0.33333),21px 21px 0 rgba(157, 53, 44, 0.3),22px 22px 0 rgba(157, 53, 44, 0.26667),23px 23px 0 rgba(157, 53, 44, 0.23333),24px 24px 0 rgba(157, 53, 44, 0.2),25px 25px 0 rgba(157, 53, 44, 0.16667),26px 26px 0 rgba(157, 53, 44, 0.13333),27px 27px 0 rgba(157, 53, 44, 0.1),28px 28px 0 rgba(157, 53, 44, 0.06667),30px 30px 0 rgba(157, 53, 44, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-paypal-1 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-paypal-1, .pe-bg.pe-longshadow.pe-hover.pe-so-paypal-1:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-paypal-1
+   * *
+   * */
+  text-shadow: 0px 0px 0 #297fbb,1px 1px 0 #297fbb,2px 2px 0 #297fbb,3px 3px 0 #297fbb,4px 4px 0 #297fbb,5px 5px 0 #297fbb,6px 6px 0 #297fbb,7px 7px 0 #297fbb,8px 8px 0 #297fbb,9px 9px 0 #297fbb,10px 10px 0 #297fbb,11px 11px 0 #297fbb,12px 12px 0 #297fbb,13px 13px 0 #297fbb,14px 14px 0 #297fbb,15px 15px 0 #297fbb,16px 16px 0 #297fbb,17px 17px 0 #297fbb,18px 18px 0 #297fbb,19px 19px 0 #297fbb,20px 20px 0 #297fbb,21px 21px 0 #297fbb,22px 22px 0 #297fbb,23px 23px 0 #297fbb,24px 24px 0 #297fbb,25px 25px 0 #297fbb,26px 26px 0 #297fbb,27px 27px 0 #297fbb,28px 28px 0 #297fbb,1px 1px 0 rgba(41, 127, 187, 0.96667),2px 2px 0 rgba(41, 127, 187, 0.93333),3px 3px 0 rgba(41, 127, 187, 0.9),4px 4px 0 rgba(41, 127, 187, 0.86667),5px 5px 0 rgba(41, 127, 187, 0.83333),6px 6px 0 rgba(41, 127, 187, 0.8),7px 7px 0 rgba(41, 127, 187, 0.76667),8px 8px 0 rgba(41, 127, 187, 0.73333),9px 9px 0 rgba(41, 127, 187, 0.7),10px 10px 0 rgba(41, 127, 187, 0.66667),11px 11px 0 rgba(41, 127, 187, 0.63333),12px 12px 0 rgba(41, 127, 187, 0.6),13px 13px 0 rgba(41, 127, 187, 0.56667),14px 14px 0 rgba(41, 127, 187, 0.53333),15px 15px 0 rgba(41, 127, 187, 0.5),16px 16px 0 rgba(41, 127, 187, 0.46667),17px 17px 0 rgba(41, 127, 187, 0.43333),18px 18px 0 rgba(41, 127, 187, 0.4),19px 19px 0 rgba(41, 127, 187, 0.36667),20px 20px 0 rgba(41, 127, 187, 0.33333),21px 21px 0 rgba(41, 127, 187, 0.3),22px 22px 0 rgba(41, 127, 187, 0.26667),23px 23px 0 rgba(41, 127, 187, 0.23333),24px 24px 0 rgba(41, 127, 187, 0.2),25px 25px 0 rgba(41, 127, 187, 0.16667),26px 26px 0 rgba(41, 127, 187, 0.13333),27px 27px 0 rgba(41, 127, 187, 0.1),28px 28px 0 rgba(41, 127, 187, 0.06667),30px 30px 0 rgba(41, 127, 187, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-paypal-2 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-paypal-2, .pe-bg.pe-longshadow.pe-hover.pe-so-paypal-2:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-paypal-2
+   * *
+   * */
+  text-shadow: 0px 0px 0 #297fbb,1px 1px 0 #297fbb,2px 2px 0 #297fbb,3px 3px 0 #297fbb,4px 4px 0 #297fbb,5px 5px 0 #297fbb,6px 6px 0 #297fbb,7px 7px 0 #297fbb,8px 8px 0 #297fbb,9px 9px 0 #297fbb,10px 10px 0 #297fbb,11px 11px 0 #297fbb,12px 12px 0 #297fbb,13px 13px 0 #297fbb,14px 14px 0 #297fbb,15px 15px 0 #297fbb,16px 16px 0 #297fbb,17px 17px 0 #297fbb,18px 18px 0 #297fbb,19px 19px 0 #297fbb,20px 20px 0 #297fbb,21px 21px 0 #297fbb,22px 22px 0 #297fbb,23px 23px 0 #297fbb,24px 24px 0 #297fbb,25px 25px 0 #297fbb,26px 26px 0 #297fbb,27px 27px 0 #297fbb,28px 28px 0 #297fbb,1px 1px 0 rgba(41, 127, 187, 0.96667),2px 2px 0 rgba(41, 127, 187, 0.93333),3px 3px 0 rgba(41, 127, 187, 0.9),4px 4px 0 rgba(41, 127, 187, 0.86667),5px 5px 0 rgba(41, 127, 187, 0.83333),6px 6px 0 rgba(41, 127, 187, 0.8),7px 7px 0 rgba(41, 127, 187, 0.76667),8px 8px 0 rgba(41, 127, 187, 0.73333),9px 9px 0 rgba(41, 127, 187, 0.7),10px 10px 0 rgba(41, 127, 187, 0.66667),11px 11px 0 rgba(41, 127, 187, 0.63333),12px 12px 0 rgba(41, 127, 187, 0.6),13px 13px 0 rgba(41, 127, 187, 0.56667),14px 14px 0 rgba(41, 127, 187, 0.53333),15px 15px 0 rgba(41, 127, 187, 0.5),16px 16px 0 rgba(41, 127, 187, 0.46667),17px 17px 0 rgba(41, 127, 187, 0.43333),18px 18px 0 rgba(41, 127, 187, 0.4),19px 19px 0 rgba(41, 127, 187, 0.36667),20px 20px 0 rgba(41, 127, 187, 0.33333),21px 21px 0 rgba(41, 127, 187, 0.3),22px 22px 0 rgba(41, 127, 187, 0.26667),23px 23px 0 rgba(41, 127, 187, 0.23333),24px 24px 0 rgba(41, 127, 187, 0.2),25px 25px 0 rgba(41, 127, 187, 0.16667),26px 26px 0 rgba(41, 127, 187, 0.13333),27px 27px 0 rgba(41, 127, 187, 0.1),28px 28px 0 rgba(41, 127, 187, 0.06667),30px 30px 0 rgba(41, 127, 187, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-pied-piper {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-pied-piper, .pe-bg.pe-longshadow.pe-hover.pe-so-pied-piper:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-pied-piper
+   * *
+   * */
+  text-shadow: 0px 0px 0 #3f7538,1px 1px 0 #3f7538,2px 2px 0 #3f7538,3px 3px 0 #3f7538,4px 4px 0 #3f7538,5px 5px 0 #3f7538,6px 6px 0 #3f7538,7px 7px 0 #3f7538,8px 8px 0 #3f7538,9px 9px 0 #3f7538,10px 10px 0 #3f7538,11px 11px 0 #3f7538,12px 12px 0 #3f7538,13px 13px 0 #3f7538,14px 14px 0 #3f7538,15px 15px 0 #3f7538,16px 16px 0 #3f7538,17px 17px 0 #3f7538,18px 18px 0 #3f7538,19px 19px 0 #3f7538,20px 20px 0 #3f7538,21px 21px 0 #3f7538,22px 22px 0 #3f7538,23px 23px 0 #3f7538,24px 24px 0 #3f7538,25px 25px 0 #3f7538,26px 26px 0 #3f7538,27px 27px 0 #3f7538,28px 28px 0 #3f7538,1px 1px 0 rgba(63, 117, 56, 0.96667),2px 2px 0 rgba(63, 117, 56, 0.93333),3px 3px 0 rgba(63, 117, 56, 0.9),4px 4px 0 rgba(63, 117, 56, 0.86667),5px 5px 0 rgba(63, 117, 56, 0.83333),6px 6px 0 rgba(63, 117, 56, 0.8),7px 7px 0 rgba(63, 117, 56, 0.76667),8px 8px 0 rgba(63, 117, 56, 0.73333),9px 9px 0 rgba(63, 117, 56, 0.7),10px 10px 0 rgba(63, 117, 56, 0.66667),11px 11px 0 rgba(63, 117, 56, 0.63333),12px 12px 0 rgba(63, 117, 56, 0.6),13px 13px 0 rgba(63, 117, 56, 0.56667),14px 14px 0 rgba(63, 117, 56, 0.53333),15px 15px 0 rgba(63, 117, 56, 0.5),16px 16px 0 rgba(63, 117, 56, 0.46667),17px 17px 0 rgba(63, 117, 56, 0.43333),18px 18px 0 rgba(63, 117, 56, 0.4),19px 19px 0 rgba(63, 117, 56, 0.36667),20px 20px 0 rgba(63, 117, 56, 0.33333),21px 21px 0 rgba(63, 117, 56, 0.3),22px 22px 0 rgba(63, 117, 56, 0.26667),23px 23px 0 rgba(63, 117, 56, 0.23333),24px 24px 0 rgba(63, 117, 56, 0.2),25px 25px 0 rgba(63, 117, 56, 0.16667),26px 26px 0 rgba(63, 117, 56, 0.13333),27px 27px 0 rgba(63, 117, 56, 0.1),28px 28px 0 rgba(63, 117, 56, 0.06667),30px 30px 0 rgba(63, 117, 56, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-pinterest {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-pinterest, .pe-bg.pe-longshadow.pe-hover.pe-so-pinterest:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-pinterest
+   * *
+   * */
+  text-shadow: 0px 0px 0 #9f2e1f,1px 1px 0 #9f2e1f,2px 2px 0 #9f2e1f,3px 3px 0 #9f2e1f,4px 4px 0 #9f2e1f,5px 5px 0 #9f2e1f,6px 6px 0 #9f2e1f,7px 7px 0 #9f2e1f,8px 8px 0 #9f2e1f,9px 9px 0 #9f2e1f,10px 10px 0 #9f2e1f,11px 11px 0 #9f2e1f,12px 12px 0 #9f2e1f,13px 13px 0 #9f2e1f,14px 14px 0 #9f2e1f,15px 15px 0 #9f2e1f,16px 16px 0 #9f2e1f,17px 17px 0 #9f2e1f,18px 18px 0 #9f2e1f,19px 19px 0 #9f2e1f,20px 20px 0 #9f2e1f,21px 21px 0 #9f2e1f,22px 22px 0 #9f2e1f,23px 23px 0 #9f2e1f,24px 24px 0 #9f2e1f,25px 25px 0 #9f2e1f,26px 26px 0 #9f2e1f,27px 27px 0 #9f2e1f,28px 28px 0 #9f2e1f,1px 1px 0 rgba(159, 46, 31, 0.96667),2px 2px 0 rgba(159, 46, 31, 0.93333),3px 3px 0 rgba(159, 46, 31, 0.9),4px 4px 0 rgba(159, 46, 31, 0.86667),5px 5px 0 rgba(159, 46, 31, 0.83333),6px 6px 0 rgba(159, 46, 31, 0.8),7px 7px 0 rgba(159, 46, 31, 0.76667),8px 8px 0 rgba(159, 46, 31, 0.73333),9px 9px 0 rgba(159, 46, 31, 0.7),10px 10px 0 rgba(159, 46, 31, 0.66667),11px 11px 0 rgba(159, 46, 31, 0.63333),12px 12px 0 rgba(159, 46, 31, 0.6),13px 13px 0 rgba(159, 46, 31, 0.56667),14px 14px 0 rgba(159, 46, 31, 0.53333),15px 15px 0 rgba(159, 46, 31, 0.5),16px 16px 0 rgba(159, 46, 31, 0.46667),17px 17px 0 rgba(159, 46, 31, 0.43333),18px 18px 0 rgba(159, 46, 31, 0.4),19px 19px 0 rgba(159, 46, 31, 0.36667),20px 20px 0 rgba(159, 46, 31, 0.33333),21px 21px 0 rgba(159, 46, 31, 0.3),22px 22px 0 rgba(159, 46, 31, 0.26667),23px 23px 0 rgba(159, 46, 31, 0.23333),24px 24px 0 rgba(159, 46, 31, 0.2),25px 25px 0 rgba(159, 46, 31, 0.16667),26px 26px 0 rgba(159, 46, 31, 0.13333),27px 27px 0 rgba(159, 46, 31, 0.1),28px 28px 0 rgba(159, 46, 31, 0.06667),30px 30px 0 rgba(159, 46, 31, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-qq {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-qq, .pe-bg.pe-longshadow.pe-hover.pe-so-qq:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-qq
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-qzone {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-qzone, .pe-bg.pe-longshadow.pe-hover.pe-so-qzone:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-qzone
+   * *
+   * */
+  text-shadow: 0px 0px 0 #e6a01d,1px 1px 0 #e6a01d,2px 2px 0 #e6a01d,3px 3px 0 #e6a01d,4px 4px 0 #e6a01d,5px 5px 0 #e6a01d,6px 6px 0 #e6a01d,7px 7px 0 #e6a01d,8px 8px 0 #e6a01d,9px 9px 0 #e6a01d,10px 10px 0 #e6a01d,11px 11px 0 #e6a01d,12px 12px 0 #e6a01d,13px 13px 0 #e6a01d,14px 14px 0 #e6a01d,15px 15px 0 #e6a01d,16px 16px 0 #e6a01d,17px 17px 0 #e6a01d,18px 18px 0 #e6a01d,19px 19px 0 #e6a01d,20px 20px 0 #e6a01d,21px 21px 0 #e6a01d,22px 22px 0 #e6a01d,23px 23px 0 #e6a01d,24px 24px 0 #e6a01d,25px 25px 0 #e6a01d,26px 26px 0 #e6a01d,27px 27px 0 #e6a01d,28px 28px 0 #e6a01d,1px 1px 0 rgba(230, 160, 29, 0.96667),2px 2px 0 rgba(230, 160, 29, 0.93333),3px 3px 0 rgba(230, 160, 29, 0.9),4px 4px 0 rgba(230, 160, 29, 0.86667),5px 5px 0 rgba(230, 160, 29, 0.83333),6px 6px 0 rgba(230, 160, 29, 0.8),7px 7px 0 rgba(230, 160, 29, 0.76667),8px 8px 0 rgba(230, 160, 29, 0.73333),9px 9px 0 rgba(230, 160, 29, 0.7),10px 10px 0 rgba(230, 160, 29, 0.66667),11px 11px 0 rgba(230, 160, 29, 0.63333),12px 12px 0 rgba(230, 160, 29, 0.6),13px 13px 0 rgba(230, 160, 29, 0.56667),14px 14px 0 rgba(230, 160, 29, 0.53333),15px 15px 0 rgba(230, 160, 29, 0.5),16px 16px 0 rgba(230, 160, 29, 0.46667),17px 17px 0 rgba(230, 160, 29, 0.43333),18px 18px 0 rgba(230, 160, 29, 0.4),19px 19px 0 rgba(230, 160, 29, 0.36667),20px 20px 0 rgba(230, 160, 29, 0.33333),21px 21px 0 rgba(230, 160, 29, 0.3),22px 22px 0 rgba(230, 160, 29, 0.26667),23px 23px 0 rgba(230, 160, 29, 0.23333),24px 24px 0 rgba(230, 160, 29, 0.2),25px 25px 0 rgba(230, 160, 29, 0.16667),26px 26px 0 rgba(230, 160, 29, 0.13333),27px 27px 0 rgba(230, 160, 29, 0.1),28px 28px 0 rgba(230, 160, 29, 0.06667),30px 30px 0 rgba(230, 160, 29, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-rdio {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-rdio, .pe-bg.pe-longshadow.pe-hover.pe-so-rdio:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-rdio
+   * *
+   * */
+  text-shadow: 0px 0px 0 #1e6397,1px 1px 0 #1e6397,2px 2px 0 #1e6397,3px 3px 0 #1e6397,4px 4px 0 #1e6397,5px 5px 0 #1e6397,6px 6px 0 #1e6397,7px 7px 0 #1e6397,8px 8px 0 #1e6397,9px 9px 0 #1e6397,10px 10px 0 #1e6397,11px 11px 0 #1e6397,12px 12px 0 #1e6397,13px 13px 0 #1e6397,14px 14px 0 #1e6397,15px 15px 0 #1e6397,16px 16px 0 #1e6397,17px 17px 0 #1e6397,18px 18px 0 #1e6397,19px 19px 0 #1e6397,20px 20px 0 #1e6397,21px 21px 0 #1e6397,22px 22px 0 #1e6397,23px 23px 0 #1e6397,24px 24px 0 #1e6397,25px 25px 0 #1e6397,26px 26px 0 #1e6397,27px 27px 0 #1e6397,28px 28px 0 #1e6397,1px 1px 0 rgba(30, 99, 151, 0.96667),2px 2px 0 rgba(30, 99, 151, 0.93333),3px 3px 0 rgba(30, 99, 151, 0.9),4px 4px 0 rgba(30, 99, 151, 0.86667),5px 5px 0 rgba(30, 99, 151, 0.83333),6px 6px 0 rgba(30, 99, 151, 0.8),7px 7px 0 rgba(30, 99, 151, 0.76667),8px 8px 0 rgba(30, 99, 151, 0.73333),9px 9px 0 rgba(30, 99, 151, 0.7),10px 10px 0 rgba(30, 99, 151, 0.66667),11px 11px 0 rgba(30, 99, 151, 0.63333),12px 12px 0 rgba(30, 99, 151, 0.6),13px 13px 0 rgba(30, 99, 151, 0.56667),14px 14px 0 rgba(30, 99, 151, 0.53333),15px 15px 0 rgba(30, 99, 151, 0.5),16px 16px 0 rgba(30, 99, 151, 0.46667),17px 17px 0 rgba(30, 99, 151, 0.43333),18px 18px 0 rgba(30, 99, 151, 0.4),19px 19px 0 rgba(30, 99, 151, 0.36667),20px 20px 0 rgba(30, 99, 151, 0.33333),21px 21px 0 rgba(30, 99, 151, 0.3),22px 22px 0 rgba(30, 99, 151, 0.26667),23px 23px 0 rgba(30, 99, 151, 0.23333),24px 24px 0 rgba(30, 99, 151, 0.2),25px 25px 0 rgba(30, 99, 151, 0.16667),26px 26px 0 rgba(30, 99, 151, 0.13333),27px 27px 0 rgba(30, 99, 151, 0.1),28px 28px 0 rgba(30, 99, 151, 0.06667),30px 30px 0 rgba(30, 99, 151, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-reddit {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-reddit, .pe-bg.pe-longshadow.pe-hover.pe-so-reddit:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-reddit
+   * *
+   * */
+  text-shadow: 0px 0px 0 #db4311,1px 1px 0 #db4311,2px 2px 0 #db4311,3px 3px 0 #db4311,4px 4px 0 #db4311,5px 5px 0 #db4311,6px 6px 0 #db4311,7px 7px 0 #db4311,8px 8px 0 #db4311,9px 9px 0 #db4311,10px 10px 0 #db4311,11px 11px 0 #db4311,12px 12px 0 #db4311,13px 13px 0 #db4311,14px 14px 0 #db4311,15px 15px 0 #db4311,16px 16px 0 #db4311,17px 17px 0 #db4311,18px 18px 0 #db4311,19px 19px 0 #db4311,20px 20px 0 #db4311,21px 21px 0 #db4311,22px 22px 0 #db4311,23px 23px 0 #db4311,24px 24px 0 #db4311,25px 25px 0 #db4311,26px 26px 0 #db4311,27px 27px 0 #db4311,28px 28px 0 #db4311,1px 1px 0 rgba(219, 67, 17, 0.96667),2px 2px 0 rgba(219, 67, 17, 0.93333),3px 3px 0 rgba(219, 67, 17, 0.9),4px 4px 0 rgba(219, 67, 17, 0.86667),5px 5px 0 rgba(219, 67, 17, 0.83333),6px 6px 0 rgba(219, 67, 17, 0.8),7px 7px 0 rgba(219, 67, 17, 0.76667),8px 8px 0 rgba(219, 67, 17, 0.73333),9px 9px 0 rgba(219, 67, 17, 0.7),10px 10px 0 rgba(219, 67, 17, 0.66667),11px 11px 0 rgba(219, 67, 17, 0.63333),12px 12px 0 rgba(219, 67, 17, 0.6),13px 13px 0 rgba(219, 67, 17, 0.56667),14px 14px 0 rgba(219, 67, 17, 0.53333),15px 15px 0 rgba(219, 67, 17, 0.5),16px 16px 0 rgba(219, 67, 17, 0.46667),17px 17px 0 rgba(219, 67, 17, 0.43333),18px 18px 0 rgba(219, 67, 17, 0.4),19px 19px 0 rgba(219, 67, 17, 0.36667),20px 20px 0 rgba(219, 67, 17, 0.33333),21px 21px 0 rgba(219, 67, 17, 0.3),22px 22px 0 rgba(219, 67, 17, 0.26667),23px 23px 0 rgba(219, 67, 17, 0.23333),24px 24px 0 rgba(219, 67, 17, 0.2),25px 25px 0 rgba(219, 67, 17, 0.16667),26px 26px 0 rgba(219, 67, 17, 0.13333),27px 27px 0 rgba(219, 67, 17, 0.1),28px 28px 0 rgba(219, 67, 17, 0.06667),30px 30px 0 rgba(219, 67, 17, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-renren {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-renren, .pe-bg.pe-longshadow.pe-hover.pe-so-renren:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-renren
+   * *
+   * */
+  text-shadow: 0px 0px 0 #114571,1px 1px 0 #114571,2px 2px 0 #114571,3px 3px 0 #114571,4px 4px 0 #114571,5px 5px 0 #114571,6px 6px 0 #114571,7px 7px 0 #114571,8px 8px 0 #114571,9px 9px 0 #114571,10px 10px 0 #114571,11px 11px 0 #114571,12px 12px 0 #114571,13px 13px 0 #114571,14px 14px 0 #114571,15px 15px 0 #114571,16px 16px 0 #114571,17px 17px 0 #114571,18px 18px 0 #114571,19px 19px 0 #114571,20px 20px 0 #114571,21px 21px 0 #114571,22px 22px 0 #114571,23px 23px 0 #114571,24px 24px 0 #114571,25px 25px 0 #114571,26px 26px 0 #114571,27px 27px 0 #114571,28px 28px 0 #114571,1px 1px 0 rgba(17, 69, 113, 0.96667),2px 2px 0 rgba(17, 69, 113, 0.93333),3px 3px 0 rgba(17, 69, 113, 0.9),4px 4px 0 rgba(17, 69, 113, 0.86667),5px 5px 0 rgba(17, 69, 113, 0.83333),6px 6px 0 rgba(17, 69, 113, 0.8),7px 7px 0 rgba(17, 69, 113, 0.76667),8px 8px 0 rgba(17, 69, 113, 0.73333),9px 9px 0 rgba(17, 69, 113, 0.7),10px 10px 0 rgba(17, 69, 113, 0.66667),11px 11px 0 rgba(17, 69, 113, 0.63333),12px 12px 0 rgba(17, 69, 113, 0.6),13px 13px 0 rgba(17, 69, 113, 0.56667),14px 14px 0 rgba(17, 69, 113, 0.53333),15px 15px 0 rgba(17, 69, 113, 0.5),16px 16px 0 rgba(17, 69, 113, 0.46667),17px 17px 0 rgba(17, 69, 113, 0.43333),18px 18px 0 rgba(17, 69, 113, 0.4),19px 19px 0 rgba(17, 69, 113, 0.36667),20px 20px 0 rgba(17, 69, 113, 0.33333),21px 21px 0 rgba(17, 69, 113, 0.3),22px 22px 0 rgba(17, 69, 113, 0.26667),23px 23px 0 rgba(17, 69, 113, 0.23333),24px 24px 0 rgba(17, 69, 113, 0.2),25px 25px 0 rgba(17, 69, 113, 0.16667),26px 26px 0 rgba(17, 69, 113, 0.13333),27px 27px 0 rgba(17, 69, 113, 0.1),28px 28px 0 rgba(17, 69, 113, 0.06667),30px 30px 0 rgba(17, 69, 113, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-rss {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-rss, .pe-bg.pe-longshadow.pe-hover.pe-so-rss:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-rss
+   * *
+   * */
+  text-shadow: 0px 0px 0 #db4511,1px 1px 0 #db4511,2px 2px 0 #db4511,3px 3px 0 #db4511,4px 4px 0 #db4511,5px 5px 0 #db4511,6px 6px 0 #db4511,7px 7px 0 #db4511,8px 8px 0 #db4511,9px 9px 0 #db4511,10px 10px 0 #db4511,11px 11px 0 #db4511,12px 12px 0 #db4511,13px 13px 0 #db4511,14px 14px 0 #db4511,15px 15px 0 #db4511,16px 16px 0 #db4511,17px 17px 0 #db4511,18px 18px 0 #db4511,19px 19px 0 #db4511,20px 20px 0 #db4511,21px 21px 0 #db4511,22px 22px 0 #db4511,23px 23px 0 #db4511,24px 24px 0 #db4511,25px 25px 0 #db4511,26px 26px 0 #db4511,27px 27px 0 #db4511,28px 28px 0 #db4511,1px 1px 0 rgba(219, 69, 17, 0.96667),2px 2px 0 rgba(219, 69, 17, 0.93333),3px 3px 0 rgba(219, 69, 17, 0.9),4px 4px 0 rgba(219, 69, 17, 0.86667),5px 5px 0 rgba(219, 69, 17, 0.83333),6px 6px 0 rgba(219, 69, 17, 0.8),7px 7px 0 rgba(219, 69, 17, 0.76667),8px 8px 0 rgba(219, 69, 17, 0.73333),9px 9px 0 rgba(219, 69, 17, 0.7),10px 10px 0 rgba(219, 69, 17, 0.66667),11px 11px 0 rgba(219, 69, 17, 0.63333),12px 12px 0 rgba(219, 69, 17, 0.6),13px 13px 0 rgba(219, 69, 17, 0.56667),14px 14px 0 rgba(219, 69, 17, 0.53333),15px 15px 0 rgba(219, 69, 17, 0.5),16px 16px 0 rgba(219, 69, 17, 0.46667),17px 17px 0 rgba(219, 69, 17, 0.43333),18px 18px 0 rgba(219, 69, 17, 0.4),19px 19px 0 rgba(219, 69, 17, 0.36667),20px 20px 0 rgba(219, 69, 17, 0.33333),21px 21px 0 rgba(219, 69, 17, 0.3),22px 22px 0 rgba(219, 69, 17, 0.26667),23px 23px 0 rgba(219, 69, 17, 0.23333),24px 24px 0 rgba(219, 69, 17, 0.2),25px 25px 0 rgba(219, 69, 17, 0.16667),26px 26px 0 rgba(219, 69, 17, 0.13333),27px 27px 0 rgba(219, 69, 17, 0.1),28px 28px 0 rgba(219, 69, 17, 0.06667),30px 30px 0 rgba(219, 69, 17, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-safari-1 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-safari-1, .pe-bg.pe-longshadow.pe-hover.pe-so-safari-1:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-safari-1
+   * *
+   * */
+  text-shadow: 0px 0px 0 #398bb1,1px 1px 0 #398bb1,2px 2px 0 #398bb1,3px 3px 0 #398bb1,4px 4px 0 #398bb1,5px 5px 0 #398bb1,6px 6px 0 #398bb1,7px 7px 0 #398bb1,8px 8px 0 #398bb1,9px 9px 0 #398bb1,10px 10px 0 #398bb1,11px 11px 0 #398bb1,12px 12px 0 #398bb1,13px 13px 0 #398bb1,14px 14px 0 #398bb1,15px 15px 0 #398bb1,16px 16px 0 #398bb1,17px 17px 0 #398bb1,18px 18px 0 #398bb1,19px 19px 0 #398bb1,20px 20px 0 #398bb1,21px 21px 0 #398bb1,22px 22px 0 #398bb1,23px 23px 0 #398bb1,24px 24px 0 #398bb1,25px 25px 0 #398bb1,26px 26px 0 #398bb1,27px 27px 0 #398bb1,28px 28px 0 #398bb1,1px 1px 0 rgba(57, 139, 177, 0.96667),2px 2px 0 rgba(57, 139, 177, 0.93333),3px 3px 0 rgba(57, 139, 177, 0.9),4px 4px 0 rgba(57, 139, 177, 0.86667),5px 5px 0 rgba(57, 139, 177, 0.83333),6px 6px 0 rgba(57, 139, 177, 0.8),7px 7px 0 rgba(57, 139, 177, 0.76667),8px 8px 0 rgba(57, 139, 177, 0.73333),9px 9px 0 rgba(57, 139, 177, 0.7),10px 10px 0 rgba(57, 139, 177, 0.66667),11px 11px 0 rgba(57, 139, 177, 0.63333),12px 12px 0 rgba(57, 139, 177, 0.6),13px 13px 0 rgba(57, 139, 177, 0.56667),14px 14px 0 rgba(57, 139, 177, 0.53333),15px 15px 0 rgba(57, 139, 177, 0.5),16px 16px 0 rgba(57, 139, 177, 0.46667),17px 17px 0 rgba(57, 139, 177, 0.43333),18px 18px 0 rgba(57, 139, 177, 0.4),19px 19px 0 rgba(57, 139, 177, 0.36667),20px 20px 0 rgba(57, 139, 177, 0.33333),21px 21px 0 rgba(57, 139, 177, 0.3),22px 22px 0 rgba(57, 139, 177, 0.26667),23px 23px 0 rgba(57, 139, 177, 0.23333),24px 24px 0 rgba(57, 139, 177, 0.2),25px 25px 0 rgba(57, 139, 177, 0.16667),26px 26px 0 rgba(57, 139, 177, 0.13333),27px 27px 0 rgba(57, 139, 177, 0.1),28px 28px 0 rgba(57, 139, 177, 0.06667),30px 30px 0 rgba(57, 139, 177, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-safari-2 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-safari-2, .pe-bg.pe-longshadow.pe-hover.pe-so-safari-2:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-safari-2
+   * *
+   * */
+  text-shadow: 0px 0px 0 #398bb1,1px 1px 0 #398bb1,2px 2px 0 #398bb1,3px 3px 0 #398bb1,4px 4px 0 #398bb1,5px 5px 0 #398bb1,6px 6px 0 #398bb1,7px 7px 0 #398bb1,8px 8px 0 #398bb1,9px 9px 0 #398bb1,10px 10px 0 #398bb1,11px 11px 0 #398bb1,12px 12px 0 #398bb1,13px 13px 0 #398bb1,14px 14px 0 #398bb1,15px 15px 0 #398bb1,16px 16px 0 #398bb1,17px 17px 0 #398bb1,18px 18px 0 #398bb1,19px 19px 0 #398bb1,20px 20px 0 #398bb1,21px 21px 0 #398bb1,22px 22px 0 #398bb1,23px 23px 0 #398bb1,24px 24px 0 #398bb1,25px 25px 0 #398bb1,26px 26px 0 #398bb1,27px 27px 0 #398bb1,28px 28px 0 #398bb1,1px 1px 0 rgba(57, 139, 177, 0.96667),2px 2px 0 rgba(57, 139, 177, 0.93333),3px 3px 0 rgba(57, 139, 177, 0.9),4px 4px 0 rgba(57, 139, 177, 0.86667),5px 5px 0 rgba(57, 139, 177, 0.83333),6px 6px 0 rgba(57, 139, 177, 0.8),7px 7px 0 rgba(57, 139, 177, 0.76667),8px 8px 0 rgba(57, 139, 177, 0.73333),9px 9px 0 rgba(57, 139, 177, 0.7),10px 10px 0 rgba(57, 139, 177, 0.66667),11px 11px 0 rgba(57, 139, 177, 0.63333),12px 12px 0 rgba(57, 139, 177, 0.6),13px 13px 0 rgba(57, 139, 177, 0.56667),14px 14px 0 rgba(57, 139, 177, 0.53333),15px 15px 0 rgba(57, 139, 177, 0.5),16px 16px 0 rgba(57, 139, 177, 0.46667),17px 17px 0 rgba(57, 139, 177, 0.43333),18px 18px 0 rgba(57, 139, 177, 0.4),19px 19px 0 rgba(57, 139, 177, 0.36667),20px 20px 0 rgba(57, 139, 177, 0.33333),21px 21px 0 rgba(57, 139, 177, 0.3),22px 22px 0 rgba(57, 139, 177, 0.26667),23px 23px 0 rgba(57, 139, 177, 0.23333),24px 24px 0 rgba(57, 139, 177, 0.2),25px 25px 0 rgba(57, 139, 177, 0.16667),26px 26px 0 rgba(57, 139, 177, 0.13333),27px 27px 0 rgba(57, 139, 177, 0.1),28px 28px 0 rgba(57, 139, 177, 0.06667),30px 30px 0 rgba(57, 139, 177, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-share {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-share, .pe-bg.pe-longshadow.pe-hover.pe-so-share:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-share
+   * *
+   * */
+  text-shadow: 0px 0px 0 #25451e,1px 1px 0 #25451e,2px 2px 0 #25451e,3px 3px 0 #25451e,4px 4px 0 #25451e,5px 5px 0 #25451e,6px 6px 0 #25451e,7px 7px 0 #25451e,8px 8px 0 #25451e,9px 9px 0 #25451e,10px 10px 0 #25451e,11px 11px 0 #25451e,12px 12px 0 #25451e,13px 13px 0 #25451e,14px 14px 0 #25451e,15px 15px 0 #25451e,16px 16px 0 #25451e,17px 17px 0 #25451e,18px 18px 0 #25451e,19px 19px 0 #25451e,20px 20px 0 #25451e,21px 21px 0 #25451e,22px 22px 0 #25451e,23px 23px 0 #25451e,24px 24px 0 #25451e,25px 25px 0 #25451e,26px 26px 0 #25451e,27px 27px 0 #25451e,28px 28px 0 #25451e,1px 1px 0 rgba(37, 69, 30, 0.96667),2px 2px 0 rgba(37, 69, 30, 0.93333),3px 3px 0 rgba(37, 69, 30, 0.9),4px 4px 0 rgba(37, 69, 30, 0.86667),5px 5px 0 rgba(37, 69, 30, 0.83333),6px 6px 0 rgba(37, 69, 30, 0.8),7px 7px 0 rgba(37, 69, 30, 0.76667),8px 8px 0 rgba(37, 69, 30, 0.73333),9px 9px 0 rgba(37, 69, 30, 0.7),10px 10px 0 rgba(37, 69, 30, 0.66667),11px 11px 0 rgba(37, 69, 30, 0.63333),12px 12px 0 rgba(37, 69, 30, 0.6),13px 13px 0 rgba(37, 69, 30, 0.56667),14px 14px 0 rgba(37, 69, 30, 0.53333),15px 15px 0 rgba(37, 69, 30, 0.5),16px 16px 0 rgba(37, 69, 30, 0.46667),17px 17px 0 rgba(37, 69, 30, 0.43333),18px 18px 0 rgba(37, 69, 30, 0.4),19px 19px 0 rgba(37, 69, 30, 0.36667),20px 20px 0 rgba(37, 69, 30, 0.33333),21px 21px 0 rgba(37, 69, 30, 0.3),22px 22px 0 rgba(37, 69, 30, 0.26667),23px 23px 0 rgba(37, 69, 30, 0.23333),24px 24px 0 rgba(37, 69, 30, 0.2),25px 25px 0 rgba(37, 69, 30, 0.16667),26px 26px 0 rgba(37, 69, 30, 0.13333),27px 27px 0 rgba(37, 69, 30, 0.1),28px 28px 0 rgba(37, 69, 30, 0.06667),30px 30px 0 rgba(37, 69, 30, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-skype {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-skype, .pe-bg.pe-longshadow.pe-hover.pe-so-skype:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-skype
+   * *
+   * */
+  text-shadow: 0px 0px 0 #1e94d1,1px 1px 0 #1e94d1,2px 2px 0 #1e94d1,3px 3px 0 #1e94d1,4px 4px 0 #1e94d1,5px 5px 0 #1e94d1,6px 6px 0 #1e94d1,7px 7px 0 #1e94d1,8px 8px 0 #1e94d1,9px 9px 0 #1e94d1,10px 10px 0 #1e94d1,11px 11px 0 #1e94d1,12px 12px 0 #1e94d1,13px 13px 0 #1e94d1,14px 14px 0 #1e94d1,15px 15px 0 #1e94d1,16px 16px 0 #1e94d1,17px 17px 0 #1e94d1,18px 18px 0 #1e94d1,19px 19px 0 #1e94d1,20px 20px 0 #1e94d1,21px 21px 0 #1e94d1,22px 22px 0 #1e94d1,23px 23px 0 #1e94d1,24px 24px 0 #1e94d1,25px 25px 0 #1e94d1,26px 26px 0 #1e94d1,27px 27px 0 #1e94d1,28px 28px 0 #1e94d1,1px 1px 0 rgba(30, 148, 209, 0.96667),2px 2px 0 rgba(30, 148, 209, 0.93333),3px 3px 0 rgba(30, 148, 209, 0.9),4px 4px 0 rgba(30, 148, 209, 0.86667),5px 5px 0 rgba(30, 148, 209, 0.83333),6px 6px 0 rgba(30, 148, 209, 0.8),7px 7px 0 rgba(30, 148, 209, 0.76667),8px 8px 0 rgba(30, 148, 209, 0.73333),9px 9px 0 rgba(30, 148, 209, 0.7),10px 10px 0 rgba(30, 148, 209, 0.66667),11px 11px 0 rgba(30, 148, 209, 0.63333),12px 12px 0 rgba(30, 148, 209, 0.6),13px 13px 0 rgba(30, 148, 209, 0.56667),14px 14px 0 rgba(30, 148, 209, 0.53333),15px 15px 0 rgba(30, 148, 209, 0.5),16px 16px 0 rgba(30, 148, 209, 0.46667),17px 17px 0 rgba(30, 148, 209, 0.43333),18px 18px 0 rgba(30, 148, 209, 0.4),19px 19px 0 rgba(30, 148, 209, 0.36667),20px 20px 0 rgba(30, 148, 209, 0.33333),21px 21px 0 rgba(30, 148, 209, 0.3),22px 22px 0 rgba(30, 148, 209, 0.26667),23px 23px 0 rgba(30, 148, 209, 0.23333),24px 24px 0 rgba(30, 148, 209, 0.2),25px 25px 0 rgba(30, 148, 209, 0.16667),26px 26px 0 rgba(30, 148, 209, 0.13333),27px 27px 0 rgba(30, 148, 209, 0.1),28px 28px 0 rgba(30, 148, 209, 0.06667),30px 30px 0 rgba(30, 148, 209, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-slideshare {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-slideshare, .pe-bg.pe-longshadow.pe-hover.pe-so-slideshare:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-slideshare
+   * *
+   * */
+  text-shadow: 0px 0px 0 #53888a,1px 1px 0 #53888a,2px 2px 0 #53888a,3px 3px 0 #53888a,4px 4px 0 #53888a,5px 5px 0 #53888a,6px 6px 0 #53888a,7px 7px 0 #53888a,8px 8px 0 #53888a,9px 9px 0 #53888a,10px 10px 0 #53888a,11px 11px 0 #53888a,12px 12px 0 #53888a,13px 13px 0 #53888a,14px 14px 0 #53888a,15px 15px 0 #53888a,16px 16px 0 #53888a,17px 17px 0 #53888a,18px 18px 0 #53888a,19px 19px 0 #53888a,20px 20px 0 #53888a,21px 21px 0 #53888a,22px 22px 0 #53888a,23px 23px 0 #53888a,24px 24px 0 #53888a,25px 25px 0 #53888a,26px 26px 0 #53888a,27px 27px 0 #53888a,28px 28px 0 #53888a,1px 1px 0 rgba(83, 136, 138, 0.96667),2px 2px 0 rgba(83, 136, 138, 0.93333),3px 3px 0 rgba(83, 136, 138, 0.9),4px 4px 0 rgba(83, 136, 138, 0.86667),5px 5px 0 rgba(83, 136, 138, 0.83333),6px 6px 0 rgba(83, 136, 138, 0.8),7px 7px 0 rgba(83, 136, 138, 0.76667),8px 8px 0 rgba(83, 136, 138, 0.73333),9px 9px 0 rgba(83, 136, 138, 0.7),10px 10px 0 rgba(83, 136, 138, 0.66667),11px 11px 0 rgba(83, 136, 138, 0.63333),12px 12px 0 rgba(83, 136, 138, 0.6),13px 13px 0 rgba(83, 136, 138, 0.56667),14px 14px 0 rgba(83, 136, 138, 0.53333),15px 15px 0 rgba(83, 136, 138, 0.5),16px 16px 0 rgba(83, 136, 138, 0.46667),17px 17px 0 rgba(83, 136, 138, 0.43333),18px 18px 0 rgba(83, 136, 138, 0.4),19px 19px 0 rgba(83, 136, 138, 0.36667),20px 20px 0 rgba(83, 136, 138, 0.33333),21px 21px 0 rgba(83, 136, 138, 0.3),22px 22px 0 rgba(83, 136, 138, 0.26667),23px 23px 0 rgba(83, 136, 138, 0.23333),24px 24px 0 rgba(83, 136, 138, 0.2),25px 25px 0 rgba(83, 136, 138, 0.16667),26px 26px 0 rgba(83, 136, 138, 0.13333),27px 27px 0 rgba(83, 136, 138, 0.1),28px 28px 0 rgba(83, 136, 138, 0.06667),30px 30px 0 rgba(83, 136, 138, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-soundcloud {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-soundcloud, .pe-bg.pe-longshadow.pe-hover.pe-so-soundcloud:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-soundcloud
+   * *
+   * */
+  text-shadow: 0px 0px 0 #d62a13,1px 1px 0 #d62a13,2px 2px 0 #d62a13,3px 3px 0 #d62a13,4px 4px 0 #d62a13,5px 5px 0 #d62a13,6px 6px 0 #d62a13,7px 7px 0 #d62a13,8px 8px 0 #d62a13,9px 9px 0 #d62a13,10px 10px 0 #d62a13,11px 11px 0 #d62a13,12px 12px 0 #d62a13,13px 13px 0 #d62a13,14px 14px 0 #d62a13,15px 15px 0 #d62a13,16px 16px 0 #d62a13,17px 17px 0 #d62a13,18px 18px 0 #d62a13,19px 19px 0 #d62a13,20px 20px 0 #d62a13,21px 21px 0 #d62a13,22px 22px 0 #d62a13,23px 23px 0 #d62a13,24px 24px 0 #d62a13,25px 25px 0 #d62a13,26px 26px 0 #d62a13,27px 27px 0 #d62a13,28px 28px 0 #d62a13,1px 1px 0 rgba(214, 42, 19, 0.96667),2px 2px 0 rgba(214, 42, 19, 0.93333),3px 3px 0 rgba(214, 42, 19, 0.9),4px 4px 0 rgba(214, 42, 19, 0.86667),5px 5px 0 rgba(214, 42, 19, 0.83333),6px 6px 0 rgba(214, 42, 19, 0.8),7px 7px 0 rgba(214, 42, 19, 0.76667),8px 8px 0 rgba(214, 42, 19, 0.73333),9px 9px 0 rgba(214, 42, 19, 0.7),10px 10px 0 rgba(214, 42, 19, 0.66667),11px 11px 0 rgba(214, 42, 19, 0.63333),12px 12px 0 rgba(214, 42, 19, 0.6),13px 13px 0 rgba(214, 42, 19, 0.56667),14px 14px 0 rgba(214, 42, 19, 0.53333),15px 15px 0 rgba(214, 42, 19, 0.5),16px 16px 0 rgba(214, 42, 19, 0.46667),17px 17px 0 rgba(214, 42, 19, 0.43333),18px 18px 0 rgba(214, 42, 19, 0.4),19px 19px 0 rgba(214, 42, 19, 0.36667),20px 20px 0 rgba(214, 42, 19, 0.33333),21px 21px 0 rgba(214, 42, 19, 0.3),22px 22px 0 rgba(214, 42, 19, 0.26667),23px 23px 0 rgba(214, 42, 19, 0.23333),24px 24px 0 rgba(214, 42, 19, 0.2),25px 25px 0 rgba(214, 42, 19, 0.16667),26px 26px 0 rgba(214, 42, 19, 0.13333),27px 27px 0 rgba(214, 42, 19, 0.1),28px 28px 0 rgba(214, 42, 19, 0.06667),30px 30px 0 rgba(214, 42, 19, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-spotify {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-spotify, .pe-bg.pe-longshadow.pe-hover.pe-so-spotify:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-spotify
+   * *
+   * */
+  text-shadow: 0px 0px 0 #5b9401,1px 1px 0 #5b9401,2px 2px 0 #5b9401,3px 3px 0 #5b9401,4px 4px 0 #5b9401,5px 5px 0 #5b9401,6px 6px 0 #5b9401,7px 7px 0 #5b9401,8px 8px 0 #5b9401,9px 9px 0 #5b9401,10px 10px 0 #5b9401,11px 11px 0 #5b9401,12px 12px 0 #5b9401,13px 13px 0 #5b9401,14px 14px 0 #5b9401,15px 15px 0 #5b9401,16px 16px 0 #5b9401,17px 17px 0 #5b9401,18px 18px 0 #5b9401,19px 19px 0 #5b9401,20px 20px 0 #5b9401,21px 21px 0 #5b9401,22px 22px 0 #5b9401,23px 23px 0 #5b9401,24px 24px 0 #5b9401,25px 25px 0 #5b9401,26px 26px 0 #5b9401,27px 27px 0 #5b9401,28px 28px 0 #5b9401,1px 1px 0 rgba(91, 148, 1, 0.96667),2px 2px 0 rgba(91, 148, 1, 0.93333),3px 3px 0 rgba(91, 148, 1, 0.9),4px 4px 0 rgba(91, 148, 1, 0.86667),5px 5px 0 rgba(91, 148, 1, 0.83333),6px 6px 0 rgba(91, 148, 1, 0.8),7px 7px 0 rgba(91, 148, 1, 0.76667),8px 8px 0 rgba(91, 148, 1, 0.73333),9px 9px 0 rgba(91, 148, 1, 0.7),10px 10px 0 rgba(91, 148, 1, 0.66667),11px 11px 0 rgba(91, 148, 1, 0.63333),12px 12px 0 rgba(91, 148, 1, 0.6),13px 13px 0 rgba(91, 148, 1, 0.56667),14px 14px 0 rgba(91, 148, 1, 0.53333),15px 15px 0 rgba(91, 148, 1, 0.5),16px 16px 0 rgba(91, 148, 1, 0.46667),17px 17px 0 rgba(91, 148, 1, 0.43333),18px 18px 0 rgba(91, 148, 1, 0.4),19px 19px 0 rgba(91, 148, 1, 0.36667),20px 20px 0 rgba(91, 148, 1, 0.33333),21px 21px 0 rgba(91, 148, 1, 0.3),22px 22px 0 rgba(91, 148, 1, 0.26667),23px 23px 0 rgba(91, 148, 1, 0.23333),24px 24px 0 rgba(91, 148, 1, 0.2),25px 25px 0 rgba(91, 148, 1, 0.16667),26px 26px 0 rgba(91, 148, 1, 0.13333),27px 27px 0 rgba(91, 148, 1, 0.1),28px 28px 0 rgba(91, 148, 1, 0.06667),30px 30px 0 rgba(91, 148, 1, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-stack-exchange {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-stack-exchange, .pe-bg.pe-longshadow.pe-hover.pe-so-stack-exchange:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-stack-exchange
+   * *
+   * */
+  text-shadow: 0px 0px 0 #173f6e,1px 1px 0 #173f6e,2px 2px 0 #173f6e,3px 3px 0 #173f6e,4px 4px 0 #173f6e,5px 5px 0 #173f6e,6px 6px 0 #173f6e,7px 7px 0 #173f6e,8px 8px 0 #173f6e,9px 9px 0 #173f6e,10px 10px 0 #173f6e,11px 11px 0 #173f6e,12px 12px 0 #173f6e,13px 13px 0 #173f6e,14px 14px 0 #173f6e,15px 15px 0 #173f6e,16px 16px 0 #173f6e,17px 17px 0 #173f6e,18px 18px 0 #173f6e,19px 19px 0 #173f6e,20px 20px 0 #173f6e,21px 21px 0 #173f6e,22px 22px 0 #173f6e,23px 23px 0 #173f6e,24px 24px 0 #173f6e,25px 25px 0 #173f6e,26px 26px 0 #173f6e,27px 27px 0 #173f6e,28px 28px 0 #173f6e,1px 1px 0 rgba(23, 63, 110, 0.96667),2px 2px 0 rgba(23, 63, 110, 0.93333),3px 3px 0 rgba(23, 63, 110, 0.9),4px 4px 0 rgba(23, 63, 110, 0.86667),5px 5px 0 rgba(23, 63, 110, 0.83333),6px 6px 0 rgba(23, 63, 110, 0.8),7px 7px 0 rgba(23, 63, 110, 0.76667),8px 8px 0 rgba(23, 63, 110, 0.73333),9px 9px 0 rgba(23, 63, 110, 0.7),10px 10px 0 rgba(23, 63, 110, 0.66667),11px 11px 0 rgba(23, 63, 110, 0.63333),12px 12px 0 rgba(23, 63, 110, 0.6),13px 13px 0 rgba(23, 63, 110, 0.56667),14px 14px 0 rgba(23, 63, 110, 0.53333),15px 15px 0 rgba(23, 63, 110, 0.5),16px 16px 0 rgba(23, 63, 110, 0.46667),17px 17px 0 rgba(23, 63, 110, 0.43333),18px 18px 0 rgba(23, 63, 110, 0.4),19px 19px 0 rgba(23, 63, 110, 0.36667),20px 20px 0 rgba(23, 63, 110, 0.33333),21px 21px 0 rgba(23, 63, 110, 0.3),22px 22px 0 rgba(23, 63, 110, 0.26667),23px 23px 0 rgba(23, 63, 110, 0.23333),24px 24px 0 rgba(23, 63, 110, 0.2),25px 25px 0 rgba(23, 63, 110, 0.16667),26px 26px 0 rgba(23, 63, 110, 0.13333),27px 27px 0 rgba(23, 63, 110, 0.1),28px 28px 0 rgba(23, 63, 110, 0.06667),30px 30px 0 rgba(23, 63, 110, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-stack-overflow {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-stack-overflow, .pe-bg.pe-longshadow.pe-hover.pe-so-stack-overflow:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-stack-overflow
+   * *
+   * */
+  text-shadow: 0px 0px 0 #e67e0c,1px 1px 0 #e67e0c,2px 2px 0 #e67e0c,3px 3px 0 #e67e0c,4px 4px 0 #e67e0c,5px 5px 0 #e67e0c,6px 6px 0 #e67e0c,7px 7px 0 #e67e0c,8px 8px 0 #e67e0c,9px 9px 0 #e67e0c,10px 10px 0 #e67e0c,11px 11px 0 #e67e0c,12px 12px 0 #e67e0c,13px 13px 0 #e67e0c,14px 14px 0 #e67e0c,15px 15px 0 #e67e0c,16px 16px 0 #e67e0c,17px 17px 0 #e67e0c,18px 18px 0 #e67e0c,19px 19px 0 #e67e0c,20px 20px 0 #e67e0c,21px 21px 0 #e67e0c,22px 22px 0 #e67e0c,23px 23px 0 #e67e0c,24px 24px 0 #e67e0c,25px 25px 0 #e67e0c,26px 26px 0 #e67e0c,27px 27px 0 #e67e0c,28px 28px 0 #e67e0c,1px 1px 0 rgba(230, 126, 12, 0.96667),2px 2px 0 rgba(230, 126, 12, 0.93333),3px 3px 0 rgba(230, 126, 12, 0.9),4px 4px 0 rgba(230, 126, 12, 0.86667),5px 5px 0 rgba(230, 126, 12, 0.83333),6px 6px 0 rgba(230, 126, 12, 0.8),7px 7px 0 rgba(230, 126, 12, 0.76667),8px 8px 0 rgba(230, 126, 12, 0.73333),9px 9px 0 rgba(230, 126, 12, 0.7),10px 10px 0 rgba(230, 126, 12, 0.66667),11px 11px 0 rgba(230, 126, 12, 0.63333),12px 12px 0 rgba(230, 126, 12, 0.6),13px 13px 0 rgba(230, 126, 12, 0.56667),14px 14px 0 rgba(230, 126, 12, 0.53333),15px 15px 0 rgba(230, 126, 12, 0.5),16px 16px 0 rgba(230, 126, 12, 0.46667),17px 17px 0 rgba(230, 126, 12, 0.43333),18px 18px 0 rgba(230, 126, 12, 0.4),19px 19px 0 rgba(230, 126, 12, 0.36667),20px 20px 0 rgba(230, 126, 12, 0.33333),21px 21px 0 rgba(230, 126, 12, 0.3),22px 22px 0 rgba(230, 126, 12, 0.26667),23px 23px 0 rgba(230, 126, 12, 0.23333),24px 24px 0 rgba(230, 126, 12, 0.2),25px 25px 0 rgba(230, 126, 12, 0.16667),26px 26px 0 rgba(230, 126, 12, 0.13333),27px 27px 0 rgba(230, 126, 12, 0.1),28px 28px 0 rgba(230, 126, 12, 0.06667),30px 30px 0 rgba(230, 126, 12, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-steam {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-steam, .pe-bg.pe-longshadow.pe-hover.pe-so-steam:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-steam
+   * *
+   * */
+  text-shadow: 0px 0px 0 #020202,1px 1px 0 #020202,2px 2px 0 #020202,3px 3px 0 #020202,4px 4px 0 #020202,5px 5px 0 #020202,6px 6px 0 #020202,7px 7px 0 #020202,8px 8px 0 #020202,9px 9px 0 #020202,10px 10px 0 #020202,11px 11px 0 #020202,12px 12px 0 #020202,13px 13px 0 #020202,14px 14px 0 #020202,15px 15px 0 #020202,16px 16px 0 #020202,17px 17px 0 #020202,18px 18px 0 #020202,19px 19px 0 #020202,20px 20px 0 #020202,21px 21px 0 #020202,22px 22px 0 #020202,23px 23px 0 #020202,24px 24px 0 #020202,25px 25px 0 #020202,26px 26px 0 #020202,27px 27px 0 #020202,28px 28px 0 #020202,1px 1px 0 rgba(2, 2, 2, 0.96667),2px 2px 0 rgba(2, 2, 2, 0.93333),3px 3px 0 rgba(2, 2, 2, 0.9),4px 4px 0 rgba(2, 2, 2, 0.86667),5px 5px 0 rgba(2, 2, 2, 0.83333),6px 6px 0 rgba(2, 2, 2, 0.8),7px 7px 0 rgba(2, 2, 2, 0.76667),8px 8px 0 rgba(2, 2, 2, 0.73333),9px 9px 0 rgba(2, 2, 2, 0.7),10px 10px 0 rgba(2, 2, 2, 0.66667),11px 11px 0 rgba(2, 2, 2, 0.63333),12px 12px 0 rgba(2, 2, 2, 0.6),13px 13px 0 rgba(2, 2, 2, 0.56667),14px 14px 0 rgba(2, 2, 2, 0.53333),15px 15px 0 rgba(2, 2, 2, 0.5),16px 16px 0 rgba(2, 2, 2, 0.46667),17px 17px 0 rgba(2, 2, 2, 0.43333),18px 18px 0 rgba(2, 2, 2, 0.4),19px 19px 0 rgba(2, 2, 2, 0.36667),20px 20px 0 rgba(2, 2, 2, 0.33333),21px 21px 0 rgba(2, 2, 2, 0.3),22px 22px 0 rgba(2, 2, 2, 0.26667),23px 23px 0 rgba(2, 2, 2, 0.23333),24px 24px 0 rgba(2, 2, 2, 0.2),25px 25px 0 rgba(2, 2, 2, 0.16667),26px 26px 0 rgba(2, 2, 2, 0.13333),27px 27px 0 rgba(2, 2, 2, 0.1),28px 28px 0 rgba(2, 2, 2, 0.06667),30px 30px 0 rgba(2, 2, 2, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-stumbleupon {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-stumbleupon, .pe-bg.pe-longshadow.pe-hover.pe-so-stumbleupon:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-stumbleupon
+   * *
+   * */
+  text-shadow: 0px 0px 0 #c92d18,1px 1px 0 #c92d18,2px 2px 0 #c92d18,3px 3px 0 #c92d18,4px 4px 0 #c92d18,5px 5px 0 #c92d18,6px 6px 0 #c92d18,7px 7px 0 #c92d18,8px 8px 0 #c92d18,9px 9px 0 #c92d18,10px 10px 0 #c92d18,11px 11px 0 #c92d18,12px 12px 0 #c92d18,13px 13px 0 #c92d18,14px 14px 0 #c92d18,15px 15px 0 #c92d18,16px 16px 0 #c92d18,17px 17px 0 #c92d18,18px 18px 0 #c92d18,19px 19px 0 #c92d18,20px 20px 0 #c92d18,21px 21px 0 #c92d18,22px 22px 0 #c92d18,23px 23px 0 #c92d18,24px 24px 0 #c92d18,25px 25px 0 #c92d18,26px 26px 0 #c92d18,27px 27px 0 #c92d18,28px 28px 0 #c92d18,1px 1px 0 rgba(201, 45, 24, 0.96667),2px 2px 0 rgba(201, 45, 24, 0.93333),3px 3px 0 rgba(201, 45, 24, 0.9),4px 4px 0 rgba(201, 45, 24, 0.86667),5px 5px 0 rgba(201, 45, 24, 0.83333),6px 6px 0 rgba(201, 45, 24, 0.8),7px 7px 0 rgba(201, 45, 24, 0.76667),8px 8px 0 rgba(201, 45, 24, 0.73333),9px 9px 0 rgba(201, 45, 24, 0.7),10px 10px 0 rgba(201, 45, 24, 0.66667),11px 11px 0 rgba(201, 45, 24, 0.63333),12px 12px 0 rgba(201, 45, 24, 0.6),13px 13px 0 rgba(201, 45, 24, 0.56667),14px 14px 0 rgba(201, 45, 24, 0.53333),15px 15px 0 rgba(201, 45, 24, 0.5),16px 16px 0 rgba(201, 45, 24, 0.46667),17px 17px 0 rgba(201, 45, 24, 0.43333),18px 18px 0 rgba(201, 45, 24, 0.4),19px 19px 0 rgba(201, 45, 24, 0.36667),20px 20px 0 rgba(201, 45, 24, 0.33333),21px 21px 0 rgba(201, 45, 24, 0.3),22px 22px 0 rgba(201, 45, 24, 0.26667),23px 23px 0 rgba(201, 45, 24, 0.23333),24px 24px 0 rgba(201, 45, 24, 0.2),25px 25px 0 rgba(201, 45, 24, 0.16667),26px 26px 0 rgba(201, 45, 24, 0.13333),27px 27px 0 rgba(201, 45, 24, 0.1),28px 28px 0 rgba(201, 45, 24, 0.06667),30px 30px 0 rgba(201, 45, 24, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-tencent-weibo {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-tencent-weibo, .pe-bg.pe-longshadow.pe-hover.pe-so-tencent-weibo:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-tencent-weibo
+   * *
+   * */
+  text-shadow: 0px 0px 0 #256a8b,1px 1px 0 #256a8b,2px 2px 0 #256a8b,3px 3px 0 #256a8b,4px 4px 0 #256a8b,5px 5px 0 #256a8b,6px 6px 0 #256a8b,7px 7px 0 #256a8b,8px 8px 0 #256a8b,9px 9px 0 #256a8b,10px 10px 0 #256a8b,11px 11px 0 #256a8b,12px 12px 0 #256a8b,13px 13px 0 #256a8b,14px 14px 0 #256a8b,15px 15px 0 #256a8b,16px 16px 0 #256a8b,17px 17px 0 #256a8b,18px 18px 0 #256a8b,19px 19px 0 #256a8b,20px 20px 0 #256a8b,21px 21px 0 #256a8b,22px 22px 0 #256a8b,23px 23px 0 #256a8b,24px 24px 0 #256a8b,25px 25px 0 #256a8b,26px 26px 0 #256a8b,27px 27px 0 #256a8b,28px 28px 0 #256a8b,1px 1px 0 rgba(37, 106, 139, 0.96667),2px 2px 0 rgba(37, 106, 139, 0.93333),3px 3px 0 rgba(37, 106, 139, 0.9),4px 4px 0 rgba(37, 106, 139, 0.86667),5px 5px 0 rgba(37, 106, 139, 0.83333),6px 6px 0 rgba(37, 106, 139, 0.8),7px 7px 0 rgba(37, 106, 139, 0.76667),8px 8px 0 rgba(37, 106, 139, 0.73333),9px 9px 0 rgba(37, 106, 139, 0.7),10px 10px 0 rgba(37, 106, 139, 0.66667),11px 11px 0 rgba(37, 106, 139, 0.63333),12px 12px 0 rgba(37, 106, 139, 0.6),13px 13px 0 rgba(37, 106, 139, 0.56667),14px 14px 0 rgba(37, 106, 139, 0.53333),15px 15px 0 rgba(37, 106, 139, 0.5),16px 16px 0 rgba(37, 106, 139, 0.46667),17px 17px 0 rgba(37, 106, 139, 0.43333),18px 18px 0 rgba(37, 106, 139, 0.4),19px 19px 0 rgba(37, 106, 139, 0.36667),20px 20px 0 rgba(37, 106, 139, 0.33333),21px 21px 0 rgba(37, 106, 139, 0.3),22px 22px 0 rgba(37, 106, 139, 0.26667),23px 23px 0 rgba(37, 106, 139, 0.23333),24px 24px 0 rgba(37, 106, 139, 0.2),25px 25px 0 rgba(37, 106, 139, 0.16667),26px 26px 0 rgba(37, 106, 139, 0.13333),27px 27px 0 rgba(37, 106, 139, 0.1),28px 28px 0 rgba(37, 106, 139, 0.06667),30px 30px 0 rgba(37, 106, 139, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-trello {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-trello, .pe-bg.pe-longshadow.pe-hover.pe-so-trello:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-trello
+   * *
+   * */
+  text-shadow: 0px 0px 0 #234a5d,1px 1px 0 #234a5d,2px 2px 0 #234a5d,3px 3px 0 #234a5d,4px 4px 0 #234a5d,5px 5px 0 #234a5d,6px 6px 0 #234a5d,7px 7px 0 #234a5d,8px 8px 0 #234a5d,9px 9px 0 #234a5d,10px 10px 0 #234a5d,11px 11px 0 #234a5d,12px 12px 0 #234a5d,13px 13px 0 #234a5d,14px 14px 0 #234a5d,15px 15px 0 #234a5d,16px 16px 0 #234a5d,17px 17px 0 #234a5d,18px 18px 0 #234a5d,19px 19px 0 #234a5d,20px 20px 0 #234a5d,21px 21px 0 #234a5d,22px 22px 0 #234a5d,23px 23px 0 #234a5d,24px 24px 0 #234a5d,25px 25px 0 #234a5d,26px 26px 0 #234a5d,27px 27px 0 #234a5d,28px 28px 0 #234a5d,1px 1px 0 rgba(35, 74, 93, 0.96667),2px 2px 0 rgba(35, 74, 93, 0.93333),3px 3px 0 rgba(35, 74, 93, 0.9),4px 4px 0 rgba(35, 74, 93, 0.86667),5px 5px 0 rgba(35, 74, 93, 0.83333),6px 6px 0 rgba(35, 74, 93, 0.8),7px 7px 0 rgba(35, 74, 93, 0.76667),8px 8px 0 rgba(35, 74, 93, 0.73333),9px 9px 0 rgba(35, 74, 93, 0.7),10px 10px 0 rgba(35, 74, 93, 0.66667),11px 11px 0 rgba(35, 74, 93, 0.63333),12px 12px 0 rgba(35, 74, 93, 0.6),13px 13px 0 rgba(35, 74, 93, 0.56667),14px 14px 0 rgba(35, 74, 93, 0.53333),15px 15px 0 rgba(35, 74, 93, 0.5),16px 16px 0 rgba(35, 74, 93, 0.46667),17px 17px 0 rgba(35, 74, 93, 0.43333),18px 18px 0 rgba(35, 74, 93, 0.4),19px 19px 0 rgba(35, 74, 93, 0.36667),20px 20px 0 rgba(35, 74, 93, 0.33333),21px 21px 0 rgba(35, 74, 93, 0.3),22px 22px 0 rgba(35, 74, 93, 0.26667),23px 23px 0 rgba(35, 74, 93, 0.23333),24px 24px 0 rgba(35, 74, 93, 0.2),25px 25px 0 rgba(35, 74, 93, 0.16667),26px 26px 0 rgba(35, 74, 93, 0.13333),27px 27px 0 rgba(35, 74, 93, 0.1),28px 28px 0 rgba(35, 74, 93, 0.06667),30px 30px 0 rgba(35, 74, 93, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-tripadvisor {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-tripadvisor, .pe-bg.pe-longshadow.pe-hover.pe-so-tripadvisor:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-tripadvisor
+   * *
+   * */
+  text-shadow: 0px 0px 0 #4e6e34,1px 1px 0 #4e6e34,2px 2px 0 #4e6e34,3px 3px 0 #4e6e34,4px 4px 0 #4e6e34,5px 5px 0 #4e6e34,6px 6px 0 #4e6e34,7px 7px 0 #4e6e34,8px 8px 0 #4e6e34,9px 9px 0 #4e6e34,10px 10px 0 #4e6e34,11px 11px 0 #4e6e34,12px 12px 0 #4e6e34,13px 13px 0 #4e6e34,14px 14px 0 #4e6e34,15px 15px 0 #4e6e34,16px 16px 0 #4e6e34,17px 17px 0 #4e6e34,18px 18px 0 #4e6e34,19px 19px 0 #4e6e34,20px 20px 0 #4e6e34,21px 21px 0 #4e6e34,22px 22px 0 #4e6e34,23px 23px 0 #4e6e34,24px 24px 0 #4e6e34,25px 25px 0 #4e6e34,26px 26px 0 #4e6e34,27px 27px 0 #4e6e34,28px 28px 0 #4e6e34,1px 1px 0 rgba(78, 110, 52, 0.96667),2px 2px 0 rgba(78, 110, 52, 0.93333),3px 3px 0 rgba(78, 110, 52, 0.9),4px 4px 0 rgba(78, 110, 52, 0.86667),5px 5px 0 rgba(78, 110, 52, 0.83333),6px 6px 0 rgba(78, 110, 52, 0.8),7px 7px 0 rgba(78, 110, 52, 0.76667),8px 8px 0 rgba(78, 110, 52, 0.73333),9px 9px 0 rgba(78, 110, 52, 0.7),10px 10px 0 rgba(78, 110, 52, 0.66667),11px 11px 0 rgba(78, 110, 52, 0.63333),12px 12px 0 rgba(78, 110, 52, 0.6),13px 13px 0 rgba(78, 110, 52, 0.56667),14px 14px 0 rgba(78, 110, 52, 0.53333),15px 15px 0 rgba(78, 110, 52, 0.5),16px 16px 0 rgba(78, 110, 52, 0.46667),17px 17px 0 rgba(78, 110, 52, 0.43333),18px 18px 0 rgba(78, 110, 52, 0.4),19px 19px 0 rgba(78, 110, 52, 0.36667),20px 20px 0 rgba(78, 110, 52, 0.33333),21px 21px 0 rgba(78, 110, 52, 0.3),22px 22px 0 rgba(78, 110, 52, 0.26667),23px 23px 0 rgba(78, 110, 52, 0.23333),24px 24px 0 rgba(78, 110, 52, 0.2),25px 25px 0 rgba(78, 110, 52, 0.16667),26px 26px 0 rgba(78, 110, 52, 0.13333),27px 27px 0 rgba(78, 110, 52, 0.1),28px 28px 0 rgba(78, 110, 52, 0.06667),30px 30px 0 rgba(78, 110, 52, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-tumblr {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-tumblr, .pe-bg.pe-longshadow.pe-hover.pe-so-tumblr:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-tumblr
+   * *
+   * */
+  text-shadow: 0px 0px 0 #313d4d,1px 1px 0 #313d4d,2px 2px 0 #313d4d,3px 3px 0 #313d4d,4px 4px 0 #313d4d,5px 5px 0 #313d4d,6px 6px 0 #313d4d,7px 7px 0 #313d4d,8px 8px 0 #313d4d,9px 9px 0 #313d4d,10px 10px 0 #313d4d,11px 11px 0 #313d4d,12px 12px 0 #313d4d,13px 13px 0 #313d4d,14px 14px 0 #313d4d,15px 15px 0 #313d4d,16px 16px 0 #313d4d,17px 17px 0 #313d4d,18px 18px 0 #313d4d,19px 19px 0 #313d4d,20px 20px 0 #313d4d,21px 21px 0 #313d4d,22px 22px 0 #313d4d,23px 23px 0 #313d4d,24px 24px 0 #313d4d,25px 25px 0 #313d4d,26px 26px 0 #313d4d,27px 27px 0 #313d4d,28px 28px 0 #313d4d,1px 1px 0 rgba(49, 61, 77, 0.96667),2px 2px 0 rgba(49, 61, 77, 0.93333),3px 3px 0 rgba(49, 61, 77, 0.9),4px 4px 0 rgba(49, 61, 77, 0.86667),5px 5px 0 rgba(49, 61, 77, 0.83333),6px 6px 0 rgba(49, 61, 77, 0.8),7px 7px 0 rgba(49, 61, 77, 0.76667),8px 8px 0 rgba(49, 61, 77, 0.73333),9px 9px 0 rgba(49, 61, 77, 0.7),10px 10px 0 rgba(49, 61, 77, 0.66667),11px 11px 0 rgba(49, 61, 77, 0.63333),12px 12px 0 rgba(49, 61, 77, 0.6),13px 13px 0 rgba(49, 61, 77, 0.56667),14px 14px 0 rgba(49, 61, 77, 0.53333),15px 15px 0 rgba(49, 61, 77, 0.5),16px 16px 0 rgba(49, 61, 77, 0.46667),17px 17px 0 rgba(49, 61, 77, 0.43333),18px 18px 0 rgba(49, 61, 77, 0.4),19px 19px 0 rgba(49, 61, 77, 0.36667),20px 20px 0 rgba(49, 61, 77, 0.33333),21px 21px 0 rgba(49, 61, 77, 0.3),22px 22px 0 rgba(49, 61, 77, 0.26667),23px 23px 0 rgba(49, 61, 77, 0.23333),24px 24px 0 rgba(49, 61, 77, 0.2),25px 25px 0 rgba(49, 61, 77, 0.16667),26px 26px 0 rgba(49, 61, 77, 0.13333),27px 27px 0 rgba(49, 61, 77, 0.1),28px 28px 0 rgba(49, 61, 77, 0.06667),30px 30px 0 rgba(49, 61, 77, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-twitch {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-twitch, .pe-bg.pe-longshadow.pe-hover.pe-so-twitch:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-twitch
+   * *
+   * */
+  text-shadow: 0px 0px 0 #493e81,1px 1px 0 #493e81,2px 2px 0 #493e81,3px 3px 0 #493e81,4px 4px 0 #493e81,5px 5px 0 #493e81,6px 6px 0 #493e81,7px 7px 0 #493e81,8px 8px 0 #493e81,9px 9px 0 #493e81,10px 10px 0 #493e81,11px 11px 0 #493e81,12px 12px 0 #493e81,13px 13px 0 #493e81,14px 14px 0 #493e81,15px 15px 0 #493e81,16px 16px 0 #493e81,17px 17px 0 #493e81,18px 18px 0 #493e81,19px 19px 0 #493e81,20px 20px 0 #493e81,21px 21px 0 #493e81,22px 22px 0 #493e81,23px 23px 0 #493e81,24px 24px 0 #493e81,25px 25px 0 #493e81,26px 26px 0 #493e81,27px 27px 0 #493e81,28px 28px 0 #493e81,1px 1px 0 rgba(73, 62, 129, 0.96667),2px 2px 0 rgba(73, 62, 129, 0.93333),3px 3px 0 rgba(73, 62, 129, 0.9),4px 4px 0 rgba(73, 62, 129, 0.86667),5px 5px 0 rgba(73, 62, 129, 0.83333),6px 6px 0 rgba(73, 62, 129, 0.8),7px 7px 0 rgba(73, 62, 129, 0.76667),8px 8px 0 rgba(73, 62, 129, 0.73333),9px 9px 0 rgba(73, 62, 129, 0.7),10px 10px 0 rgba(73, 62, 129, 0.66667),11px 11px 0 rgba(73, 62, 129, 0.63333),12px 12px 0 rgba(73, 62, 129, 0.6),13px 13px 0 rgba(73, 62, 129, 0.56667),14px 14px 0 rgba(73, 62, 129, 0.53333),15px 15px 0 rgba(73, 62, 129, 0.5),16px 16px 0 rgba(73, 62, 129, 0.46667),17px 17px 0 rgba(73, 62, 129, 0.43333),18px 18px 0 rgba(73, 62, 129, 0.4),19px 19px 0 rgba(73, 62, 129, 0.36667),20px 20px 0 rgba(73, 62, 129, 0.33333),21px 21px 0 rgba(73, 62, 129, 0.3),22px 22px 0 rgba(73, 62, 129, 0.26667),23px 23px 0 rgba(73, 62, 129, 0.23333),24px 24px 0 rgba(73, 62, 129, 0.2),25px 25px 0 rgba(73, 62, 129, 0.16667),26px 26px 0 rgba(73, 62, 129, 0.13333),27px 27px 0 rgba(73, 62, 129, 0.1),28px 28px 0 rgba(73, 62, 129, 0.06667),30px 30px 0 rgba(73, 62, 129, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-twitter {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-twitter, .pe-bg.pe-longshadow.pe-hover.pe-so-twitter:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-twitter
+   * *
+   * */
+  text-shadow: 0px 0px 0 #268fd1,1px 1px 0 #268fd1,2px 2px 0 #268fd1,3px 3px 0 #268fd1,4px 4px 0 #268fd1,5px 5px 0 #268fd1,6px 6px 0 #268fd1,7px 7px 0 #268fd1,8px 8px 0 #268fd1,9px 9px 0 #268fd1,10px 10px 0 #268fd1,11px 11px 0 #268fd1,12px 12px 0 #268fd1,13px 13px 0 #268fd1,14px 14px 0 #268fd1,15px 15px 0 #268fd1,16px 16px 0 #268fd1,17px 17px 0 #268fd1,18px 18px 0 #268fd1,19px 19px 0 #268fd1,20px 20px 0 #268fd1,21px 21px 0 #268fd1,22px 22px 0 #268fd1,23px 23px 0 #268fd1,24px 24px 0 #268fd1,25px 25px 0 #268fd1,26px 26px 0 #268fd1,27px 27px 0 #268fd1,28px 28px 0 #268fd1,1px 1px 0 rgba(38, 143, 209, 0.96667),2px 2px 0 rgba(38, 143, 209, 0.93333),3px 3px 0 rgba(38, 143, 209, 0.9),4px 4px 0 rgba(38, 143, 209, 0.86667),5px 5px 0 rgba(38, 143, 209, 0.83333),6px 6px 0 rgba(38, 143, 209, 0.8),7px 7px 0 rgba(38, 143, 209, 0.76667),8px 8px 0 rgba(38, 143, 209, 0.73333),9px 9px 0 rgba(38, 143, 209, 0.7),10px 10px 0 rgba(38, 143, 209, 0.66667),11px 11px 0 rgba(38, 143, 209, 0.63333),12px 12px 0 rgba(38, 143, 209, 0.6),13px 13px 0 rgba(38, 143, 209, 0.56667),14px 14px 0 rgba(38, 143, 209, 0.53333),15px 15px 0 rgba(38, 143, 209, 0.5),16px 16px 0 rgba(38, 143, 209, 0.46667),17px 17px 0 rgba(38, 143, 209, 0.43333),18px 18px 0 rgba(38, 143, 209, 0.4),19px 19px 0 rgba(38, 143, 209, 0.36667),20px 20px 0 rgba(38, 143, 209, 0.33333),21px 21px 0 rgba(38, 143, 209, 0.3),22px 22px 0 rgba(38, 143, 209, 0.26667),23px 23px 0 rgba(38, 143, 209, 0.23333),24px 24px 0 rgba(38, 143, 209, 0.2),25px 25px 0 rgba(38, 143, 209, 0.16667),26px 26px 0 rgba(38, 143, 209, 0.13333),27px 27px 0 rgba(38, 143, 209, 0.1),28px 28px 0 rgba(38, 143, 209, 0.06667),30px 30px 0 rgba(38, 143, 209, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-viadeo {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-viadeo, .pe-bg.pe-longshadow.pe-hover.pe-so-viadeo:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-viadeo
+   * *
+   * */
+  text-shadow: 0px 0px 0 #c58619,1px 1px 0 #c58619,2px 2px 0 #c58619,3px 3px 0 #c58619,4px 4px 0 #c58619,5px 5px 0 #c58619,6px 6px 0 #c58619,7px 7px 0 #c58619,8px 8px 0 #c58619,9px 9px 0 #c58619,10px 10px 0 #c58619,11px 11px 0 #c58619,12px 12px 0 #c58619,13px 13px 0 #c58619,14px 14px 0 #c58619,15px 15px 0 #c58619,16px 16px 0 #c58619,17px 17px 0 #c58619,18px 18px 0 #c58619,19px 19px 0 #c58619,20px 20px 0 #c58619,21px 21px 0 #c58619,22px 22px 0 #c58619,23px 23px 0 #c58619,24px 24px 0 #c58619,25px 25px 0 #c58619,26px 26px 0 #c58619,27px 27px 0 #c58619,28px 28px 0 #c58619,1px 1px 0 rgba(197, 134, 25, 0.96667),2px 2px 0 rgba(197, 134, 25, 0.93333),3px 3px 0 rgba(197, 134, 25, 0.9),4px 4px 0 rgba(197, 134, 25, 0.86667),5px 5px 0 rgba(197, 134, 25, 0.83333),6px 6px 0 rgba(197, 134, 25, 0.8),7px 7px 0 rgba(197, 134, 25, 0.76667),8px 8px 0 rgba(197, 134, 25, 0.73333),9px 9px 0 rgba(197, 134, 25, 0.7),10px 10px 0 rgba(197, 134, 25, 0.66667),11px 11px 0 rgba(197, 134, 25, 0.63333),12px 12px 0 rgba(197, 134, 25, 0.6),13px 13px 0 rgba(197, 134, 25, 0.56667),14px 14px 0 rgba(197, 134, 25, 0.53333),15px 15px 0 rgba(197, 134, 25, 0.5),16px 16px 0 rgba(197, 134, 25, 0.46667),17px 17px 0 rgba(197, 134, 25, 0.43333),18px 18px 0 rgba(197, 134, 25, 0.4),19px 19px 0 rgba(197, 134, 25, 0.36667),20px 20px 0 rgba(197, 134, 25, 0.33333),21px 21px 0 rgba(197, 134, 25, 0.3),22px 22px 0 rgba(197, 134, 25, 0.26667),23px 23px 0 rgba(197, 134, 25, 0.23333),24px 24px 0 rgba(197, 134, 25, 0.2),25px 25px 0 rgba(197, 134, 25, 0.16667),26px 26px 0 rgba(197, 134, 25, 0.13333),27px 27px 0 rgba(197, 134, 25, 0.1),28px 28px 0 rgba(197, 134, 25, 0.06667),30px 30px 0 rgba(197, 134, 25, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-vimeo {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-vimeo, .pe-bg.pe-longshadow.pe-hover.pe-so-vimeo:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-vimeo
+   * *
+   * */
+  text-shadow: 0px 0px 0 #24a2e1,1px 1px 0 #24a2e1,2px 2px 0 #24a2e1,3px 3px 0 #24a2e1,4px 4px 0 #24a2e1,5px 5px 0 #24a2e1,6px 6px 0 #24a2e1,7px 7px 0 #24a2e1,8px 8px 0 #24a2e1,9px 9px 0 #24a2e1,10px 10px 0 #24a2e1,11px 11px 0 #24a2e1,12px 12px 0 #24a2e1,13px 13px 0 #24a2e1,14px 14px 0 #24a2e1,15px 15px 0 #24a2e1,16px 16px 0 #24a2e1,17px 17px 0 #24a2e1,18px 18px 0 #24a2e1,19px 19px 0 #24a2e1,20px 20px 0 #24a2e1,21px 21px 0 #24a2e1,22px 22px 0 #24a2e1,23px 23px 0 #24a2e1,24px 24px 0 #24a2e1,25px 25px 0 #24a2e1,26px 26px 0 #24a2e1,27px 27px 0 #24a2e1,28px 28px 0 #24a2e1,1px 1px 0 rgba(36, 162, 225, 0.96667),2px 2px 0 rgba(36, 162, 225, 0.93333),3px 3px 0 rgba(36, 162, 225, 0.9),4px 4px 0 rgba(36, 162, 225, 0.86667),5px 5px 0 rgba(36, 162, 225, 0.83333),6px 6px 0 rgba(36, 162, 225, 0.8),7px 7px 0 rgba(36, 162, 225, 0.76667),8px 8px 0 rgba(36, 162, 225, 0.73333),9px 9px 0 rgba(36, 162, 225, 0.7),10px 10px 0 rgba(36, 162, 225, 0.66667),11px 11px 0 rgba(36, 162, 225, 0.63333),12px 12px 0 rgba(36, 162, 225, 0.6),13px 13px 0 rgba(36, 162, 225, 0.56667),14px 14px 0 rgba(36, 162, 225, 0.53333),15px 15px 0 rgba(36, 162, 225, 0.5),16px 16px 0 rgba(36, 162, 225, 0.46667),17px 17px 0 rgba(36, 162, 225, 0.43333),18px 18px 0 rgba(36, 162, 225, 0.4),19px 19px 0 rgba(36, 162, 225, 0.36667),20px 20px 0 rgba(36, 162, 225, 0.33333),21px 21px 0 rgba(36, 162, 225, 0.3),22px 22px 0 rgba(36, 162, 225, 0.26667),23px 23px 0 rgba(36, 162, 225, 0.23333),24px 24px 0 rgba(36, 162, 225, 0.2),25px 25px 0 rgba(36, 162, 225, 0.16667),26px 26px 0 rgba(36, 162, 225, 0.13333),27px 27px 0 rgba(36, 162, 225, 0.1),28px 28px 0 rgba(36, 162, 225, 0.06667),30px 30px 0 rgba(36, 162, 225, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-vine {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-vine, .pe-bg.pe-longshadow.pe-hover.pe-so-vine:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-vine
+   * *
+   * */
+  text-shadow: 0px 0px 0 #3f936e,1px 1px 0 #3f936e,2px 2px 0 #3f936e,3px 3px 0 #3f936e,4px 4px 0 #3f936e,5px 5px 0 #3f936e,6px 6px 0 #3f936e,7px 7px 0 #3f936e,8px 8px 0 #3f936e,9px 9px 0 #3f936e,10px 10px 0 #3f936e,11px 11px 0 #3f936e,12px 12px 0 #3f936e,13px 13px 0 #3f936e,14px 14px 0 #3f936e,15px 15px 0 #3f936e,16px 16px 0 #3f936e,17px 17px 0 #3f936e,18px 18px 0 #3f936e,19px 19px 0 #3f936e,20px 20px 0 #3f936e,21px 21px 0 #3f936e,22px 22px 0 #3f936e,23px 23px 0 #3f936e,24px 24px 0 #3f936e,25px 25px 0 #3f936e,26px 26px 0 #3f936e,27px 27px 0 #3f936e,28px 28px 0 #3f936e,1px 1px 0 rgba(63, 147, 110, 0.96667),2px 2px 0 rgba(63, 147, 110, 0.93333),3px 3px 0 rgba(63, 147, 110, 0.9),4px 4px 0 rgba(63, 147, 110, 0.86667),5px 5px 0 rgba(63, 147, 110, 0.83333),6px 6px 0 rgba(63, 147, 110, 0.8),7px 7px 0 rgba(63, 147, 110, 0.76667),8px 8px 0 rgba(63, 147, 110, 0.73333),9px 9px 0 rgba(63, 147, 110, 0.7),10px 10px 0 rgba(63, 147, 110, 0.66667),11px 11px 0 rgba(63, 147, 110, 0.63333),12px 12px 0 rgba(63, 147, 110, 0.6),13px 13px 0 rgba(63, 147, 110, 0.56667),14px 14px 0 rgba(63, 147, 110, 0.53333),15px 15px 0 rgba(63, 147, 110, 0.5),16px 16px 0 rgba(63, 147, 110, 0.46667),17px 17px 0 rgba(63, 147, 110, 0.43333),18px 18px 0 rgba(63, 147, 110, 0.4),19px 19px 0 rgba(63, 147, 110, 0.36667),20px 20px 0 rgba(63, 147, 110, 0.33333),21px 21px 0 rgba(63, 147, 110, 0.3),22px 22px 0 rgba(63, 147, 110, 0.26667),23px 23px 0 rgba(63, 147, 110, 0.23333),24px 24px 0 rgba(63, 147, 110, 0.2),25px 25px 0 rgba(63, 147, 110, 0.16667),26px 26px 0 rgba(63, 147, 110, 0.13333),27px 27px 0 rgba(63, 147, 110, 0.1),28px 28px 0 rgba(63, 147, 110, 0.06667),30px 30px 0 rgba(63, 147, 110, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-vk {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-vk, .pe-bg.pe-longshadow.pe-hover.pe-so-vk:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-vk
+   * *
+   * */
+  text-shadow: 0px 0px 0 #486685,1px 1px 0 #486685,2px 2px 0 #486685,3px 3px 0 #486685,4px 4px 0 #486685,5px 5px 0 #486685,6px 6px 0 #486685,7px 7px 0 #486685,8px 8px 0 #486685,9px 9px 0 #486685,10px 10px 0 #486685,11px 11px 0 #486685,12px 12px 0 #486685,13px 13px 0 #486685,14px 14px 0 #486685,15px 15px 0 #486685,16px 16px 0 #486685,17px 17px 0 #486685,18px 18px 0 #486685,19px 19px 0 #486685,20px 20px 0 #486685,21px 21px 0 #486685,22px 22px 0 #486685,23px 23px 0 #486685,24px 24px 0 #486685,25px 25px 0 #486685,26px 26px 0 #486685,27px 27px 0 #486685,28px 28px 0 #486685,1px 1px 0 rgba(72, 102, 133, 0.96667),2px 2px 0 rgba(72, 102, 133, 0.93333),3px 3px 0 rgba(72, 102, 133, 0.9),4px 4px 0 rgba(72, 102, 133, 0.86667),5px 5px 0 rgba(72, 102, 133, 0.83333),6px 6px 0 rgba(72, 102, 133, 0.8),7px 7px 0 rgba(72, 102, 133, 0.76667),8px 8px 0 rgba(72, 102, 133, 0.73333),9px 9px 0 rgba(72, 102, 133, 0.7),10px 10px 0 rgba(72, 102, 133, 0.66667),11px 11px 0 rgba(72, 102, 133, 0.63333),12px 12px 0 rgba(72, 102, 133, 0.6),13px 13px 0 rgba(72, 102, 133, 0.56667),14px 14px 0 rgba(72, 102, 133, 0.53333),15px 15px 0 rgba(72, 102, 133, 0.5),16px 16px 0 rgba(72, 102, 133, 0.46667),17px 17px 0 rgba(72, 102, 133, 0.43333),18px 18px 0 rgba(72, 102, 133, 0.4),19px 19px 0 rgba(72, 102, 133, 0.36667),20px 20px 0 rgba(72, 102, 133, 0.33333),21px 21px 0 rgba(72, 102, 133, 0.3),22px 22px 0 rgba(72, 102, 133, 0.26667),23px 23px 0 rgba(72, 102, 133, 0.23333),24px 24px 0 rgba(72, 102, 133, 0.2),25px 25px 0 rgba(72, 102, 133, 0.16667),26px 26px 0 rgba(72, 102, 133, 0.13333),27px 27px 0 rgba(72, 102, 133, 0.1),28px 28px 0 rgba(72, 102, 133, 0.06667),30px 30px 0 rgba(72, 102, 133, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-wechat {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-wechat, .pe-bg.pe-longshadow.pe-hover.pe-so-wechat:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-wechat
+   * *
+   * */
+  text-shadow: 0px 0px 0 #8caf1d,1px 1px 0 #8caf1d,2px 2px 0 #8caf1d,3px 3px 0 #8caf1d,4px 4px 0 #8caf1d,5px 5px 0 #8caf1d,6px 6px 0 #8caf1d,7px 7px 0 #8caf1d,8px 8px 0 #8caf1d,9px 9px 0 #8caf1d,10px 10px 0 #8caf1d,11px 11px 0 #8caf1d,12px 12px 0 #8caf1d,13px 13px 0 #8caf1d,14px 14px 0 #8caf1d,15px 15px 0 #8caf1d,16px 16px 0 #8caf1d,17px 17px 0 #8caf1d,18px 18px 0 #8caf1d,19px 19px 0 #8caf1d,20px 20px 0 #8caf1d,21px 21px 0 #8caf1d,22px 22px 0 #8caf1d,23px 23px 0 #8caf1d,24px 24px 0 #8caf1d,25px 25px 0 #8caf1d,26px 26px 0 #8caf1d,27px 27px 0 #8caf1d,28px 28px 0 #8caf1d,1px 1px 0 rgba(140, 175, 29, 0.96667),2px 2px 0 rgba(140, 175, 29, 0.93333),3px 3px 0 rgba(140, 175, 29, 0.9),4px 4px 0 rgba(140, 175, 29, 0.86667),5px 5px 0 rgba(140, 175, 29, 0.83333),6px 6px 0 rgba(140, 175, 29, 0.8),7px 7px 0 rgba(140, 175, 29, 0.76667),8px 8px 0 rgba(140, 175, 29, 0.73333),9px 9px 0 rgba(140, 175, 29, 0.7),10px 10px 0 rgba(140, 175, 29, 0.66667),11px 11px 0 rgba(140, 175, 29, 0.63333),12px 12px 0 rgba(140, 175, 29, 0.6),13px 13px 0 rgba(140, 175, 29, 0.56667),14px 14px 0 rgba(140, 175, 29, 0.53333),15px 15px 0 rgba(140, 175, 29, 0.5),16px 16px 0 rgba(140, 175, 29, 0.46667),17px 17px 0 rgba(140, 175, 29, 0.43333),18px 18px 0 rgba(140, 175, 29, 0.4),19px 19px 0 rgba(140, 175, 29, 0.36667),20px 20px 0 rgba(140, 175, 29, 0.33333),21px 21px 0 rgba(140, 175, 29, 0.3),22px 22px 0 rgba(140, 175, 29, 0.26667),23px 23px 0 rgba(140, 175, 29, 0.23333),24px 24px 0 rgba(140, 175, 29, 0.2),25px 25px 0 rgba(140, 175, 29, 0.16667),26px 26px 0 rgba(140, 175, 29, 0.13333),27px 27px 0 rgba(140, 175, 29, 0.1),28px 28px 0 rgba(140, 175, 29, 0.06667),30px 30px 0 rgba(140, 175, 29, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-weibo {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-weibo, .pe-bg.pe-longshadow.pe-hover.pe-so-weibo:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-weibo
+   * *
+   * */
+  text-shadow: 0px 0px 0 #a1382c,1px 1px 0 #a1382c,2px 2px 0 #a1382c,3px 3px 0 #a1382c,4px 4px 0 #a1382c,5px 5px 0 #a1382c,6px 6px 0 #a1382c,7px 7px 0 #a1382c,8px 8px 0 #a1382c,9px 9px 0 #a1382c,10px 10px 0 #a1382c,11px 11px 0 #a1382c,12px 12px 0 #a1382c,13px 13px 0 #a1382c,14px 14px 0 #a1382c,15px 15px 0 #a1382c,16px 16px 0 #a1382c,17px 17px 0 #a1382c,18px 18px 0 #a1382c,19px 19px 0 #a1382c,20px 20px 0 #a1382c,21px 21px 0 #a1382c,22px 22px 0 #a1382c,23px 23px 0 #a1382c,24px 24px 0 #a1382c,25px 25px 0 #a1382c,26px 26px 0 #a1382c,27px 27px 0 #a1382c,28px 28px 0 #a1382c,1px 1px 0 rgba(161, 56, 44, 0.96667),2px 2px 0 rgba(161, 56, 44, 0.93333),3px 3px 0 rgba(161, 56, 44, 0.9),4px 4px 0 rgba(161, 56, 44, 0.86667),5px 5px 0 rgba(161, 56, 44, 0.83333),6px 6px 0 rgba(161, 56, 44, 0.8),7px 7px 0 rgba(161, 56, 44, 0.76667),8px 8px 0 rgba(161, 56, 44, 0.73333),9px 9px 0 rgba(161, 56, 44, 0.7),10px 10px 0 rgba(161, 56, 44, 0.66667),11px 11px 0 rgba(161, 56, 44, 0.63333),12px 12px 0 rgba(161, 56, 44, 0.6),13px 13px 0 rgba(161, 56, 44, 0.56667),14px 14px 0 rgba(161, 56, 44, 0.53333),15px 15px 0 rgba(161, 56, 44, 0.5),16px 16px 0 rgba(161, 56, 44, 0.46667),17px 17px 0 rgba(161, 56, 44, 0.43333),18px 18px 0 rgba(161, 56, 44, 0.4),19px 19px 0 rgba(161, 56, 44, 0.36667),20px 20px 0 rgba(161, 56, 44, 0.33333),21px 21px 0 rgba(161, 56, 44, 0.3),22px 22px 0 rgba(161, 56, 44, 0.26667),23px 23px 0 rgba(161, 56, 44, 0.23333),24px 24px 0 rgba(161, 56, 44, 0.2),25px 25px 0 rgba(161, 56, 44, 0.16667),26px 26px 0 rgba(161, 56, 44, 0.13333),27px 27px 0 rgba(161, 56, 44, 0.1),28px 28px 0 rgba(161, 56, 44, 0.06667),30px 30px 0 rgba(161, 56, 44, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-wikipedia {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-wikipedia, .pe-bg.pe-longshadow.pe-hover.pe-so-wikipedia:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-wikipedia
+   * *
+   * */
+  text-shadow: 0px 0px 0 #4f4f4f,1px 1px 0 #4f4f4f,2px 2px 0 #4f4f4f,3px 3px 0 #4f4f4f,4px 4px 0 #4f4f4f,5px 5px 0 #4f4f4f,6px 6px 0 #4f4f4f,7px 7px 0 #4f4f4f,8px 8px 0 #4f4f4f,9px 9px 0 #4f4f4f,10px 10px 0 #4f4f4f,11px 11px 0 #4f4f4f,12px 12px 0 #4f4f4f,13px 13px 0 #4f4f4f,14px 14px 0 #4f4f4f,15px 15px 0 #4f4f4f,16px 16px 0 #4f4f4f,17px 17px 0 #4f4f4f,18px 18px 0 #4f4f4f,19px 19px 0 #4f4f4f,20px 20px 0 #4f4f4f,21px 21px 0 #4f4f4f,22px 22px 0 #4f4f4f,23px 23px 0 #4f4f4f,24px 24px 0 #4f4f4f,25px 25px 0 #4f4f4f,26px 26px 0 #4f4f4f,27px 27px 0 #4f4f4f,28px 28px 0 #4f4f4f,1px 1px 0 rgba(79, 79, 79, 0.96667),2px 2px 0 rgba(79, 79, 79, 0.93333),3px 3px 0 rgba(79, 79, 79, 0.9),4px 4px 0 rgba(79, 79, 79, 0.86667),5px 5px 0 rgba(79, 79, 79, 0.83333),6px 6px 0 rgba(79, 79, 79, 0.8),7px 7px 0 rgba(79, 79, 79, 0.76667),8px 8px 0 rgba(79, 79, 79, 0.73333),9px 9px 0 rgba(79, 79, 79, 0.7),10px 10px 0 rgba(79, 79, 79, 0.66667),11px 11px 0 rgba(79, 79, 79, 0.63333),12px 12px 0 rgba(79, 79, 79, 0.6),13px 13px 0 rgba(79, 79, 79, 0.56667),14px 14px 0 rgba(79, 79, 79, 0.53333),15px 15px 0 rgba(79, 79, 79, 0.5),16px 16px 0 rgba(79, 79, 79, 0.46667),17px 17px 0 rgba(79, 79, 79, 0.43333),18px 18px 0 rgba(79, 79, 79, 0.4),19px 19px 0 rgba(79, 79, 79, 0.36667),20px 20px 0 rgba(79, 79, 79, 0.33333),21px 21px 0 rgba(79, 79, 79, 0.3),22px 22px 0 rgba(79, 79, 79, 0.26667),23px 23px 0 rgba(79, 79, 79, 0.23333),24px 24px 0 rgba(79, 79, 79, 0.2),25px 25px 0 rgba(79, 79, 79, 0.16667),26px 26px 0 rgba(79, 79, 79, 0.13333),27px 27px 0 rgba(79, 79, 79, 0.1),28px 28px 0 rgba(79, 79, 79, 0.06667),30px 30px 0 rgba(79, 79, 79, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-windows {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-windows, .pe-bg.pe-longshadow.pe-hover.pe-so-windows:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-windows
+   * *
+   * */
+  text-shadow: 0px 0px 0 #1499e6,1px 1px 0 #1499e6,2px 2px 0 #1499e6,3px 3px 0 #1499e6,4px 4px 0 #1499e6,5px 5px 0 #1499e6,6px 6px 0 #1499e6,7px 7px 0 #1499e6,8px 8px 0 #1499e6,9px 9px 0 #1499e6,10px 10px 0 #1499e6,11px 11px 0 #1499e6,12px 12px 0 #1499e6,13px 13px 0 #1499e6,14px 14px 0 #1499e6,15px 15px 0 #1499e6,16px 16px 0 #1499e6,17px 17px 0 #1499e6,18px 18px 0 #1499e6,19px 19px 0 #1499e6,20px 20px 0 #1499e6,21px 21px 0 #1499e6,22px 22px 0 #1499e6,23px 23px 0 #1499e6,24px 24px 0 #1499e6,25px 25px 0 #1499e6,26px 26px 0 #1499e6,27px 27px 0 #1499e6,28px 28px 0 #1499e6,1px 1px 0 rgba(20, 153, 230, 0.96667),2px 2px 0 rgba(20, 153, 230, 0.93333),3px 3px 0 rgba(20, 153, 230, 0.9),4px 4px 0 rgba(20, 153, 230, 0.86667),5px 5px 0 rgba(20, 153, 230, 0.83333),6px 6px 0 rgba(20, 153, 230, 0.8),7px 7px 0 rgba(20, 153, 230, 0.76667),8px 8px 0 rgba(20, 153, 230, 0.73333),9px 9px 0 rgba(20, 153, 230, 0.7),10px 10px 0 rgba(20, 153, 230, 0.66667),11px 11px 0 rgba(20, 153, 230, 0.63333),12px 12px 0 rgba(20, 153, 230, 0.6),13px 13px 0 rgba(20, 153, 230, 0.56667),14px 14px 0 rgba(20, 153, 230, 0.53333),15px 15px 0 rgba(20, 153, 230, 0.5),16px 16px 0 rgba(20, 153, 230, 0.46667),17px 17px 0 rgba(20, 153, 230, 0.43333),18px 18px 0 rgba(20, 153, 230, 0.4),19px 19px 0 rgba(20, 153, 230, 0.36667),20px 20px 0 rgba(20, 153, 230, 0.33333),21px 21px 0 rgba(20, 153, 230, 0.3),22px 22px 0 rgba(20, 153, 230, 0.26667),23px 23px 0 rgba(20, 153, 230, 0.23333),24px 24px 0 rgba(20, 153, 230, 0.2),25px 25px 0 rgba(20, 153, 230, 0.16667),26px 26px 0 rgba(20, 153, 230, 0.13333),27px 27px 0 rgba(20, 153, 230, 0.1),28px 28px 0 rgba(20, 153, 230, 0.06667),30px 30px 0 rgba(20, 153, 230, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-wordpress-1 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-wordpress-1, .pe-bg.pe-longshadow.pe-hover.pe-so-wordpress-1:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-wordpress-1
+   * *
+   * */
+  text-shadow: 0px 0px 0 #2b2a29,1px 1px 0 #2b2a29,2px 2px 0 #2b2a29,3px 3px 0 #2b2a29,4px 4px 0 #2b2a29,5px 5px 0 #2b2a29,6px 6px 0 #2b2a29,7px 7px 0 #2b2a29,8px 8px 0 #2b2a29,9px 9px 0 #2b2a29,10px 10px 0 #2b2a29,11px 11px 0 #2b2a29,12px 12px 0 #2b2a29,13px 13px 0 #2b2a29,14px 14px 0 #2b2a29,15px 15px 0 #2b2a29,16px 16px 0 #2b2a29,17px 17px 0 #2b2a29,18px 18px 0 #2b2a29,19px 19px 0 #2b2a29,20px 20px 0 #2b2a29,21px 21px 0 #2b2a29,22px 22px 0 #2b2a29,23px 23px 0 #2b2a29,24px 24px 0 #2b2a29,25px 25px 0 #2b2a29,26px 26px 0 #2b2a29,27px 27px 0 #2b2a29,28px 28px 0 #2b2a29,1px 1px 0 rgba(43, 42, 41, 0.96667),2px 2px 0 rgba(43, 42, 41, 0.93333),3px 3px 0 rgba(43, 42, 41, 0.9),4px 4px 0 rgba(43, 42, 41, 0.86667),5px 5px 0 rgba(43, 42, 41, 0.83333),6px 6px 0 rgba(43, 42, 41, 0.8),7px 7px 0 rgba(43, 42, 41, 0.76667),8px 8px 0 rgba(43, 42, 41, 0.73333),9px 9px 0 rgba(43, 42, 41, 0.7),10px 10px 0 rgba(43, 42, 41, 0.66667),11px 11px 0 rgba(43, 42, 41, 0.63333),12px 12px 0 rgba(43, 42, 41, 0.6),13px 13px 0 rgba(43, 42, 41, 0.56667),14px 14px 0 rgba(43, 42, 41, 0.53333),15px 15px 0 rgba(43, 42, 41, 0.5),16px 16px 0 rgba(43, 42, 41, 0.46667),17px 17px 0 rgba(43, 42, 41, 0.43333),18px 18px 0 rgba(43, 42, 41, 0.4),19px 19px 0 rgba(43, 42, 41, 0.36667),20px 20px 0 rgba(43, 42, 41, 0.33333),21px 21px 0 rgba(43, 42, 41, 0.3),22px 22px 0 rgba(43, 42, 41, 0.26667),23px 23px 0 rgba(43, 42, 41, 0.23333),24px 24px 0 rgba(43, 42, 41, 0.2),25px 25px 0 rgba(43, 42, 41, 0.16667),26px 26px 0 rgba(43, 42, 41, 0.13333),27px 27px 0 rgba(43, 42, 41, 0.1),28px 28px 0 rgba(43, 42, 41, 0.06667),30px 30px 0 rgba(43, 42, 41, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-wordpress-2 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-wordpress-2, .pe-bg.pe-longshadow.pe-hover.pe-so-wordpress-2:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-wordpress-2
+   * *
+   * */
+  text-shadow: 0px 0px 0 #2b2a29,1px 1px 0 #2b2a29,2px 2px 0 #2b2a29,3px 3px 0 #2b2a29,4px 4px 0 #2b2a29,5px 5px 0 #2b2a29,6px 6px 0 #2b2a29,7px 7px 0 #2b2a29,8px 8px 0 #2b2a29,9px 9px 0 #2b2a29,10px 10px 0 #2b2a29,11px 11px 0 #2b2a29,12px 12px 0 #2b2a29,13px 13px 0 #2b2a29,14px 14px 0 #2b2a29,15px 15px 0 #2b2a29,16px 16px 0 #2b2a29,17px 17px 0 #2b2a29,18px 18px 0 #2b2a29,19px 19px 0 #2b2a29,20px 20px 0 #2b2a29,21px 21px 0 #2b2a29,22px 22px 0 #2b2a29,23px 23px 0 #2b2a29,24px 24px 0 #2b2a29,25px 25px 0 #2b2a29,26px 26px 0 #2b2a29,27px 27px 0 #2b2a29,28px 28px 0 #2b2a29,1px 1px 0 rgba(43, 42, 41, 0.96667),2px 2px 0 rgba(43, 42, 41, 0.93333),3px 3px 0 rgba(43, 42, 41, 0.9),4px 4px 0 rgba(43, 42, 41, 0.86667),5px 5px 0 rgba(43, 42, 41, 0.83333),6px 6px 0 rgba(43, 42, 41, 0.8),7px 7px 0 rgba(43, 42, 41, 0.76667),8px 8px 0 rgba(43, 42, 41, 0.73333),9px 9px 0 rgba(43, 42, 41, 0.7),10px 10px 0 rgba(43, 42, 41, 0.66667),11px 11px 0 rgba(43, 42, 41, 0.63333),12px 12px 0 rgba(43, 42, 41, 0.6),13px 13px 0 rgba(43, 42, 41, 0.56667),14px 14px 0 rgba(43, 42, 41, 0.53333),15px 15px 0 rgba(43, 42, 41, 0.5),16px 16px 0 rgba(43, 42, 41, 0.46667),17px 17px 0 rgba(43, 42, 41, 0.43333),18px 18px 0 rgba(43, 42, 41, 0.4),19px 19px 0 rgba(43, 42, 41, 0.36667),20px 20px 0 rgba(43, 42, 41, 0.33333),21px 21px 0 rgba(43, 42, 41, 0.3),22px 22px 0 rgba(43, 42, 41, 0.26667),23px 23px 0 rgba(43, 42, 41, 0.23333),24px 24px 0 rgba(43, 42, 41, 0.2),25px 25px 0 rgba(43, 42, 41, 0.16667),26px 26px 0 rgba(43, 42, 41, 0.13333),27px 27px 0 rgba(43, 42, 41, 0.1),28px 28px 0 rgba(43, 42, 41, 0.06667),30px 30px 0 rgba(43, 42, 41, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-xing {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-xing, .pe-bg.pe-longshadow.pe-hover.pe-so-xing:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-xing
+   * *
+   * */
+  text-shadow: 0px 0px 0 #15373b,1px 1px 0 #15373b,2px 2px 0 #15373b,3px 3px 0 #15373b,4px 4px 0 #15373b,5px 5px 0 #15373b,6px 6px 0 #15373b,7px 7px 0 #15373b,8px 8px 0 #15373b,9px 9px 0 #15373b,10px 10px 0 #15373b,11px 11px 0 #15373b,12px 12px 0 #15373b,13px 13px 0 #15373b,14px 14px 0 #15373b,15px 15px 0 #15373b,16px 16px 0 #15373b,17px 17px 0 #15373b,18px 18px 0 #15373b,19px 19px 0 #15373b,20px 20px 0 #15373b,21px 21px 0 #15373b,22px 22px 0 #15373b,23px 23px 0 #15373b,24px 24px 0 #15373b,25px 25px 0 #15373b,26px 26px 0 #15373b,27px 27px 0 #15373b,28px 28px 0 #15373b,1px 1px 0 rgba(21, 55, 59, 0.96667),2px 2px 0 rgba(21, 55, 59, 0.93333),3px 3px 0 rgba(21, 55, 59, 0.9),4px 4px 0 rgba(21, 55, 59, 0.86667),5px 5px 0 rgba(21, 55, 59, 0.83333),6px 6px 0 rgba(21, 55, 59, 0.8),7px 7px 0 rgba(21, 55, 59, 0.76667),8px 8px 0 rgba(21, 55, 59, 0.73333),9px 9px 0 rgba(21, 55, 59, 0.7),10px 10px 0 rgba(21, 55, 59, 0.66667),11px 11px 0 rgba(21, 55, 59, 0.63333),12px 12px 0 rgba(21, 55, 59, 0.6),13px 13px 0 rgba(21, 55, 59, 0.56667),14px 14px 0 rgba(21, 55, 59, 0.53333),15px 15px 0 rgba(21, 55, 59, 0.5),16px 16px 0 rgba(21, 55, 59, 0.46667),17px 17px 0 rgba(21, 55, 59, 0.43333),18px 18px 0 rgba(21, 55, 59, 0.4),19px 19px 0 rgba(21, 55, 59, 0.36667),20px 20px 0 rgba(21, 55, 59, 0.33333),21px 21px 0 rgba(21, 55, 59, 0.3),22px 22px 0 rgba(21, 55, 59, 0.26667),23px 23px 0 rgba(21, 55, 59, 0.23333),24px 24px 0 rgba(21, 55, 59, 0.2),25px 25px 0 rgba(21, 55, 59, 0.16667),26px 26px 0 rgba(21, 55, 59, 0.13333),27px 27px 0 rgba(21, 55, 59, 0.1),28px 28px 0 rgba(21, 55, 59, 0.06667),30px 30px 0 rgba(21, 55, 59, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-yahoo-1 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-yahoo-1, .pe-bg.pe-longshadow.pe-hover.pe-so-yahoo-1:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-yahoo-1
+   * *
+   * */
+  text-shadow: 0px 0px 0 #4f215f,1px 1px 0 #4f215f,2px 2px 0 #4f215f,3px 3px 0 #4f215f,4px 4px 0 #4f215f,5px 5px 0 #4f215f,6px 6px 0 #4f215f,7px 7px 0 #4f215f,8px 8px 0 #4f215f,9px 9px 0 #4f215f,10px 10px 0 #4f215f,11px 11px 0 #4f215f,12px 12px 0 #4f215f,13px 13px 0 #4f215f,14px 14px 0 #4f215f,15px 15px 0 #4f215f,16px 16px 0 #4f215f,17px 17px 0 #4f215f,18px 18px 0 #4f215f,19px 19px 0 #4f215f,20px 20px 0 #4f215f,21px 21px 0 #4f215f,22px 22px 0 #4f215f,23px 23px 0 #4f215f,24px 24px 0 #4f215f,25px 25px 0 #4f215f,26px 26px 0 #4f215f,27px 27px 0 #4f215f,28px 28px 0 #4f215f,1px 1px 0 rgba(79, 33, 95, 0.96667),2px 2px 0 rgba(79, 33, 95, 0.93333),3px 3px 0 rgba(79, 33, 95, 0.9),4px 4px 0 rgba(79, 33, 95, 0.86667),5px 5px 0 rgba(79, 33, 95, 0.83333),6px 6px 0 rgba(79, 33, 95, 0.8),7px 7px 0 rgba(79, 33, 95, 0.76667),8px 8px 0 rgba(79, 33, 95, 0.73333),9px 9px 0 rgba(79, 33, 95, 0.7),10px 10px 0 rgba(79, 33, 95, 0.66667),11px 11px 0 rgba(79, 33, 95, 0.63333),12px 12px 0 rgba(79, 33, 95, 0.6),13px 13px 0 rgba(79, 33, 95, 0.56667),14px 14px 0 rgba(79, 33, 95, 0.53333),15px 15px 0 rgba(79, 33, 95, 0.5),16px 16px 0 rgba(79, 33, 95, 0.46667),17px 17px 0 rgba(79, 33, 95, 0.43333),18px 18px 0 rgba(79, 33, 95, 0.4),19px 19px 0 rgba(79, 33, 95, 0.36667),20px 20px 0 rgba(79, 33, 95, 0.33333),21px 21px 0 rgba(79, 33, 95, 0.3),22px 22px 0 rgba(79, 33, 95, 0.26667),23px 23px 0 rgba(79, 33, 95, 0.23333),24px 24px 0 rgba(79, 33, 95, 0.2),25px 25px 0 rgba(79, 33, 95, 0.16667),26px 26px 0 rgba(79, 33, 95, 0.13333),27px 27px 0 rgba(79, 33, 95, 0.1),28px 28px 0 rgba(79, 33, 95, 0.06667),30px 30px 0 rgba(79, 33, 95, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-yahoo-2 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-yahoo-2, .pe-bg.pe-longshadow.pe-hover.pe-so-yahoo-2:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-yahoo-2
+   * *
+   * */
+  text-shadow: 0px 0px 0 #261e6a,1px 1px 0 #261e6a,2px 2px 0 #261e6a,3px 3px 0 #261e6a,4px 4px 0 #261e6a,5px 5px 0 #261e6a,6px 6px 0 #261e6a,7px 7px 0 #261e6a,8px 8px 0 #261e6a,9px 9px 0 #261e6a,10px 10px 0 #261e6a,11px 11px 0 #261e6a,12px 12px 0 #261e6a,13px 13px 0 #261e6a,14px 14px 0 #261e6a,15px 15px 0 #261e6a,16px 16px 0 #261e6a,17px 17px 0 #261e6a,18px 18px 0 #261e6a,19px 19px 0 #261e6a,20px 20px 0 #261e6a,21px 21px 0 #261e6a,22px 22px 0 #261e6a,23px 23px 0 #261e6a,24px 24px 0 #261e6a,25px 25px 0 #261e6a,26px 26px 0 #261e6a,27px 27px 0 #261e6a,28px 28px 0 #261e6a,1px 1px 0 rgba(38, 30, 106, 0.96667),2px 2px 0 rgba(38, 30, 106, 0.93333),3px 3px 0 rgba(38, 30, 106, 0.9),4px 4px 0 rgba(38, 30, 106, 0.86667),5px 5px 0 rgba(38, 30, 106, 0.83333),6px 6px 0 rgba(38, 30, 106, 0.8),7px 7px 0 rgba(38, 30, 106, 0.76667),8px 8px 0 rgba(38, 30, 106, 0.73333),9px 9px 0 rgba(38, 30, 106, 0.7),10px 10px 0 rgba(38, 30, 106, 0.66667),11px 11px 0 rgba(38, 30, 106, 0.63333),12px 12px 0 rgba(38, 30, 106, 0.6),13px 13px 0 rgba(38, 30, 106, 0.56667),14px 14px 0 rgba(38, 30, 106, 0.53333),15px 15px 0 rgba(38, 30, 106, 0.5),16px 16px 0 rgba(38, 30, 106, 0.46667),17px 17px 0 rgba(38, 30, 106, 0.43333),18px 18px 0 rgba(38, 30, 106, 0.4),19px 19px 0 rgba(38, 30, 106, 0.36667),20px 20px 0 rgba(38, 30, 106, 0.33333),21px 21px 0 rgba(38, 30, 106, 0.3),22px 22px 0 rgba(38, 30, 106, 0.26667),23px 23px 0 rgba(38, 30, 106, 0.23333),24px 24px 0 rgba(38, 30, 106, 0.2),25px 25px 0 rgba(38, 30, 106, 0.16667),26px 26px 0 rgba(38, 30, 106, 0.13333),27px 27px 0 rgba(38, 30, 106, 0.1),28px 28px 0 rgba(38, 30, 106, 0.06667),30px 30px 0 rgba(38, 30, 106, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-yelp {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-yelp, .pe-bg.pe-longshadow.pe-hover.pe-so-yelp:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-yelp
+   * *
+   * */
+  text-shadow: 0px 0px 0 #9d2e1e,1px 1px 0 #9d2e1e,2px 2px 0 #9d2e1e,3px 3px 0 #9d2e1e,4px 4px 0 #9d2e1e,5px 5px 0 #9d2e1e,6px 6px 0 #9d2e1e,7px 7px 0 #9d2e1e,8px 8px 0 #9d2e1e,9px 9px 0 #9d2e1e,10px 10px 0 #9d2e1e,11px 11px 0 #9d2e1e,12px 12px 0 #9d2e1e,13px 13px 0 #9d2e1e,14px 14px 0 #9d2e1e,15px 15px 0 #9d2e1e,16px 16px 0 #9d2e1e,17px 17px 0 #9d2e1e,18px 18px 0 #9d2e1e,19px 19px 0 #9d2e1e,20px 20px 0 #9d2e1e,21px 21px 0 #9d2e1e,22px 22px 0 #9d2e1e,23px 23px 0 #9d2e1e,24px 24px 0 #9d2e1e,25px 25px 0 #9d2e1e,26px 26px 0 #9d2e1e,27px 27px 0 #9d2e1e,28px 28px 0 #9d2e1e,1px 1px 0 rgba(157, 46, 30, 0.96667),2px 2px 0 rgba(157, 46, 30, 0.93333),3px 3px 0 rgba(157, 46, 30, 0.9),4px 4px 0 rgba(157, 46, 30, 0.86667),5px 5px 0 rgba(157, 46, 30, 0.83333),6px 6px 0 rgba(157, 46, 30, 0.8),7px 7px 0 rgba(157, 46, 30, 0.76667),8px 8px 0 rgba(157, 46, 30, 0.73333),9px 9px 0 rgba(157, 46, 30, 0.7),10px 10px 0 rgba(157, 46, 30, 0.66667),11px 11px 0 rgba(157, 46, 30, 0.63333),12px 12px 0 rgba(157, 46, 30, 0.6),13px 13px 0 rgba(157, 46, 30, 0.56667),14px 14px 0 rgba(157, 46, 30, 0.53333),15px 15px 0 rgba(157, 46, 30, 0.5),16px 16px 0 rgba(157, 46, 30, 0.46667),17px 17px 0 rgba(157, 46, 30, 0.43333),18px 18px 0 rgba(157, 46, 30, 0.4),19px 19px 0 rgba(157, 46, 30, 0.36667),20px 20px 0 rgba(157, 46, 30, 0.33333),21px 21px 0 rgba(157, 46, 30, 0.3),22px 22px 0 rgba(157, 46, 30, 0.26667),23px 23px 0 rgba(157, 46, 30, 0.23333),24px 24px 0 rgba(157, 46, 30, 0.2),25px 25px 0 rgba(157, 46, 30, 0.16667),26px 26px 0 rgba(157, 46, 30, 0.13333),27px 27px 0 rgba(157, 46, 30, 0.1),28px 28px 0 rgba(157, 46, 30, 0.06667),30px 30px 0 rgba(157, 46, 30, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-youtube-1 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-youtube-1, .pe-bg.pe-longshadow.pe-hover.pe-so-youtube-1:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-youtube-1
+   * *
+   * */
+  text-shadow: 0px 0px 0 #bf2f1b,1px 1px 0 #bf2f1b,2px 2px 0 #bf2f1b,3px 3px 0 #bf2f1b,4px 4px 0 #bf2f1b,5px 5px 0 #bf2f1b,6px 6px 0 #bf2f1b,7px 7px 0 #bf2f1b,8px 8px 0 #bf2f1b,9px 9px 0 #bf2f1b,10px 10px 0 #bf2f1b,11px 11px 0 #bf2f1b,12px 12px 0 #bf2f1b,13px 13px 0 #bf2f1b,14px 14px 0 #bf2f1b,15px 15px 0 #bf2f1b,16px 16px 0 #bf2f1b,17px 17px 0 #bf2f1b,18px 18px 0 #bf2f1b,19px 19px 0 #bf2f1b,20px 20px 0 #bf2f1b,21px 21px 0 #bf2f1b,22px 22px 0 #bf2f1b,23px 23px 0 #bf2f1b,24px 24px 0 #bf2f1b,25px 25px 0 #bf2f1b,26px 26px 0 #bf2f1b,27px 27px 0 #bf2f1b,28px 28px 0 #bf2f1b,1px 1px 0 rgba(191, 47, 27, 0.96667),2px 2px 0 rgba(191, 47, 27, 0.93333),3px 3px 0 rgba(191, 47, 27, 0.9),4px 4px 0 rgba(191, 47, 27, 0.86667),5px 5px 0 rgba(191, 47, 27, 0.83333),6px 6px 0 rgba(191, 47, 27, 0.8),7px 7px 0 rgba(191, 47, 27, 0.76667),8px 8px 0 rgba(191, 47, 27, 0.73333),9px 9px 0 rgba(191, 47, 27, 0.7),10px 10px 0 rgba(191, 47, 27, 0.66667),11px 11px 0 rgba(191, 47, 27, 0.63333),12px 12px 0 rgba(191, 47, 27, 0.6),13px 13px 0 rgba(191, 47, 27, 0.56667),14px 14px 0 rgba(191, 47, 27, 0.53333),15px 15px 0 rgba(191, 47, 27, 0.5),16px 16px 0 rgba(191, 47, 27, 0.46667),17px 17px 0 rgba(191, 47, 27, 0.43333),18px 18px 0 rgba(191, 47, 27, 0.4),19px 19px 0 rgba(191, 47, 27, 0.36667),20px 20px 0 rgba(191, 47, 27, 0.33333),21px 21px 0 rgba(191, 47, 27, 0.3),22px 22px 0 rgba(191, 47, 27, 0.26667),23px 23px 0 rgba(191, 47, 27, 0.23333),24px 24px 0 rgba(191, 47, 27, 0.2),25px 25px 0 rgba(191, 47, 27, 0.16667),26px 26px 0 rgba(191, 47, 27, 0.13333),27px 27px 0 rgba(191, 47, 27, 0.1),28px 28px 0 rgba(191, 47, 27, 0.06667),30px 30px 0 rgba(191, 47, 27, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-youtube-2 {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-youtube-2, .pe-bg.pe-longshadow.pe-hover.pe-so-youtube-2:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-youtube-2
+   * *
+   * */
+  text-shadow: 0px 0px 0 #bf2f1b,1px 1px 0 #bf2f1b,2px 2px 0 #bf2f1b,3px 3px 0 #bf2f1b,4px 4px 0 #bf2f1b,5px 5px 0 #bf2f1b,6px 6px 0 #bf2f1b,7px 7px 0 #bf2f1b,8px 8px 0 #bf2f1b,9px 9px 0 #bf2f1b,10px 10px 0 #bf2f1b,11px 11px 0 #bf2f1b,12px 12px 0 #bf2f1b,13px 13px 0 #bf2f1b,14px 14px 0 #bf2f1b,15px 15px 0 #bf2f1b,16px 16px 0 #bf2f1b,17px 17px 0 #bf2f1b,18px 18px 0 #bf2f1b,19px 19px 0 #bf2f1b,20px 20px 0 #bf2f1b,21px 21px 0 #bf2f1b,22px 22px 0 #bf2f1b,23px 23px 0 #bf2f1b,24px 24px 0 #bf2f1b,25px 25px 0 #bf2f1b,26px 26px 0 #bf2f1b,27px 27px 0 #bf2f1b,28px 28px 0 #bf2f1b,1px 1px 0 rgba(191, 47, 27, 0.96667),2px 2px 0 rgba(191, 47, 27, 0.93333),3px 3px 0 rgba(191, 47, 27, 0.9),4px 4px 0 rgba(191, 47, 27, 0.86667),5px 5px 0 rgba(191, 47, 27, 0.83333),6px 6px 0 rgba(191, 47, 27, 0.8),7px 7px 0 rgba(191, 47, 27, 0.76667),8px 8px 0 rgba(191, 47, 27, 0.73333),9px 9px 0 rgba(191, 47, 27, 0.7),10px 10px 0 rgba(191, 47, 27, 0.66667),11px 11px 0 rgba(191, 47, 27, 0.63333),12px 12px 0 rgba(191, 47, 27, 0.6),13px 13px 0 rgba(191, 47, 27, 0.56667),14px 14px 0 rgba(191, 47, 27, 0.53333),15px 15px 0 rgba(191, 47, 27, 0.5),16px 16px 0 rgba(191, 47, 27, 0.46667),17px 17px 0 rgba(191, 47, 27, 0.43333),18px 18px 0 rgba(191, 47, 27, 0.4),19px 19px 0 rgba(191, 47, 27, 0.36667),20px 20px 0 rgba(191, 47, 27, 0.33333),21px 21px 0 rgba(191, 47, 27, 0.3),22px 22px 0 rgba(191, 47, 27, 0.26667),23px 23px 0 rgba(191, 47, 27, 0.23333),24px 24px 0 rgba(191, 47, 27, 0.2),25px 25px 0 rgba(191, 47, 27, 0.16667),26px 26px 0 rgba(191, 47, 27, 0.13333),27px 27px 0 rgba(191, 47, 27, 0.1),28px 28px 0 rgba(191, 47, 27, 0.06667),30px 30px 0 rgba(191, 47, 27, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-zerply {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-zerply, .pe-bg.pe-longshadow.pe-hover.pe-so-zerply:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-zerply
+   * *
+   * */
+  text-shadow: 0px 0px 0 #84ab57,1px 1px 0 #84ab57,2px 2px 0 #84ab57,3px 3px 0 #84ab57,4px 4px 0 #84ab57,5px 5px 0 #84ab57,6px 6px 0 #84ab57,7px 7px 0 #84ab57,8px 8px 0 #84ab57,9px 9px 0 #84ab57,10px 10px 0 #84ab57,11px 11px 0 #84ab57,12px 12px 0 #84ab57,13px 13px 0 #84ab57,14px 14px 0 #84ab57,15px 15px 0 #84ab57,16px 16px 0 #84ab57,17px 17px 0 #84ab57,18px 18px 0 #84ab57,19px 19px 0 #84ab57,20px 20px 0 #84ab57,21px 21px 0 #84ab57,22px 22px 0 #84ab57,23px 23px 0 #84ab57,24px 24px 0 #84ab57,25px 25px 0 #84ab57,26px 26px 0 #84ab57,27px 27px 0 #84ab57,28px 28px 0 #84ab57,1px 1px 0 rgba(132, 171, 87, 0.96667),2px 2px 0 rgba(132, 171, 87, 0.93333),3px 3px 0 rgba(132, 171, 87, 0.9),4px 4px 0 rgba(132, 171, 87, 0.86667),5px 5px 0 rgba(132, 171, 87, 0.83333),6px 6px 0 rgba(132, 171, 87, 0.8),7px 7px 0 rgba(132, 171, 87, 0.76667),8px 8px 0 rgba(132, 171, 87, 0.73333),9px 9px 0 rgba(132, 171, 87, 0.7),10px 10px 0 rgba(132, 171, 87, 0.66667),11px 11px 0 rgba(132, 171, 87, 0.63333),12px 12px 0 rgba(132, 171, 87, 0.6),13px 13px 0 rgba(132, 171, 87, 0.56667),14px 14px 0 rgba(132, 171, 87, 0.53333),15px 15px 0 rgba(132, 171, 87, 0.5),16px 16px 0 rgba(132, 171, 87, 0.46667),17px 17px 0 rgba(132, 171, 87, 0.43333),18px 18px 0 rgba(132, 171, 87, 0.4),19px 19px 0 rgba(132, 171, 87, 0.36667),20px 20px 0 rgba(132, 171, 87, 0.33333),21px 21px 0 rgba(132, 171, 87, 0.3),22px 22px 0 rgba(132, 171, 87, 0.26667),23px 23px 0 rgba(132, 171, 87, 0.23333),24px 24px 0 rgba(132, 171, 87, 0.2),25px 25px 0 rgba(132, 171, 87, 0.16667),26px 26px 0 rgba(132, 171, 87, 0.13333),27px 27px 0 rgba(132, 171, 87, 0.1),28px 28px 0 rgba(132, 171, 87, 0.06667),30px 30px 0 rgba(132, 171, 87, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-bootstrap {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-bootstrap, .pe-bg.pe-longshadow.pe-hover.pe-so-bootstrap:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-bootstrap
+   * *
+   * */
+  text-shadow: 0px 0px 0 #574278,1px 1px 0 #574278,2px 2px 0 #574278,3px 3px 0 #574278,4px 4px 0 #574278,5px 5px 0 #574278,6px 6px 0 #574278,7px 7px 0 #574278,8px 8px 0 #574278,9px 9px 0 #574278,10px 10px 0 #574278,11px 11px 0 #574278,12px 12px 0 #574278,13px 13px 0 #574278,14px 14px 0 #574278,15px 15px 0 #574278,16px 16px 0 #574278,17px 17px 0 #574278,18px 18px 0 #574278,19px 19px 0 #574278,20px 20px 0 #574278,21px 21px 0 #574278,22px 22px 0 #574278,23px 23px 0 #574278,24px 24px 0 #574278,25px 25px 0 #574278,26px 26px 0 #574278,27px 27px 0 #574278,28px 28px 0 #574278,1px 1px 0 rgba(87, 66, 120, 0.96667),2px 2px 0 rgba(87, 66, 120, 0.93333),3px 3px 0 rgba(87, 66, 120, 0.9),4px 4px 0 rgba(87, 66, 120, 0.86667),5px 5px 0 rgba(87, 66, 120, 0.83333),6px 6px 0 rgba(87, 66, 120, 0.8),7px 7px 0 rgba(87, 66, 120, 0.76667),8px 8px 0 rgba(87, 66, 120, 0.73333),9px 9px 0 rgba(87, 66, 120, 0.7),10px 10px 0 rgba(87, 66, 120, 0.66667),11px 11px 0 rgba(87, 66, 120, 0.63333),12px 12px 0 rgba(87, 66, 120, 0.6),13px 13px 0 rgba(87, 66, 120, 0.56667),14px 14px 0 rgba(87, 66, 120, 0.53333),15px 15px 0 rgba(87, 66, 120, 0.5),16px 16px 0 rgba(87, 66, 120, 0.46667),17px 17px 0 rgba(87, 66, 120, 0.43333),18px 18px 0 rgba(87, 66, 120, 0.4),19px 19px 0 rgba(87, 66, 120, 0.36667),20px 20px 0 rgba(87, 66, 120, 0.33333),21px 21px 0 rgba(87, 66, 120, 0.3),22px 22px 0 rgba(87, 66, 120, 0.26667),23px 23px 0 rgba(87, 66, 120, 0.23333),24px 24px 0 rgba(87, 66, 120, 0.2),25px 25px 0 rgba(87, 66, 120, 0.16667),26px 26px 0 rgba(87, 66, 120, 0.13333),27px 27px 0 rgba(87, 66, 120, 0.1),28px 28px 0 rgba(87, 66, 120, 0.06667),30px 30px 0 rgba(87, 66, 120, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-pixeden {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-pixeden, .pe-bg.pe-longshadow.pe-hover.pe-so-pixeden:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-pixeden
+   * *
+   * */
+  text-shadow: 0px 0px 0 #757d3a,1px 1px 0 #757d3a,2px 2px 0 #757d3a,3px 3px 0 #757d3a,4px 4px 0 #757d3a,5px 5px 0 #757d3a,6px 6px 0 #757d3a,7px 7px 0 #757d3a,8px 8px 0 #757d3a,9px 9px 0 #757d3a,10px 10px 0 #757d3a,11px 11px 0 #757d3a,12px 12px 0 #757d3a,13px 13px 0 #757d3a,14px 14px 0 #757d3a,15px 15px 0 #757d3a,16px 16px 0 #757d3a,17px 17px 0 #757d3a,18px 18px 0 #757d3a,19px 19px 0 #757d3a,20px 20px 0 #757d3a,21px 21px 0 #757d3a,22px 22px 0 #757d3a,23px 23px 0 #757d3a,24px 24px 0 #757d3a,25px 25px 0 #757d3a,26px 26px 0 #757d3a,27px 27px 0 #757d3a,28px 28px 0 #757d3a,1px 1px 0 rgba(117, 125, 58, 0.96667),2px 2px 0 rgba(117, 125, 58, 0.93333),3px 3px 0 rgba(117, 125, 58, 0.9),4px 4px 0 rgba(117, 125, 58, 0.86667),5px 5px 0 rgba(117, 125, 58, 0.83333),6px 6px 0 rgba(117, 125, 58, 0.8),7px 7px 0 rgba(117, 125, 58, 0.76667),8px 8px 0 rgba(117, 125, 58, 0.73333),9px 9px 0 rgba(117, 125, 58, 0.7),10px 10px 0 rgba(117, 125, 58, 0.66667),11px 11px 0 rgba(117, 125, 58, 0.63333),12px 12px 0 rgba(117, 125, 58, 0.6),13px 13px 0 rgba(117, 125, 58, 0.56667),14px 14px 0 rgba(117, 125, 58, 0.53333),15px 15px 0 rgba(117, 125, 58, 0.5),16px 16px 0 rgba(117, 125, 58, 0.46667),17px 17px 0 rgba(117, 125, 58, 0.43333),18px 18px 0 rgba(117, 125, 58, 0.4),19px 19px 0 rgba(117, 125, 58, 0.36667),20px 20px 0 rgba(117, 125, 58, 0.33333),21px 21px 0 rgba(117, 125, 58, 0.3),22px 22px 0 rgba(117, 125, 58, 0.26667),23px 23px 0 rgba(117, 125, 58, 0.23333),24px 24px 0 rgba(117, 125, 58, 0.2),25px 25px 0 rgba(117, 125, 58, 0.16667),26px 26px 0 rgba(117, 125, 58, 0.13333),27px 27px 0 rgba(117, 125, 58, 0.1),28px 28px 0 rgba(117, 125, 58, 0.06667),30px 30px 0 rgba(117, 125, 58, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-magento {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-magento, .pe-bg.pe-longshadow.pe-hover.pe-so-magento:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-magento
+   * *
+   * */
+  text-shadow: 0px 0px 0 #c4390f,1px 1px 0 #c4390f,2px 2px 0 #c4390f,3px 3px 0 #c4390f,4px 4px 0 #c4390f,5px 5px 0 #c4390f,6px 6px 0 #c4390f,7px 7px 0 #c4390f,8px 8px 0 #c4390f,9px 9px 0 #c4390f,10px 10px 0 #c4390f,11px 11px 0 #c4390f,12px 12px 0 #c4390f,13px 13px 0 #c4390f,14px 14px 0 #c4390f,15px 15px 0 #c4390f,16px 16px 0 #c4390f,17px 17px 0 #c4390f,18px 18px 0 #c4390f,19px 19px 0 #c4390f,20px 20px 0 #c4390f,21px 21px 0 #c4390f,22px 22px 0 #c4390f,23px 23px 0 #c4390f,24px 24px 0 #c4390f,25px 25px 0 #c4390f,26px 26px 0 #c4390f,27px 27px 0 #c4390f,28px 28px 0 #c4390f,1px 1px 0 rgba(196, 57, 15, 0.96667),2px 2px 0 rgba(196, 57, 15, 0.93333),3px 3px 0 rgba(196, 57, 15, 0.9),4px 4px 0 rgba(196, 57, 15, 0.86667),5px 5px 0 rgba(196, 57, 15, 0.83333),6px 6px 0 rgba(196, 57, 15, 0.8),7px 7px 0 rgba(196, 57, 15, 0.76667),8px 8px 0 rgba(196, 57, 15, 0.73333),9px 9px 0 rgba(196, 57, 15, 0.7),10px 10px 0 rgba(196, 57, 15, 0.66667),11px 11px 0 rgba(196, 57, 15, 0.63333),12px 12px 0 rgba(196, 57, 15, 0.6),13px 13px 0 rgba(196, 57, 15, 0.56667),14px 14px 0 rgba(196, 57, 15, 0.53333),15px 15px 0 rgba(196, 57, 15, 0.5),16px 16px 0 rgba(196, 57, 15, 0.46667),17px 17px 0 rgba(196, 57, 15, 0.43333),18px 18px 0 rgba(196, 57, 15, 0.4),19px 19px 0 rgba(196, 57, 15, 0.36667),20px 20px 0 rgba(196, 57, 15, 0.33333),21px 21px 0 rgba(196, 57, 15, 0.3),22px 22px 0 rgba(196, 57, 15, 0.26667),23px 23px 0 rgba(196, 57, 15, 0.23333),24px 24px 0 rgba(196, 57, 15, 0.2),25px 25px 0 rgba(196, 57, 15, 0.16667),26px 26px 0 rgba(196, 57, 15, 0.13333),27px 27px 0 rgba(196, 57, 15, 0.1),28px 28px 0 rgba(196, 57, 15, 0.06667),30px 30px 0 rgba(196, 57, 15, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-sass {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-sass, .pe-bg.pe-longshadow.pe-hover.pe-so-sass:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-sass
+   * *
+   * */
+  text-shadow: 0px 0px 0 #bf4080,1px 1px 0 #bf4080,2px 2px 0 #bf4080,3px 3px 0 #bf4080,4px 4px 0 #bf4080,5px 5px 0 #bf4080,6px 6px 0 #bf4080,7px 7px 0 #bf4080,8px 8px 0 #bf4080,9px 9px 0 #bf4080,10px 10px 0 #bf4080,11px 11px 0 #bf4080,12px 12px 0 #bf4080,13px 13px 0 #bf4080,14px 14px 0 #bf4080,15px 15px 0 #bf4080,16px 16px 0 #bf4080,17px 17px 0 #bf4080,18px 18px 0 #bf4080,19px 19px 0 #bf4080,20px 20px 0 #bf4080,21px 21px 0 #bf4080,22px 22px 0 #bf4080,23px 23px 0 #bf4080,24px 24px 0 #bf4080,25px 25px 0 #bf4080,26px 26px 0 #bf4080,27px 27px 0 #bf4080,28px 28px 0 #bf4080,1px 1px 0 rgba(191, 64, 128, 0.96667),2px 2px 0 rgba(191, 64, 128, 0.93333),3px 3px 0 rgba(191, 64, 128, 0.9),4px 4px 0 rgba(191, 64, 128, 0.86667),5px 5px 0 rgba(191, 64, 128, 0.83333),6px 6px 0 rgba(191, 64, 128, 0.8),7px 7px 0 rgba(191, 64, 128, 0.76667),8px 8px 0 rgba(191, 64, 128, 0.73333),9px 9px 0 rgba(191, 64, 128, 0.7),10px 10px 0 rgba(191, 64, 128, 0.66667),11px 11px 0 rgba(191, 64, 128, 0.63333),12px 12px 0 rgba(191, 64, 128, 0.6),13px 13px 0 rgba(191, 64, 128, 0.56667),14px 14px 0 rgba(191, 64, 128, 0.53333),15px 15px 0 rgba(191, 64, 128, 0.5),16px 16px 0 rgba(191, 64, 128, 0.46667),17px 17px 0 rgba(191, 64, 128, 0.43333),18px 18px 0 rgba(191, 64, 128, 0.4),19px 19px 0 rgba(191, 64, 128, 0.36667),20px 20px 0 rgba(191, 64, 128, 0.33333),21px 21px 0 rgba(191, 64, 128, 0.3),22px 22px 0 rgba(191, 64, 128, 0.26667),23px 23px 0 rgba(191, 64, 128, 0.23333),24px 24px 0 rgba(191, 64, 128, 0.2),25px 25px 0 rgba(191, 64, 128, 0.16667),26px 26px 0 rgba(191, 64, 128, 0.13333),27px 27px 0 rgba(191, 64, 128, 0.1),28px 28px 0 rgba(191, 64, 128, 0.06667),30px 30px 0 rgba(191, 64, 128, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-ubuntu {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-ubuntu, .pe-bg.pe-longshadow.pe-hover.pe-so-ubuntu:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-ubuntu
+   * *
+   * */
+  text-shadow: 0px 0px 0 #ae3910,1px 1px 0 #ae3910,2px 2px 0 #ae3910,3px 3px 0 #ae3910,4px 4px 0 #ae3910,5px 5px 0 #ae3910,6px 6px 0 #ae3910,7px 7px 0 #ae3910,8px 8px 0 #ae3910,9px 9px 0 #ae3910,10px 10px 0 #ae3910,11px 11px 0 #ae3910,12px 12px 0 #ae3910,13px 13px 0 #ae3910,14px 14px 0 #ae3910,15px 15px 0 #ae3910,16px 16px 0 #ae3910,17px 17px 0 #ae3910,18px 18px 0 #ae3910,19px 19px 0 #ae3910,20px 20px 0 #ae3910,21px 21px 0 #ae3910,22px 22px 0 #ae3910,23px 23px 0 #ae3910,24px 24px 0 #ae3910,25px 25px 0 #ae3910,26px 26px 0 #ae3910,27px 27px 0 #ae3910,28px 28px 0 #ae3910,1px 1px 0 rgba(174, 57, 16, 0.96667),2px 2px 0 rgba(174, 57, 16, 0.93333),3px 3px 0 rgba(174, 57, 16, 0.9),4px 4px 0 rgba(174, 57, 16, 0.86667),5px 5px 0 rgba(174, 57, 16, 0.83333),6px 6px 0 rgba(174, 57, 16, 0.8),7px 7px 0 rgba(174, 57, 16, 0.76667),8px 8px 0 rgba(174, 57, 16, 0.73333),9px 9px 0 rgba(174, 57, 16, 0.7),10px 10px 0 rgba(174, 57, 16, 0.66667),11px 11px 0 rgba(174, 57, 16, 0.63333),12px 12px 0 rgba(174, 57, 16, 0.6),13px 13px 0 rgba(174, 57, 16, 0.56667),14px 14px 0 rgba(174, 57, 16, 0.53333),15px 15px 0 rgba(174, 57, 16, 0.5),16px 16px 0 rgba(174, 57, 16, 0.46667),17px 17px 0 rgba(174, 57, 16, 0.43333),18px 18px 0 rgba(174, 57, 16, 0.4),19px 19px 0 rgba(174, 57, 16, 0.36667),20px 20px 0 rgba(174, 57, 16, 0.33333),21px 21px 0 rgba(174, 57, 16, 0.3),22px 22px 0 rgba(174, 57, 16, 0.26667),23px 23px 0 rgba(174, 57, 16, 0.23333),24px 24px 0 rgba(174, 57, 16, 0.2),25px 25px 0 rgba(174, 57, 16, 0.16667),26px 26px 0 rgba(174, 57, 16, 0.13333),27px 27px 0 rgba(174, 57, 16, 0.1),28px 28px 0 rgba(174, 57, 16, 0.06667),30px 30px 0 rgba(174, 57, 16, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-like {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-like, .pe-bg.pe-longshadow.pe-hover.pe-so-like:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-like
+   * *
+   * */
+  text-shadow: 0px 0px 0 #2f4574,1px 1px 0 #2f4574,2px 2px 0 #2f4574,3px 3px 0 #2f4574,4px 4px 0 #2f4574,5px 5px 0 #2f4574,6px 6px 0 #2f4574,7px 7px 0 #2f4574,8px 8px 0 #2f4574,9px 9px 0 #2f4574,10px 10px 0 #2f4574,11px 11px 0 #2f4574,12px 12px 0 #2f4574,13px 13px 0 #2f4574,14px 14px 0 #2f4574,15px 15px 0 #2f4574,16px 16px 0 #2f4574,17px 17px 0 #2f4574,18px 18px 0 #2f4574,19px 19px 0 #2f4574,20px 20px 0 #2f4574,21px 21px 0 #2f4574,22px 22px 0 #2f4574,23px 23px 0 #2f4574,24px 24px 0 #2f4574,25px 25px 0 #2f4574,26px 26px 0 #2f4574,27px 27px 0 #2f4574,28px 28px 0 #2f4574,1px 1px 0 rgba(47, 69, 116, 0.96667),2px 2px 0 rgba(47, 69, 116, 0.93333),3px 3px 0 rgba(47, 69, 116, 0.9),4px 4px 0 rgba(47, 69, 116, 0.86667),5px 5px 0 rgba(47, 69, 116, 0.83333),6px 6px 0 rgba(47, 69, 116, 0.8),7px 7px 0 rgba(47, 69, 116, 0.76667),8px 8px 0 rgba(47, 69, 116, 0.73333),9px 9px 0 rgba(47, 69, 116, 0.7),10px 10px 0 rgba(47, 69, 116, 0.66667),11px 11px 0 rgba(47, 69, 116, 0.63333),12px 12px 0 rgba(47, 69, 116, 0.6),13px 13px 0 rgba(47, 69, 116, 0.56667),14px 14px 0 rgba(47, 69, 116, 0.53333),15px 15px 0 rgba(47, 69, 116, 0.5),16px 16px 0 rgba(47, 69, 116, 0.46667),17px 17px 0 rgba(47, 69, 116, 0.43333),18px 18px 0 rgba(47, 69, 116, 0.4),19px 19px 0 rgba(47, 69, 116, 0.36667),20px 20px 0 rgba(47, 69, 116, 0.33333),21px 21px 0 rgba(47, 69, 116, 0.3),22px 22px 0 rgba(47, 69, 116, 0.26667),23px 23px 0 rgba(47, 69, 116, 0.23333),24px 24px 0 rgba(47, 69, 116, 0.2),25px 25px 0 rgba(47, 69, 116, 0.16667),26px 26px 0 rgba(47, 69, 116, 0.13333),27px 27px 0 rgba(47, 69, 116, 0.1),28px 28px 0 rgba(47, 69, 116, 0.06667),30px 30px 0 rgba(47, 69, 116, 0);
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-chrome {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-chrome, .pe-bg.pe-longshadow.pe-hover.pe-so-chrome:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-chrome
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-delicious {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-delicious, .pe-bg.pe-longshadow.pe-hover.pe-so-delicious:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-delicious
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-ebay {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-ebay, .pe-bg.pe-longshadow.pe-hover.pe-so-ebay:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-ebay
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-flickr {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-flickr, .pe-bg.pe-longshadow.pe-hover.pe-so-flickr:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-flickr
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-google-drive {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-google-drive, .pe-bg.pe-longshadow.pe-hover.pe-so-google-drive:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-google-drive
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-joomla {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-joomla, .pe-bg.pe-longshadow.pe-hover.pe-so-joomla:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-joomla
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+.pe-bg.pe-longshadow.pe-hover.pe-so-picasa {
+  text-shadow: none;
+}
+.pe-bg.pe-longshadow.pe-so-picasa, .pe-bg.pe-longshadow.pe-hover.pe-so-picasa:hover {
+  /* *
+   * *
+   * *    Long shadow style for the icon:
+   * *    .pe-so-picasa
+   * *
+   * */
+  text-shadow: 0px 0px 0 black,1px 1px 0 black,2px 2px 0 black,3px 3px 0 black,4px 4px 0 black,5px 5px 0 black,6px 6px 0 black,7px 7px 0 black,8px 8px 0 black,9px 9px 0 black,10px 10px 0 black,11px 11px 0 black,12px 12px 0 black,13px 13px 0 black,14px 14px 0 black,15px 15px 0 black,16px 16px 0 black,17px 17px 0 black,18px 18px 0 black,19px 19px 0 black,20px 20px 0 black,21px 21px 0 black,22px 22px 0 black,23px 23px 0 black,24px 24px 0 black,25px 25px 0 black,26px 26px 0 black,27px 27px 0 black,28px 28px 0 black,1px 1px 0 rgba(0, 0, 0, 0.96667),2px 2px 0 rgba(0, 0, 0, 0.93333),3px 3px 0 rgba(0, 0, 0, 0.9),4px 4px 0 rgba(0, 0, 0, 0.86667),5px 5px 0 rgba(0, 0, 0, 0.83333),6px 6px 0 rgba(0, 0, 0, 0.8),7px 7px 0 rgba(0, 0, 0, 0.76667),8px 8px 0 rgba(0, 0, 0, 0.73333),9px 9px 0 rgba(0, 0, 0, 0.7),10px 10px 0 rgba(0, 0, 0, 0.66667),11px 11px 0 rgba(0, 0, 0, 0.63333),12px 12px 0 rgba(0, 0, 0, 0.6),13px 13px 0 rgba(0, 0, 0, 0.56667),14px 14px 0 rgba(0, 0, 0, 0.53333),15px 15px 0 rgba(0, 0, 0, 0.5),16px 16px 0 rgba(0, 0, 0, 0.46667),17px 17px 0 rgba(0, 0, 0, 0.43333),18px 18px 0 rgba(0, 0, 0, 0.4),19px 19px 0 rgba(0, 0, 0, 0.36667),20px 20px 0 rgba(0, 0, 0, 0.33333),21px 21px 0 rgba(0, 0, 0, 0.3),22px 22px 0 rgba(0, 0, 0, 0.26667),23px 23px 0 rgba(0, 0, 0, 0.23333),24px 24px 0 rgba(0, 0, 0, 0.2),25px 25px 0 rgba(0, 0, 0, 0.16667),26px 26px 0 rgba(0, 0, 0, 0.13333),27px 27px 0 rgba(0, 0, 0, 0.1),28px 28px 0 rgba(0, 0, 0, 0.06667),30px 30px 0 transparent;
+}
+
+
